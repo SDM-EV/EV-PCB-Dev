@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ESP32_MCU_Template.kicad_prl",
+    "filename": "BMS_Temp_Board.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
