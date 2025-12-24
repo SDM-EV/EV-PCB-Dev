@@ -8183,10 +8183,6 @@
 		(uuid "97a980fd-ad27-481f-8f86-431b87e1d6af")
 	)
 	(no_connect
-		(at 82.55 40.64)
-		(uuid "9e74f91b-87bd-4655-80a0-73ca47867a69")
-	)
-	(no_connect
 		(at 220.98 69.85)
 		(uuid "a15e8465-2b5c-4d78-b54c-91fbc3e9233c")
 	)
@@ -17211,6 +17207,16 @@
 			(type default)
 		)
 		(uuid "678e5890-f49a-4eec-bc5e-6b7ac6a52147")
+	)
+	(wire
+		(pts
+			(xy 82.55 40.64) (xy 92.71 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67c10201-b462-4254-a1f6-ca1babd53e6c")
 	)
 	(wire
 		(pts
@@ -31501,6 +31507,16 @@
 			(justify right bottom)
 		)
 		(uuid "8a4b052b-b634-45a3-85fc-310eb7abdf7f")
+	)
+	(label "USER_LED"
+		(at 92.71 40.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8d6c4bd2-7c91-48b7-a094-8e8fb02007f6")
 	)
 	(label "Mux Out"
 		(at 162.56 307.34 270)
