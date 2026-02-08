@@ -1,4 +1,4 @@
-26650538441198439
+26654080963615399
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+B2B_PH_K_S
+JST_B2B-PH-K-S
+
+
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -61376,12 +61383,19 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 ESP32_S3_WROOM_1_N8R8
+JST_PUD_B32B-PUDSS_2x16_P2.00mm_Vertical_PN
+JST PUD series connector, B32B-PUDSS (http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf), generated with kicad-footprint-generator
+connector JST PUD vertical
+0
+32
+32
+ESP32_S3_WROOM_1_N8R8
 XCVR_ESP32S3WROOM1N8R8
 
 
 0
-61
-61
+49
+49
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
