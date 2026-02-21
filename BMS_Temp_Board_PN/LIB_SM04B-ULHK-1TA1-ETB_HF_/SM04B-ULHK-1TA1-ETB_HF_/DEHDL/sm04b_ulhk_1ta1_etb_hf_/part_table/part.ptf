@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SM04B_ULHK_1TA1_ETB_HF_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "JST (JAPAN SOLDERLESS TERMINALS)", "SM04B-ULHK-1TA1-ETB(HF)" (!) = "", "SM04BULHK1TA1ETBHF", "Other", "306-SM4BULH1TA1ETBHF", "https://www.mouser.co.uk/ProductDetail/JST-Automotive/SM04B-ULHK-1TA1-ETBHF?qs=T%252BzbugeAwjhMN2sH8j2Cng%3D%3D", "Automotive Connectors 4P ULH Series 0.50 SMT Side Entry Header Key 1 Tin Black", "https://www.jst-mfg.com/product/pdf/eng/eULH.pdf?65dd9a2fd1056", "3.5 mm"
+END_PART
+
+END.

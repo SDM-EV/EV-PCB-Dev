@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SM04B-ULHK-1TA1-ETB_HF_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-05-23-10:14:41)
+    (mountForm default
+        (footprintRef "SM04BULHK1TA1ETBHF")
+        (spec "System")
+    )
+)

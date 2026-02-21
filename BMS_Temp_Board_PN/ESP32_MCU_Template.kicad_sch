@@ -2464,6 +2464,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Power_Protection:USBLC6-2SC6"
 			(pin_names
 				(hide yes)
@@ -6496,6 +6579,230 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SM04B-ULHK-1TA1-ETB_HF_:SM04B-ULHK-1TA1-ETB_HF_"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 19.05 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "SM04B-ULHK-1TA1-ETB_HF_"
+				(at 19.05 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SM04BULHK1TA1ETBHF"
+				(at 19.05 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eULH.pdf?65dd9a2fd1056"
+				(at 19.05 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Automotive Connectors 4P ULH Series 0.50 SMT Side Entry Header Key 1 Tin Black"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "3.5"
+				(at 19.05 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "306-SM4BULH1TA1ETBHF"
+				(at 19.05 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Automotive/SM04B-ULHK-1TA1-ETBHF?qs=T%252BzbugeAwjhMN2sH8j2Cng%3D%3D"
+				(at 19.05 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+				(at 19.05 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "SM04B-ULHK-1TA1-ETB(HF)"
+				(at 19.05 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "SM04B-ULHK-1TA1-ETB_HF__1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 17.78 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 0 180)
+					(length 5.08)
+					(name "MP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -2.54 180)
+					(length 5.08)
+					(name "MP2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SN65HVD230_1"
 			(pin_names
 				(offset 1.016)
@@ -8868,6 +9175,10 @@
 		(uuid "75880ab2-4baf-4e6f-b6f0-95aec80cc6f7")
 	)
 	(no_connect
+		(at 356.87 250.19)
+		(uuid "773c375d-0d81-4d01-be55-80a8086ff118")
+	)
+	(no_connect
 		(at 49.53 35.56)
 		(uuid "786389cb-61a2-468b-89f5-9e693a520989")
 	)
@@ -8922,6 +9233,10 @@
 	(no_connect
 		(at 49.53 48.26)
 		(uuid "ce29c507-5557-47e8-aee1-cdaf5ded11cb")
+	)
+	(no_connect
+		(at 356.87 252.73)
+		(uuid "cf8303f8-3c20-4550-87e7-7a0fd554191a")
 	)
 	(no_connect
 		(at 208.28 52.07)
@@ -13280,6 +13595,16 @@
 	)
 	(wire
 		(pts
+			(xy 326.39 243.84) (xy 326.39 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "589926a4-b2a3-4492-9c17-e1bde71c227f")
+	)
+	(wire
+		(pts
 			(xy 50.8 154.94) (xy 50.8 157.48)
 		)
 		(stroke
@@ -13967,6 +14292,16 @@
 			(type default)
 		)
 		(uuid "6a224a75-908e-4e45-87e5-3f38da6e1ef5")
+	)
+	(wire
+		(pts
+			(xy 326.39 255.27) (xy 334.01 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a47d580-d44f-43c7-a56d-7c21a3e7df37")
 	)
 	(wire
 		(pts
@@ -14750,6 +15085,16 @@
 	)
 	(wire
 		(pts
+			(xy 334.01 250.19) (xy 326.39 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a70713f-9333-4706-8621-0b7e7b3c0328")
+	)
+	(wire
+		(pts
 			(xy 264.16 203.2) (xy 264.16 213.36)
 		)
 		(stroke
@@ -15427,6 +15772,16 @@
 			(type default)
 		)
 		(uuid "897bbc57-2c31-4a3d-9bb0-95d6250ba206")
+	)
+	(wire
+		(pts
+			(xy 326.39 257.81) (xy 334.01 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89a319ca-443e-46b9-912e-768c4fdf288a")
 	)
 	(wire
 		(pts
@@ -16567,6 +16922,16 @@
 			(type default)
 		)
 		(uuid "a08c05a1-2f6d-4937-b18f-cf695302a9a8")
+	)
+	(wire
+		(pts
+			(xy 326.39 261.62) (xy 326.39 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a09e56c0-0383-4d41-8aa6-e6e31169ca60")
 	)
 	(wire
 		(pts
@@ -19510,6 +19875,16 @@
 	)
 	(wire
 		(pts
+			(xy 326.39 252.73) (xy 334.01 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc2e8f3e-7cdb-4610-8b27-6eb563f6718b")
+	)
+	(wire
+		(pts
 			(xy 370.84 31.75) (xy 370.84 38.1)
 		)
 		(stroke
@@ -21328,6 +21703,16 @@
 		)
 		(uuid "ffbaef30-5672-48fd-a08c-ff714fc7a058")
 	)
+	(label "CAN+"
+		(at 326.39 255.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "05820d45-dd85-4b25-940b-02e16981e62f")
+	)
 	(label "MUX_S2"
 		(at 168.91 176.53 270)
 		(effects
@@ -21477,6 +21862,16 @@
 			(justify left bottom)
 		)
 		(uuid "3283e62f-7c52-4770-ad23-2d5e0e55ecaa")
+	)
+	(label "CAN-"
+		(at 326.39 252.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3475eb6e-833f-4625-89b5-bfa04a876f29")
 	)
 	(label "MUX_S2"
 		(at 259.08 176.53 270)
@@ -22237,6 +22632,70 @@
 			(justify right bottom)
 		)
 		(uuid "f252b604-95ab-4845-a9b5-d5cdeda1fa7d")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 396.24 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00715874-0106-426f-9570-2ab11e4a66aa")
+		(property "Reference" "H2"
+			(at 398.78 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 398.78 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 396.24 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 396.24 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 396.24 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ESP32_MCU_Template"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -24615,6 +25074,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 326.39 261.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "385958eb-f84f-4146-8cd5-287d493d367d")
+		(property "Reference" "#PWR064"
+			(at 326.39 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 326.39 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 326.39 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 326.39 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 326.39 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a64218f-2937-48a5-a97b-75e9f9859272")
+		)
+		(instances
+			(project "ESP32_MCU_Template"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "B32B-PUDSS-1_LF__SN_:B32B-PUDSS-1_LF__SN_")
 		(at 297.18 127 0)
 		(unit 1)
@@ -25619,6 +26144,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 396.24 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5a4ca396-bf0e-49f1-93b1-58af2ef47d21")
+		(property "Reference" "H1"
+			(at 398.78 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 398.78 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 396.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 396.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 396.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 354.33 124.46 0)
 		(unit 1)
@@ -26219,6 +26808,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 396.24 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70e8ec3e-f56c-4f7f-b1d3-5dd1f571a8f8")
+		(property "Reference" "H3"
+			(at 398.78 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 398.78 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 396.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 396.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 396.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ESP32_MCU_Template"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 264.16 124.46 0)
 		(unit 1)
@@ -26572,6 +27225,138 @@
 		)
 	)
 	(symbol
+		(lib_id "SM04B-ULHK-1TA1-ETB_HF_:SM04B-ULHK-1TA1-ETB_HF_")
+		(at 334.01 250.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75e5dbeb-32b1-492a-b276-3282b4556e15")
+		(property "Reference" "J13"
+			(at 345.44 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SM04B-ULHK-1TA1-ETB_HF_"
+			(at 345.44 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SM04B-ULH:SM04BULHK1TA1ETBHF"
+			(at 353.06 345.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eULH.pdf?65dd9a2fd1056"
+			(at 353.06 445.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Automotive Connectors 4P ULH Series 0.50 SMT Side Entry Header Key 1 Tin Black"
+			(at 334.01 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "3.5"
+			(at 353.06 645.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "306-SM4BULH1TA1ETBHF"
+			(at 353.06 745.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Automotive/SM04B-ULHK-1TA1-ETBHF?qs=T%252BzbugeAwjhMN2sH8j2Cng%3D%3D"
+			(at 353.06 845.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+			(at 353.06 945.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SM04B-ULHK-1TA1-ETB(HF)"
+			(at 353.06 1045.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "23ae31a6-b035-43ec-9a32-3b144a17bc02")
+		)
+		(pin "2"
+			(uuid "0caf2e22-c5d8-486b-9dc8-31ec7b052f68")
+		)
+		(pin "6"
+			(uuid "4adf1b2c-dcfb-4f26-8cbe-fc100891e3c2")
+		)
+		(pin "1"
+			(uuid "832585a6-63b6-4ad4-998e-5a97b0297355")
+		)
+		(pin "5"
+			(uuid "f0a38c8c-d8d0-496a-b885-6b213ddff86d")
+		)
+		(pin "4"
+			(uuid "7f95d217-8c56-47b0-8c00-f2ad08010fba")
+		)
+		(instances
+			(project ""
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SDM_TRANSISTOR:MMBT2222LT1G")
 		(at 218.44 46.99 0)
 		(mirror x)
@@ -26736,6 +27521,70 @@
 			(project "ESP32_MCU_Template"
 				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
 					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 396.24 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a169e3d-87b4-46cd-81af-f0ab41afa319")
+		(property "Reference" "H4"
+			(at 398.78 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 398.78 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 396.24 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 396.24 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 396.24 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ESP32_MCU_Template"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -28009,6 +28858,72 @@
 			(project "ESP32_MCU_Template"
 				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 326.39 243.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fb6a6ac-b9b8-4392-9fce-90a1c1362871")
+		(property "Reference" "#PWR065"
+			(at 326.39 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 326.39 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 326.39 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 326.39 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 326.39 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "034c146e-6cc0-4824-b282-a4442d49e85f")
+		)
+		(instances
+			(project "ESP32_MCU_Template"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)

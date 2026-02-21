@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SM04BULHK1TA1ETBHF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SM04BULHK1TA1ETBHF")
+        (spec "default")
+    )
+)

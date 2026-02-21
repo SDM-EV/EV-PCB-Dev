@@ -6,4 +6,5 @@
   (lib (name "TPL175A")(type "KiCad")(uri "${KIPRJMOD}/TLP175A_TPL_E/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "TPS2116DRLR")(type "KiCad")(uri "${KIPRJMOD}/TPS2116DRLR")(options "")(descr ""))
   (lib (name "B2B_PH_K_S")(type "KiCad")(uri "${KIPRJMOD}/B2B_PH_K_S")(options "")(descr ""))
+  (lib (name "SM04B-ULH")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board_PN/LIB_SM04B-ULHK-1TA1-ETB_HF_/SM04B-ULHK-1TA1-ETB_HF_/KiCad")(options "")(descr ""))
 )
