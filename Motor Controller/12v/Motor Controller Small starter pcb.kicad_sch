@@ -1000,16 +1000,16 @@
 		(uuid "5feb7243-011e-4aba-8d15-81d52702b51f")
 	)
 	(junction
-		(at 144.78 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1125894-248b-43b4-a3be-44f7ff660814")
-	)
-	(junction
 		(at 119.38 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4f107f1-febc-4962-bfec-094e2eb7d9b4")
+	)
+	(junction
+		(at 142.24 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8652be6-3cdf-4669-b6a7-bd67d8c0e44d")
 	)
 	(wire
 		(pts
@@ -1033,7 +1033,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 101.6) (xy 115.57 104.14)
+			(xy 119.38 101.6) (xy 119.38 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1063,26 +1063,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 60.96) (xy 142.24 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f792701-45d0-46fb-b6b9-82e5b14af14a")
-	)
-	(wire
-		(pts
-			(xy 119.38 101.6) (xy 115.57 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22a1a3b2-2cc7-441a-8e61-27a72e88bd26")
-	)
-	(wire
-		(pts
 			(xy 119.38 101.6) (xy 128.27 101.6)
 		)
 		(stroke
@@ -1103,6 +1083,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 58.42) (xy 142.24 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30aadbbf-0b81-4f0d-bcb6-51086b200fac")
+	)
+	(wire
+		(pts
 			(xy 142.24 63.5) (xy 143.51 63.5)
 		)
 		(stroke
@@ -1110,16 +1100,6 @@
 			(type default)
 		)
 		(uuid "31614241-c3c1-4623-9b2e-a440ea801a5d")
-	)
-	(wire
-		(pts
-			(xy 144.78 80.01) (xy 154.94 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "344138e4-7d61-49ac-93b9-d82a4c8ebad6")
 	)
 	(wire
 		(pts
@@ -1133,6 +1113,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 59.69) (xy 148.59 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b4ebb56-e189-4896-82a7-56d9d2b29a83")
+	)
+	(wire
+		(pts
 			(xy 127 68.58) (xy 127 66.04)
 		)
 		(stroke
@@ -1143,33 +1133,13 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 58.42) (xy 142.24 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c9ba0ec-f906-4a06-87df-1be8beb746c1")
-	)
-	(wire
-		(pts
-			(xy 143.51 80.01) (xy 144.78 80.01)
+			(xy 143.51 80.01) (xy 148.59 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "61237c2d-d676-48fc-9641-4e19a90baa28")
-	)
-	(wire
-		(pts
-			(xy 154.94 58.42) (xy 154.94 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b3e2ebd-4183-4ea0-80de-ec7c41fbdc1c")
 	)
 	(wire
 		(pts
@@ -1223,6 +1193,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 59.69) (xy 142.24 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99066fc0-59dd-4ac1-a161-dcbd829f8f75")
+	)
+	(wire
+		(pts
 			(xy 119.38 63.5) (xy 129.54 63.5)
 		)
 		(stroke
@@ -1233,7 +1213,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 113.03) (xy 144.78 113.03)
+			(xy 119.38 113.03) (xy 144.78 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1293,37 +1273,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 77.47) (xy 152.4 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c16133d2-0623-446e-9297-216e9899ec0d")
-	)
-	(wire
-		(pts
-			(xy 144.78 80.01) (xy 144.78 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2184645-edbe-48c5-8397-94e9736be12c")
-	)
-	(wire
-		(pts
-			(xy 152.4 60.96) (xy 152.4 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6653826-5a1b-412a-9791-ccf353321908")
-	)
-	(wire
-		(pts
-			(xy 115.57 111.76) (xy 115.57 113.03)
+			(xy 119.38 111.76) (xy 119.38 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1350,6 +1300,16 @@
 			(type default)
 		)
 		(uuid "f0da6c30-bd24-4f25-9337-6cffc46a796d")
+	)
+	(wire
+		(pts
+			(xy 148.59 59.69) (xy 148.59 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f73a63de-d7d9-4af8-9216-cd838ec7abbb")
 	)
 	(wire
 		(pts
@@ -1807,7 +1767,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 115.57 107.95 90)
+		(at 119.38 107.95 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1816,7 +1776,7 @@
 		(fields_autoplaced yes)
 		(uuid "e345cd46-8a49-4821-ad38-9b59f97ef555")
 		(property "Reference" "D3"
-			(at 119.38 108.2674 90)
+			(at 123.19 108.2674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1825,7 +1785,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 119.38 110.8074 90)
+			(at 123.19 110.8074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1834,7 +1794,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 115.57 107.95 0)
+			(at 119.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1843,7 +1803,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 107.95 0)
+			(at 119.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1852,7 +1812,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 115.57 107.95 0)
+			(at 119.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1861,7 +1821,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 115.57 107.95 0)
+			(at 119.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
