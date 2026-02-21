@@ -1,0 +1,36 @@
+Reference,Qty,Value,Price per,Total Price,Exclude from Board,Footprint,Datasheet
+"C1,C4,C7,C8,C9",5,1uF,$0.15,$0.75,,Capacitor_SMD:C_0603_1608Metric,~
+"C2,C12,C14",3,10uF,$0.15,$0.45,,Capacitor_SMD:C_0603_1608Metric,~
+"C3,C6,C11,C13",4,100nF,$0.15,$0.60,,Capacitor_SMD:C_0603_1608Metric,~
+C5,1,4.7uF,$0.15,$0.15,,Capacitor_SMD:C_0603_1608Metric,~
+C10,1,100uF,$0.15,$0.15,,Capacitor_SMD:C_0603_1608Metric,~
+D1,1,ESDCAN03-2BWY,$0.22,$0.22,,Package_TO_SOT_SMD:SOT-323_SC-70,https://www.mouser.de/datasheet/2/389/esdcan02-2bwy-954689.pdf
+IC1,1,ESP32-S3-WROOM-1-N8R8,$6.23,$6.23,,ESP32_S3_WROOM_1_N8R8:XCVR_ESP32S3WROOM1N8R8,https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+IC2,1,CP2102N-A02-GQFN28,$3.96,$3.96,,CP2102N_A02_GQFN28:QFN50P500X500X80-29N,https://componentsearchengine.com/Datasheets/2/CP2102N-A02-GQFN28.pdf
+IC3,1,"TLP175A_TPL,E",$1.16,$1.16,,TPL175A:4pin SO6TLP17XX_TOS,http://toshiba.semicon-storage.com/info/docget.jsp?did=13665&prodName=TLP175A
+IC4,1,TPS2116DRLR,$0.90,$0.90,,TPS2116DRLR:SOTFL50P160X60-8N,https://www.ti.com/lit/gpn/tps2116
+IC5,1,MIC37100-3.3WS,$1.70,$1.70,,Package_TO_SOT_SMD:SOT-223,https://datasheet.datasheetarchive.com/originals/dk/DKDS-15/281099.pdf
+"IC6,IC7,IC8,IC9,IC10,IC11,IC12,IC13,IC14,IC15",10,CD74HC4067PWR,$1.12,$11.20,,CD74HC4067PWR:TSSOP24_4P5X7P9_TEX,https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf?ts=1752945808096
+J1,1,ESP_USB,,$0.00,,Connector_USB:USB_Micro-B_Molex-105017-0001,~
+"J2,J3,J4,J5,J6,J7,J8,J9,J10,J11",10,B32B-PUDSS-1_LF__SN_,$0.94,$9.40,,ESP32_S3_WROOM_1_N8R8:JST_PUD_B32B-PUDSS_2x16_P2.00mm_Vertical_PN,https://www.jst-mfg.com/product/pdf/eng/ePUD.pdf
+J12,1,B2B-PH-K-S,$0.12,$0.12,,B2B_PH_K_S:JST_B2B-PH-K-S,
+LED1,1,GREEN,$0.10,$0.10,,LED_SMD:LED_0603_1608Metric,
+LED2,1,150060RS75000,$0.10,$0.10,,LED_SMD:LED_0603_1608Metric,https://www.we-online.com/components/products/datasheet/150060RS75000.pdf
+LED3,1,LED,$0.10,$0.10,,LED_SMD:LED_0603_1608Metric,~
+"Q1,Q2",2,MMBT2222LT1G,$0.14,$0.28,,Package_TO_SOT_SMD:TSOT-23,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs
+"R1,R7,R8,R10,R11,R13,R15",7,10k,$0.15,$1.05,,Resistor_SMD:R_0603_1608Metric,~
+"R2,R16",2,220,$0.15,$0.30,,Resistor_SMD:R_0603_1608Metric,~
+"R3,R4",2,27,$0.15,$0.30,,Resistor_SMD:R_0603_1608Metric,~
+R5,1,22.1K,$0.15,$0.15,,Resistor_SMD:R_0603_1608Metric,~
+R6,1,47.5K,$0.15,$0.15,,Resistor_SMD:R_0603_1608Metric,~
+R9,1,1k,$0.15,$0.15,,Resistor_SMD:R_0603_1608Metric,~
+R12,1,120,$0.15,$0.15,,Resistor_SMD:R_0603_1608Metric,~
+R14,1,68,$0.15,$0.15,,Resistor_SMD:R_0603_1608Metric,~
+TP1,1,ST_5V,,$0.00,,TestPoint:TestPoint_Pad_1.5x1.5mm,~
+U1,1,USBLC6-2SC6,$0.36,$0.36,,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+U2,1,SN65HVD230,$3.14,$3.14,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+,,Total components------------>,,$43.47,,,
+,10,PUDSS Connector other side,$0.44,$4.40,,,
+,,PCB Printing,,$31.30,,,
+,160,Thermistors,$0.22,$35.20,,,
+,,,,$114.37,,,

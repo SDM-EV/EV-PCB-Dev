@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=SM04B-ULHK-1TA1-ETB(HF)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=2.2
+Released=2024-02-27 10:40:21
+Downloaded=2026-02-21 17:35:03
+3D=Y

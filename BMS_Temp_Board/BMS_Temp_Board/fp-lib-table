@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "BMS_Temp_Library")(type "KiCad")(uri "${KIPRJMOD}/BMS_Temp_Library.pretty")(options "")(descr ""))
-)
