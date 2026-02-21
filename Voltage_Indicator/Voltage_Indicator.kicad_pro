@@ -502,7 +502,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Voltage_Indicator_Netlist.net",
-      "plot": "",
+      "plot": "Manufacturing_Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

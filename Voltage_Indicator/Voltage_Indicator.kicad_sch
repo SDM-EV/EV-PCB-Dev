@@ -2795,7 +2795,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Symbols:PET-02-XX-X-VT-LC"
+		(symbol "Symbols:PES-02-01-X-RA-SD"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2803,7 +2803,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at -5.08 3.302 0)
+				(at -5.08 3.429 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2811,16 +2811,16 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "PET-02-XX-X-VT-LC"
-				(at -5.08 -5.842 0)
+			(property "Value" "PES-02-01-X-RA-SD"
+				(at -5.08 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "PET-02-XX-X-VT-LC:SAMTEC_PET-02-XX-X-VT-LC"
+			(property "Footprint" "PES-02-01-X-RA-SD:SAMTEC_PES-02-01-X-RA-SD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2848,47 +2848,7 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "Samtec"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "14.62mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/PET-02-01-T-VT-LC/Samtec/view-part/?ref=eda"
+			(property "PARTREV" "C"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2908,47 +2868,7 @@
 					(hide yes)
 				)
 			)
-			(property "PARTREV" "C"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/PET-02-01-T-VT-LC/Samtec/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "PET-02-01-T-VT-LC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "2 Position Header, Male Blades Connector Solder 0.250 (6.35mm) Through Hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
+			(property "MAXIMUM_PACKAGE_HEIGHT" "12mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2968,7 +2888,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "PET-02-XX-X-VT-LC_0_0"
+			(symbol "PES-02-01-X-RA-SD_0_0"
 				(rectangle
 					(start -5.08 -5.08)
 					(end 5.08 2.54)
@@ -2983,147 +2903,14 @@
 				(pin power_in line
 					(at -10.16 0 0)
 					(length 5.08)
-					(name "01"
+					(name "P01"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "01_1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 0 0)
-					(length 5.08)
-					(hide yes)
-					(name "01"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "01_8"
+					(number "P01_1"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -3134,147 +2921,14 @@
 				(pin power_in line
 					(at -10.16 -2.54 0)
 					(length 5.08)
-					(name "02"
+					(name "P02"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "02_1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -10.16 -2.54 0)
-					(length 5.08)
-					(hide yes)
-					(name "02"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "02_8"
+					(number "P02_1"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4994,7 +4648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP_VORA1150-X017T_VIS"
+		(property "Footprint" "Footprints:SOP_VORA1150-X017T_VIS"
 			(at 203.2 90.17 0)
 			(effects
 				(font
@@ -5142,7 +4796,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 58.928 62.23 90)
 			(effects
 				(font
@@ -5278,7 +4932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "SDM_MiscFootprint:R_1206_3216Metric"
 			(at 58.928 41.91 90)
 			(effects
 				(font
@@ -5348,7 +5002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "SDM_MiscFootprint:R_1206_3216Metric"
 			(at 55.372 31.75 90)
 			(effects
 				(font
@@ -6375,7 +6029,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_AVAGO_HLMP_XX08_AVA"
+		(property "Footprint" "Footprints:LED_AVAGO_HLMP_XX08_AVA"
 			(at 264.16 90.17 0)
 			(effects
 				(font
@@ -6488,7 +6142,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Symbols:PET-02-XX-X-VT-LC")
+		(lib_id "Symbols:PES-02-01-X-RA-SD")
 		(at 38.1 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6514,7 +6168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:SAMTEC_PET-02-XX-X-VT-LC"
+		(property "Footprint" "PES-02-01-X-RA-SD:SAMTEC_PES-02-01-X-RA-SD"
 			(at 38.1 40.64 0)
 			(effects
 				(font
@@ -6552,7 +6206,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "14.62mm"
+		(property "MAXIMUM_PACKAGE_HEIGHT" "12mm"
 			(at 38.1 40.64 0)
 			(effects
 				(font
@@ -6662,52 +6316,10 @@
 				(hide yes)
 			)
 		)
-		(pin "01_7"
-			(uuid "1659e7d8-4519-419f-a748-318f78b819d4")
-		)
-		(pin "02_2"
-			(uuid "8fb36a21-85f8-488e-ba0b-570af470a2cc")
-		)
-		(pin "02_1"
-			(uuid "f7e85b39-a826-43fb-a436-d130ce5f6727")
-		)
-		(pin "01_6"
-			(uuid "86c8aa37-4c3a-487e-94fb-151b1233e549")
-		)
-		(pin "01_5"
-			(uuid "b489b12d-4a90-4003-9876-7e1e40c1e50b")
-		)
-		(pin "01_3"
-			(uuid "29fce16c-17b7-4234-98ef-694dfd40f7ff")
-		)
-		(pin "01_8"
-			(uuid "08ab14f7-d320-4b01-aa62-5e51d88f0228")
-		)
-		(pin "02_4"
-			(uuid "962c8204-58aa-4fab-8e21-02304463c53f")
-		)
-		(pin "02_6"
-			(uuid "756b1550-4c3f-4ea4-8809-564d27c34b84")
-		)
-		(pin "02_7"
-			(uuid "84328347-a35b-4500-bf1e-b1e187af6cbc")
-		)
-		(pin "02_8"
-			(uuid "182b9983-32ec-46c6-8abe-f67f9a9675d2")
-		)
-		(pin "01_1"
+		(pin "P01_1"
 			(uuid "f497a5ef-461f-45a2-8c1a-26897dfcdec9")
 		)
-		(pin "01_2"
-			(uuid "08e67092-978d-496f-bc29-1909264f7265")
-		)
-		(pin "01_4"
-			(uuid "9b3d27f7-6fa6-40b7-b2f2-a4f6603f7fcf")
-		)
-		(pin "02_3"
-			(uuid "1992f345-8146-447b-a88b-3f9218e67a1b")
-		)
-		(pin "02_5"
+		(pin "P02_1"
 			(uuid "b68dbf82-f257-484d-a337-c32b3f30a280")
 		)
 		(instances
@@ -6745,7 +6357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D2PAK_STM"
+		(property "Footprint" "Footprints:D2PAK_STM"
 			(at 35.56 102.87 0)
 			(effects
 				(font
@@ -6820,7 +6432,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "SDM_MiscFootprint:R_1206_3216Metric"
 			(at 58.928 52.07 90)
 			(effects
 				(font
