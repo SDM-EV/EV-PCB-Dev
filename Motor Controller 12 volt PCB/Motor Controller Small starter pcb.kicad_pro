@@ -188,8 +188,7 @@
       ],
       "track_widths": [
         0.0,
-        0.3,
-        0.5
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -221,6 +220,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 1.95,
+          "drill": 1.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -466,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Voltage_Indicator.kicad_pro",
+    "filename": "Motor Controller Small starter pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -501,8 +504,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "Voltage_Indicator_Netlist.net",
-      "plot": "Manufacturing_Files/",
+      "netlist": "",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -626,7 +629,7 @@
   },
   "sheets": [
     [
-      "5593afb4-6fc8-40c0-9307-9f2b2eba9183",
+      "42681819-136d-4d5a-bbbe-1c47b8dad30e",
       "Root"
     ]
   ],

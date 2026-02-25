@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PR22-12V-400-1A")(type "KiCad")(uri "C:/Users/Schet/Downloads/PR22_12V_400_1A/PR22-12V-400-1A.kicad_sym")(options "")(descr ""))
+  (lib (name "776279-1")(type "KiCad")(uri "C:/Users/Schet/Downloads/776279_1/776279-1.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-02-20_21-59-15")(type "KiCad")(uri "C:/Users/Schet/Downloads/1N4148WT/KiCADv6/2026-02-20_21-59-15.kicad_sym")(options "")(descr ""))
+)
