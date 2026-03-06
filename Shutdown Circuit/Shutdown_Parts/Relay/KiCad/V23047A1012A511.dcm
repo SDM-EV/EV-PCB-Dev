@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP V23047A1012A511
+D Force-Guided Relay, DC, Monostable, 1A (NO) + 1B (NC), 6 A Contact Rating, 12 VDC Coil Voltage, 250 VAC Contact Voltage, .7 W Coil Power, SCHRACK SR2
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SR2M&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1393258-5
+$ENDCMP
+#
+#End Doc Library
