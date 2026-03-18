@@ -698,6 +698,17 @@
 			(uuid "3a5ba3d8-a9ad-4ead-a25f-76c0087b60fc")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/PET-02-01-T-VT-LC/PET-02-01-T-VT-LC.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "DBT:DBT71210"
 		(layer "F.Cu")
@@ -1048,6 +1059,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/DBT71210/DBT71210.step"
+			(offset
+				(xyz 25.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1489,6 +1511,17 @@
 			(uuid "c9f00acc-cf7f-415a-b75e-147fc63ab046")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/MPT_02_01_01_L_RA_SD/MPT-02-01-01-L-RA-SD.stp"
+			(offset
+				(xyz 0 -6 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "IPBT:IPBT102H1TSRAK"
 		(layer "F.Cu")
@@ -1848,6 +1881,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/IPBT-102-H1-T-S-RA-K/IPBT-102-H1-T-S-RA-K.stp"
+			(offset
+				(xyz 2.1 1.5 3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
