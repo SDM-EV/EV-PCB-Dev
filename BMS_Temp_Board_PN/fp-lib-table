@@ -7,4 +7,5 @@
   (lib (name "TPS2116DRLR")(type "KiCad")(uri "${KIPRJMOD}/TPS2116DRLR")(options "")(descr ""))
   (lib (name "B2B_PH_K_S")(type "KiCad")(uri "${KIPRJMOD}/B2B_PH_K_S")(options "")(descr ""))
   (lib (name "SM04B-ULH")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board_PN/LIB_SM04B-ULHK-1TA1-ETB_HF_/SM04B-ULHK-1TA1-ETB_HF_/KiCad")(options "")(descr ""))
+  (lib (name "Nadine")(type "KiCad")(uri "${KIPRJMOD}/Nadine.pretty")(options "")(descr ""))
 )

@@ -3,4 +3,5 @@
   (lib (name "CD74HC4067PWR")(type "KiCad")(uri "${KIPRJMOD}/CD74HC4067PWR/2026-01-30_01-16-43.kicad_sym")(options "")(descr ""))
   (lib (name "B2B-PH-K-S")(type "KiCad")(uri "${KIPRJMOD}/B2B_PH_K_S/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
   (lib (name "SM04B-ULHK-1TA1-ETB_HF_")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board_PN/LIB_SM04B-ULHK-1TA1-ETB_HF_/SM04B-ULHK-1TA1-ETB_HF_/KiCad/SM04B-ULHK-1TA1-ETB_HF_.kicad_sym")(options "")(descr ""))
+  (lib (name "BMS Tempboard")(type "KiCad")(uri "${KIPRJMOD}/BMS Tempboard.kicad_sym")(options "")(descr ""))
 )
