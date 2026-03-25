@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IMDSymbolLibrary")(type "KiCad")(uri "${KIPRJMOD}/IMDSymbolLibrary.kicad_sym")(options "")(descr ""))
+)
