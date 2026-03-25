@@ -1,12 +1,10 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 5,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "GND"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -62,7 +60,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Shutdown_Circuit.kicad_prl",
+    "filename": "BSPD_V1.2_EV.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -91,16 +89,16 @@
       9
     ],
     "col_widths": [
-      149,
-      137,
-      90,
-      63,
-      90,
-      90,
-      90,
-      66,
-      90,
-      90
+      163,
+      148,
+      91,
+      68,
+      91,
+      91,
+      91,
+      71,
+      91,
+      91
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
