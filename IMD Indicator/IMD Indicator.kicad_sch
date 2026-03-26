@@ -2356,7 +2356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "116cba9d-56a0-4424-a2cd-69e61aee1ea7")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 115.57 38.1 0)
 			(effects
 				(font
@@ -2466,7 +2466,7 @@
 		(instances
 			(project "IMD Indicator"
 				(path "/2d398882-e4dd-424e-9a5b-db438ffb0a84"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -3715,7 +3715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "faee463d-eebf-4c13-a6e5-dca45bc54333")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 165.1 35.56 0)
 			(effects
 				(font
@@ -3825,7 +3825,7 @@
 		(instances
 			(project ""
 				(path "/2d398882-e4dd-424e-9a5b-db438ffb0a84"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
