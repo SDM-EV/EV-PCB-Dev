@@ -878,6 +878,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PR22-12V-400-1A:PR22-12V-400-1A"
 			(pin_names
 				(offset 1.016)
@@ -1423,22 +1506,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "same but:\n6 -> fault led\n3 = 5"
-		(exclude_from_sim no)
-		(at 161.29 58.928 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2009e388-a072-4ca5-89f8-f0637d1bf82c")
-	)
-	(junction
-		(at 146.05 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "643be3db-d651-41e2-8ff5-8017d0f2e44f")
-	)
 	(junction
 		(at 147.32 78.74)
 		(diameter 0)
@@ -1464,6 +1531,12 @@
 		(uuid "93a9ff9f-ce2b-4a11-b0a5-5da0266ba1eb")
 	)
 	(junction
+		(at 149.86 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9685f7a2-d69f-42a6-8f73-fc31177426c8")
+	)
+	(junction
 		(at 144.78 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1487,7 +1560,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 86.36) (xy 144.78 86.36)
+			(xy 144.78 86.36) (xy 149.86 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1497,7 +1570,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 78.74) (xy 176.53 78.74)
+			(xy 184.15 78.74) (xy 177.8 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1557,7 +1630,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 78.74) (xy 176.53 87.63)
+			(xy 177.8 78.74) (xy 177.8 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1567,17 +1640,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 87.63) (xy 146.05 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c736402-c4ed-48f8-97fb-8631fb188082")
-	)
-	(wire
-		(pts
-			(xy 121.92 93.98) (xy 146.05 93.98)
+			(xy 121.92 93.98) (xy 149.86 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1657,16 +1720,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 86.36) (xy 146.05 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9208a1ae-828f-4dc4-a91a-bbdb4b1c4cbf")
-	)
-	(wire
-		(pts
 			(xy 180.34 69.85) (xy 205.74 69.85)
 		)
 		(stroke
@@ -1727,7 +1780,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 101.6) (xy 151.13 101.6)
+			(xy 92.71 101.6) (xy 161.29 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1747,7 +1800,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 88.9) (xy 184.15 88.9)
+			(xy 161.29 88.9) (xy 184.15 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1767,7 +1820,17 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 101.6) (xy 151.13 88.9)
+			(xy 149.86 86.36) (xy 149.86 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c48ea62f-6e2a-42e0-9b1c-81608d015af6")
+	)
+	(wire
+		(pts
+			(xy 161.29 101.6) (xy 161.29 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1777,7 +1840,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 87.63) (xy 146.05 87.63)
+			(xy 177.8 86.36) (xy 149.86 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1966,6 +2029,134 @@
 			(project ""
 				(path "/42681819-136d-4d5a-bbbe-1c47b8dad30e"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 213.36 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3535eed0-b9f9-4de6-9e68-e7e30f2fa4e7")
+		(property "Reference" "H1"
+			(at 215.9 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 215.9 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 213.36 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 213.36 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/42681819-136d-4d5a-bbbe-1c47b8dad30e"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 213.36 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f4157d0-7368-4144-9381-05f624ef16c7")
+		(property "Reference" "H2"
+			(at 215.9 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 215.9 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 213.36 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 213.36 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/42681819-136d-4d5a-bbbe-1c47b8dad30e"
+					(reference "H2")
 					(unit 1)
 				)
 			)
