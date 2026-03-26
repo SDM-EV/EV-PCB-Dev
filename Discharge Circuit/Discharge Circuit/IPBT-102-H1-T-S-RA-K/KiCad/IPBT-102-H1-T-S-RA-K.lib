@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model IPBT-102-H1-T-S-RA-K
+#/834857/1827760/2.50/2/3/Connector
+DEF IPBT-102-H1-T-S-RA-K J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "IPBT-102-H1-T-S-RA-K" 650 200 50 H V L CNN
+F2 "IPBT102H1TSRAK" 650 100 50 H I L CNN
+F3 "https://suddendocs.samtec.com/prints/ipbt-1xx-xx-xx-s-xx-mkt.pdf?_gl=1*1nu67sl*_gcl_aw*R0NMLjE3MzY1MTU3OTIuQ2p3S0NBaUFwNE84QmhBa0Vpd0FxdjJVcUhrQ1hwTkVVY2dYbERaeHlmb2JUdHluT3BxNDdWZVFxUVNRZUFOZy1nZnhrUVhoSXppT0lob0NpMXdRQXZEX0J3RQ..*_gcl_au*NTMyOTAxMTM3LjE" 650 0 50 H I L CNN
+F4 "Conn Power Mate Terminal Strip HDR 2 POS 4.19mm Solder RA Thru-Hole 2 Terminal 1 Port Automotive Tube" 650 -100 50 H I L CNN "Description"
+F5 "6.88" 650 -200 50 H I L CNN "Height"
+F6 "200-IPBT102H1TSRAK" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Samtec/IPBT-102-H1-T-S-RA-K?qs=PB6%2FjmICvI2Ofyjz6y5btA%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "SAMTEC" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "IPBT-102-H1-T-S-RA-K" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

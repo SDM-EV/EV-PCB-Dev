@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SDM_Transistor")(type "KiCad")(uri "${KIPRJMOD}/SDM_Transistor.kicad_sym")(options "")(descr ""))
+)
