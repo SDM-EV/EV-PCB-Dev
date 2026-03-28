@@ -10,4 +10,5 @@
   (lib (name "Nadine")(type "KiCad")(uri "${KIPRJMOD}/Nadine.pretty")(options "")(descr ""))
   (lib (name "MAL214699")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board/LIB_MAL214699107E3/MAL214699107E3/KiCad")(options "")(descr ""))
   (lib (name "865080545012")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board/865080545012")(options "")(descr ""))
+  (lib (name "B32B-PUDSS-1_LF__SN_")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board/B32B-PUDSS-1_LF__SN_")(options "")(descr ""))
 )
