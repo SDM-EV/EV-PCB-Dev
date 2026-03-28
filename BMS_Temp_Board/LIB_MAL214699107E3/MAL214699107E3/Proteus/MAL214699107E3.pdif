@@ -1,0 +1,196 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MAL214699107E3"
+   (description "Vishay 330F 50V dc Aluminium Electrolytic Capacitor, Surface Mount 12.5 (Dia.) x 16mm +125C 12.5mm 3.6mm")
+   (family "CAP")
+   (package "MAL214699107E3")
+   (attribute "Datasheet Link" "http://www.vishay.com/docs/28403/146cti.pdf")
+   (attribute "Geometry.Height" "16mm")
+   (attribute "Mouser Part Number" "594-MAL214699107E3")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL214699107E3?qs=Ep9Lwju7gVqGQFZeQuJIeQ%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "MAL214699107E3")
+   (gate
+    (symbol "MAL214699107E3")
+    (pin "-" 1 PS)
+    (pin "GND_1" 2 PS)
+    (pin "+" 3 PS)
+    (pin "GND_2" 4 PS)
+   )
+  )
+  (symbol "MAL214699107E3"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 500) (pt 600 500) (pt 600 -500) (pt 200 -500) (pt 200 500) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 -700) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 700) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "MAL214699107E3"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -6.25 -6.25)
+      (pt 6.25 -6.25)
+      (pt 6.25 6.25)
+      (pt -6.25 6.25)
+      (pt -6.25 -6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.25 2)
+      (pt -6.25 2)
+      (pt -6.25 6.25)
+      (pt -6.25 6.25)
+      (pt -6.25 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.25 6.25)
+      (pt -3.25 6.25)
+      (pt -3.25 6.25)
+      (pt -6.25 6.25)
+      (pt -6.25 6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3 6.25)
+      (pt 6.25 6.25)
+      (pt 6.25 6.25)
+      (pt 3 6.25)
+      (pt 3 6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 6.25 6.25)
+      (pt 6.25 6.25)
+      (pt 6.25 2)
+      (pt 6.25 2)
+      (pt 6.25 6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 6.25 -2)
+      (pt 6.25 -2)
+      (pt 6.25 -6.25)
+      (pt 6.25 -6.25)
+      (pt 6.25 -2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 6.25 -6.25)
+      (pt 3 -6.25)
+      (pt 3 -6.25)
+      (pt 6.25 -6.25)
+      (pt 6.25 -6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.25 -6.25)
+      (pt -6.25 -6.25)
+      (pt -6.25 -6.25)
+      (pt -3.25 -6.25)
+      (pt -3.25 -6.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.25 -6.25)
+      (pt -6.25 -6.25)
+      (pt -6.25 -2)
+      (pt -6.25 -2)
+      (pt -6.25 -6.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.9 8)
+      (pt 9.3 8)
+      (pt 9.3 -8)
+      (pt -10.9 -8)
+      (pt -10.9 8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -9.9 0)
+      (arc (pt -9.900 0.000) (pt -9.900 -0.050) (pt -9.800 0.050) (start 180.0) (sweep 180.0))
+      (pt -9.8 0)
+      (arc (pt -9.800 0.000) (pt -9.900 -0.050) (pt -9.800 0.050) (start 180.0) (sweep .0))
+      (pt -9.9 0)
+      (arc (pt -9.900 0.000) (pt -9.900 -0.050) (pt -9.800 0.050) (start 180.0) (sweep 180.0))
+      (pt -9.8 0))))
+   (leg 1 (pt -5.150 0.000) (padstack 0))
+   (leg 2 (pt 0.000 -4.900) (padstack 2))
+   (leg 3 (pt 5.150 0.000) (padstack 0))
+   (leg 4 (pt 0.000 4.900) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.500 6.300 0 0 0.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 4.200 5.000 0 0 0.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 4.200 5.000 0 0 0.000))
+   )
+   (model "MAL214699107E3.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

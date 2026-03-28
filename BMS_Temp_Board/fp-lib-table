@@ -8,4 +8,5 @@
   (lib (name "B2B_PH_K_S")(type "KiCad")(uri "${KIPRJMOD}/B2B_PH_K_S")(options "")(descr ""))
   (lib (name "SM04B-ULH")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board_PN/LIB_SM04B-ULHK-1TA1-ETB_HF_/SM04B-ULHK-1TA1-ETB_HF_/KiCad")(options "")(descr ""))
   (lib (name "Nadine")(type "KiCad")(uri "${KIPRJMOD}/Nadine.pretty")(options "")(descr ""))
+  (lib (name "MAL214699")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board/LIB_MAL214699107E3/MAL214699107E3/KiCad")(options "")(descr ""))
 )

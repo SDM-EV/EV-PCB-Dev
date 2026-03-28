@@ -310,7 +310,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffbf",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -319,7 +319,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ESP32_MCU_Template.kicad_prl",
+    "filename": "BMS_Temp_Board_V1.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -352,18 +352,18 @@
       11
     ],
     "col_widths": [
-      156,
-      141,
-      103,
-      71,
-      103,
-      103,
-      103,
-      74,
-      103,
-      103,
-      103,
-      10
+      186,
+      171,
+      112,
+      79,
+      112,
+      112,
+      112,
+      83,
+      112,
+      112,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

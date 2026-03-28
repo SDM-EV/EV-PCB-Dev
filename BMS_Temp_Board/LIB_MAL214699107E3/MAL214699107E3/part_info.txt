@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=MAL214699107E3
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2020-04-01 11:17:31
+Downloaded=2026-03-25 02:31:57
+3D=Y

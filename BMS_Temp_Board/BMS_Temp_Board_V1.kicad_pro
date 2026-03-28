@@ -478,7 +478,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32_MCU_Template.kicad_pro",
+    "filename": "BMS_Temp_Board_V1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -658,6 +658,30 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SNAPEDA_PN",
+          "name": "SNAPEDA_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
           "show": false
         }
       ],

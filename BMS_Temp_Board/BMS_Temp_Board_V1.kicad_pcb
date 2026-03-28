@@ -454,7 +454,7 @@
 		(property ki_fp_filters "USB*")
 		(path "/06209976-98a9-4670-91a0-ba918c8f65db")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.9 2.6375)
@@ -971,7 +971,7 @@
 		)
 		(path "/eea1603d-e33c-4278-a920-667b61d15226")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.108215 -4.0767)
@@ -2439,7 +2439,7 @@
 	(footprint "Nadine:IND_SPD127R_API"
 		(layer "F.Cu")
 		(uuid "043110f5-60b5-4bdd-ad74-da39b4b98713")
-		(at 114.3 106.172 180)
+		(at 116.85 106.26 180)
 		(tags "SPD127R-334M ")
 		(property "Reference" "L1"
 			(at 0 0 0)
@@ -2492,7 +2492,7 @@
 		(property ki_fp_filters "IND_SPD127R_API IND_SPD127R_API-M IND_SPD127R_API-L")
 		(path "/1912478a-04f9-4efc-924c-5944ecbda97b")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 6.5278 6.5278)
@@ -2794,7 +2794,7 @@
 			)
 			(polygon
 				(pts
-					(xy 117.4496 108.9914) (xy 111.1504 108.9914) (xy 111.1504 103.3526) (xy 117.4496 103.3526)
+					(xy 119.9996 109.0794) (xy 113.7004 109.0794) (xy 113.7004 103.4406) (xy 119.9996 103.4406)
 				)
 			)
 		)
@@ -2826,7 +2826,7 @@
 			)
 			(polygon
 				(pts
-					(xy 120.65 103.3526) (xy 107.95 103.3526) (xy 107.95 99.822) (xy 120.65 99.822)
+					(xy 123.2 103.4406) (xy 110.5 103.4406) (xy 110.5 99.91) (xy 123.2 99.91)
 				)
 			)
 		)
@@ -2858,7 +2858,7 @@
 			)
 			(polygon
 				(pts
-					(xy 120.65 112.522) (xy 107.95 112.522) (xy 107.95 108.9914) (xy 120.65 108.9914)
+					(xy 123.2 112.61) (xy 110.5 112.61) (xy 110.5 109.0794) (xy 123.2 109.0794)
 				)
 			)
 		)
@@ -2919,7 +2919,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ed126947-ce40-4f58-954a-dcaf1cc725c6")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -3182,7 +3182,7 @@
 		)
 		(path "/3cc78f96-7630-427c-a7f5-9d159d003e1c")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 32.11 4.51)
@@ -3957,7 +3957,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/780ebe0c-301b-4edf-9d62-85dce6140c89")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -4156,7 +4156,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ce09cc1c-e440-42ad-bc61-820565c9601b")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -4421,7 +4421,7 @@
 		)
 		(path "/425ea401-41c4-4e94-9ec0-91214a823e75")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.73 0.5)
@@ -4735,7 +4735,7 @@
 		)
 		(path "/981dafa7-d28f-4e38-bcc2-a8b4afa28c4f")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 32.11 4.51)
@@ -5574,7 +5574,7 @@
 		)
 		(path "/e0008a0a-fab8-4b20-8268-a48e04e7a4ba")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -5859,7 +5859,7 @@
 		)
 		(path "/f0fdab39-af4d-493b-bcbc-a5adbe432288")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 32.11 4.51)
@@ -6699,7 +6699,7 @@
 		)
 		(path "/c44a9d12-9dc8-4b7e-ac0f-d0a985dadc41")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.108215 4.0767)
@@ -8219,7 +8219,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/949a9025-90fa-4461-aa29-8ba840bc3ce3")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -8483,7 +8483,7 @@
 		)
 		(path "/1c796ffa-cc21-46fa-967b-25e5bea34275")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.108215 4.0767)
@@ -10067,7 +10067,7 @@
 		)
 		(path "/e0721362-8536-42e3-9119-791595e3c869")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.91 -0.3)
@@ -10843,7 +10843,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/70e8ec3e-f56c-4f7f-b1d3-5dd1f571a8f8")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -10942,7 +10942,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f6960bd1-9332-46f3-929d-c8ec9f8684a0")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -11206,7 +11206,7 @@
 		)
 		(path "/c0d39042-4a52-42ea-8321-2b0f7ac595ac")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.108215 4.0767)
@@ -12726,7 +12726,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/384cd9e1-e019-41d4-bfec-25779544f9fa")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -12927,7 +12927,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e1e2cd8a-d6cb-4f53-bbf2-a2dfa1411814")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
 			(start -0.95 -0.95)
@@ -13150,7 +13150,7 @@
 		)
 		(path "/a43c371b-b4c7-4a7f-9f02-8f9ab89a1329")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.91 -0.3)
@@ -13925,7 +13925,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/81d82726-763d-486d-9b86-98b4e3a06cd3")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -14189,7 +14189,7 @@
 		)
 		(path "/2ab80db6-1574-4cc8-ba9c-09d903bbe916")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.108215 -4.0767)
@@ -15710,7 +15710,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/75c0587b-06e9-4c45-af8e-51d5c4d47cf6")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -15919,7 +15919,7 @@
 		)
 		(path "/b9f214a0-4efd-4213-bbc3-b9b791bcceee")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.95 -2.25)
@@ -16220,7 +16220,7 @@
 		)
 		(path "/75e5dbeb-32b1-492a-b276-3282b4556e15")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.91 5.2)
@@ -16492,14 +16492,14 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Capacitor_SMD:CP_Elec_10x10"
 		(layer "F.Cu")
 		(uuid "41a56063-0f4a-4856-b145-09fd712b9797")
-		(at 103.124 103.632 90)
-		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-		(tags "capacitor")
+		(at 103.44 102.91 90)
+		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm")
+		(tags "capacitor electrolytic")
 		(property "Reference" "C17"
-			(at -4.0725 -0.3925 90)
+			(at 5.26 -6.99 90)
 			(layer "F.SilkS")
 			(uuid "824ca113-4f87-47d9-bae1-85985b2f26b0")
 			(effects
@@ -16510,7 +16510,7 @@
 			)
 		)
 		(property "Value" "330uF"
-			(at 0 1.43 90)
+			(at 0 6.2 90)
 			(layer "F.Fab")
 			(uuid "763b2e93-2719-42b6-b5cf-0c8f466802c0")
 			(effects
@@ -16547,107 +16547,338 @@
 		(property ki_fp_filters "C_*")
 		(path "/73994a76-4cc3-4af9-97e4-a974bc150fca")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.14058 -0.51)
-			(end 0.14058 -0.51)
+			(start 5.26 -5.26)
+			(end 5.26 -1.51)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3f6ba06d-a8d8-40d3-aa9c-8e2391f2ac24")
+			(uuid "0f1d67d0-a9a2-4f28-96fb-bd3f641d311f")
 		)
 		(fp_line
-			(start -0.14058 0.51)
-			(end 0.14058 0.51)
+			(start -4.195563 -5.26)
+			(end 5.26 -5.26)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "196f0d0c-7c39-4967-8715-3e15c22fbf70")
+			(uuid "66b0063a-c7f5-4956-8f0e-0dc591836427")
 		)
 		(fp_line
-			(start 1.48 -0.73)
-			(end 1.48 0.73)
+			(start -5.26 -4.195563)
+			(end -4.195563 -5.26)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c90a3751-e7c3-4771-915c-5bddb29fb3e9")
+		)
+		(fp_line
+			(start -5.26 -4.195563)
+			(end -5.26 -1.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0bda6369-4e6b-4be1-a5e8-fca1e3b1a263")
+		)
+		(fp_line
+			(start -6.125 -3.385)
+			(end -6.125 -2.135)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d139b5f4-fb57-4520-a1d9-32e82e2f3f5b")
+		)
+		(fp_line
+			(start -6.75 -2.76)
+			(end -5.5 -2.76)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d731d0d5-5ac6-492c-8473-031b930ebd87")
+		)
+		(fp_line
+			(start -5.26 4.195563)
+			(end -5.26 1.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f3340005-05f0-4e60-a265-e31df356741e")
+		)
+		(fp_line
+			(start -5.26 4.195563)
+			(end -4.195563 5.26)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "1004114b-e59c-4f28-afca-e288da6cd86a")
+		)
+		(fp_line
+			(start 5.26 5.26)
+			(end 5.26 1.51)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2181abda-f8ca-46b2-9ac2-19cb237e5389")
+		)
+		(fp_line
+			(start -4.195563 5.26)
+			(end 5.26 5.26)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e1ccd643-edc2-4a6a-95c0-c42362f93be3")
+		)
+		(fp_line
+			(start 5.4 -5.4)
+			(end 5.4 -1.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e6ae4dde-16df-423d-8f92-e2ac3fff0656")
+			(uuid "4815b3d0-be3c-424c-b79c-4c9b1f053c49")
 		)
 		(fp_line
-			(start -1.48 -0.73)
-			(end 1.48 -0.73)
+			(start -4.25 -5.4)
+			(end 5.4 -5.4)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "53f66295-fae7-4840-b7c0-65d923574e25")
+			(uuid "e4cf1da2-adbe-4abc-90ab-f45a5836c537")
 		)
 		(fp_line
-			(start 1.48 0.73)
-			(end -1.48 0.73)
+			(start -5.4 -4.25)
+			(end -4.25 -5.4)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b6820849-749c-44d3-b8ce-3903be1e52fa")
+			(uuid "eaa5664d-8348-4132-ba06-e4ef5986b245")
 		)
 		(fp_line
-			(start -1.48 0.73)
-			(end -1.48 -0.73)
+			(start -5.4 -4.25)
+			(end -5.4 -1.5)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "143a9fbe-2698-4eaa-8fda-42db89ed363e")
+			(uuid "122810b0-047c-4b64-8b1e-3e23a013e7a9")
 		)
 		(fp_line
-			(start 0.8 -0.4)
-			(end 0.8 0.4)
+			(start 6.25 -1.5)
+			(end 6.25 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e2139eb0-16a1-4bbc-b7fe-6eafc75f6cc0")
+		)
+		(fp_line
+			(start 5.4 -1.5)
+			(end 6.25 -1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "58a4a6a8-9ec5-4d32-bffd-a06a94f18e63")
+		)
+		(fp_line
+			(start -5.4 -1.5)
+			(end -6.25 -1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "68dbe05c-d9d4-427a-aea7-8937ace8bdec")
+		)
+		(fp_line
+			(start -6.25 -1.5)
+			(end -6.25 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e32b46dc-a466-4a34-a920-07b995cc9278")
+		)
+		(fp_line
+			(start 6.25 1.5)
+			(end 5.4 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "23cdb109-efd1-4574-b358-7bae420f2a60")
+		)
+		(fp_line
+			(start 5.4 1.5)
+			(end 5.4 5.4)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "73e673ed-ffd9-4edd-85ff-c25362c49441")
+		)
+		(fp_line
+			(start -5.4 1.5)
+			(end -5.4 4.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d1c9a0a9-2c43-4256-9903-fb0cf3e303da")
+		)
+		(fp_line
+			(start -6.25 1.5)
+			(end -5.4 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c884d983-12bb-44f7-94b2-002d157aa27f")
+		)
+		(fp_line
+			(start -5.4 4.25)
+			(end -4.25 5.4)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3e9fbda2-2931-42c9-bdb5-3bb41f098b0e")
+		)
+		(fp_line
+			(start -4.25 5.4)
+			(end 5.4 5.4)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "db280d0e-228a-4cef-b7d5-7f6a2571850c")
+		)
+		(fp_line
+			(start 5.15 -5.15)
+			(end 5.15 5.15)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4dd0bdd4-3670-4457-a4df-5574de8568cc")
+			(uuid "6f402acd-e690-42be-9925-3dfd777d4426")
 		)
 		(fp_line
-			(start -0.8 -0.4)
-			(end 0.8 -0.4)
+			(start -4.15 -5.15)
+			(end 5.15 -5.15)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c20be1cf-01bc-472c-885e-0404e6c6aef3")
+			(uuid "323de029-3c9c-48e0-8039-8b2fedc11a8a")
 		)
 		(fp_line
-			(start 0.8 0.4)
-			(end -0.8 0.4)
+			(start -5.15 -4.15)
+			(end -4.15 -5.15)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fcf0aa63-95cc-4622-9f81-40cb50b4581e")
+			(uuid "b9ab941f-527e-4b3c-b443-be0169e2af52")
 		)
 		(fp_line
-			(start -0.8 0.4)
-			(end -0.8 -0.4)
+			(start -5.15 -4.15)
+			(end -5.15 4.15)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cca401eb-b667-45e7-b2b7-e5d522185cde")
+			(uuid "b3bf9952-9f90-40ad-8747-d904522140c6")
+		)
+		(fp_line
+			(start -4.058325 -2.2)
+			(end -4.058325 -1.2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "182ed732-d3a5-4976-a0b8-dfec5d5e018b")
+		)
+		(fp_line
+			(start -4.558325 -1.7)
+			(end -3.558325 -1.7)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4f603068-be72-4560-bde4-4d49c11c40c4")
+		)
+		(fp_line
+			(start -5.15 4.15)
+			(end -4.15 5.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a2554ffc-6a4b-417e-9a97-9983936f0f92")
+		)
+		(fp_line
+			(start -4.15 5.15)
+			(end 5.15 5.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1ff653cd-9af9-4f43-aa1d-181168e336bb")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 5 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "11617afb-315d-4b91-bef7-ac64aecf8657")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -16655,31 +16886,31 @@
 			(uuid "d9de29c5-9428-40d2-a13d-f6288145e49f")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.775 0 90)
-			(size 0.9 0.95)
+			(at -4 0 90)
+			(size 4 2.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
+			(roundrect_rratio 0.1)
 			(net 5 "GND")
 			(pintype "passive")
 			(uuid "7531fc23-297e-4fc0-8e5a-e6d66762ce08")
 		)
 		(pad "2" smd roundrect
-			(at 0.775 0 90)
-			(size 0.9 0.95)
+			(at 4 0 90)
+			(size 4 2.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
+			(roundrect_rratio 0.1)
 			(net 7 "VCC")
 			(pintype "passive")
 			(uuid "a7147761-3c0a-4a14-9b37-91ecf02b3253")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_10x10.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16811,7 +17042,7 @@
 		)
 		(path "/ab85bfff-2282-4620-85bd-ce195b457259")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.108215 4.0767)
@@ -18342,7 +18573,7 @@
 		)
 		(path "/e60a1a18-b440-4d81-a77e-31e4e95b92dd")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.95 2.25)
@@ -18567,7 +18798,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/20eeb751-3c63-4404-aca8-a1a25db04238")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -18830,7 +19061,7 @@
 		)
 		(path "/f6774bb8-faed-4bb2-983a-49d33c374094")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.91 -0.3)
@@ -19605,7 +19836,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8417b92a-31d6-4aa3-995d-45511a6edbe6")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -19804,7 +20035,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/f274733d-ed84-44d0-8b1e-7a459a58ce28")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.56)
@@ -20212,7 +20443,7 @@
 		)
 		(path "/138e0f87-9189-4ab6-8cb3-e74db5fa0746")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -20746,7 +20977,7 @@
 		)
 		(path "/c56f99df-8c98-4dd6-a1f3-40f3b97d93f7")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.108215 -4.0767)
@@ -22266,7 +22497,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d1402960-e016-4abb-b133-780eb93ffddb")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -22530,7 +22761,7 @@
 		)
 		(path "/f9ddf932-c057-4faf-b3c2-3e377e61994e")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.108215 4.0767)
@@ -24050,7 +24281,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7ca6c690-4d56-413f-8619-797b339ad10c")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -24249,7 +24480,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c06cb324-7f17-4b13-8eb2-aa3c978fab5b")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -24448,7 +24679,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e7db604c-c0c6-4d22-b0f6-ea3a7162d3f9")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -24647,7 +24878,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ed7010c9-2642-45ea-b449-eaa0f225c31a")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -24846,7 +25077,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7306fa87-c79a-4710-a43b-aaefda50a27c")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -25045,7 +25276,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c286e7d9-6e6f-4b9b-9b4d-21f6e9bc6a94")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -25245,7 +25476,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/5a4ca396-bf0e-49f1-93b1-58af2ef47d21")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -25345,7 +25576,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/00715874-0106-426f-9570-2ab11e4a66aa")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -25444,7 +25675,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8e0b4287-d569-4f77-ba2a-058b1136cfce")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -25720,7 +25951,7 @@
 		)
 		(path "/91154310-87f2-4f91-b479-590561c95355")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -25941,7 +26172,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7c124fec-69cf-4cb1-b203-cd556baf7845")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -26202,7 +26433,7 @@
 		)
 		(path "/2c835453-dc12-49b5-a1f6-5e27cf70336b")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 9 -12.75)
@@ -27071,7 +27302,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e63c3c92-7a2f-47ba-abfc-d7c23a6455fb")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -27334,7 +27565,7 @@
 		)
 		(path "/51b72c6f-1595-4566-b01b-35c7e2b7a6fb")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 32.11 4.51)
@@ -28174,7 +28405,7 @@
 		)
 		(path "/95bb55f5-9057-4733-a715-df996056d4cb")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.5273 -1.9812)
@@ -28747,7 +28978,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8132912c-6c4b-4145-8243-d589a815ad22")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -28986,7 +29217,7 @@
 		)
 		(path "/ea1728ed-fc64-42be-ba80-bf645dc78e92")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.96 -1.54)
@@ -29303,7 +29534,7 @@
 		)
 		(path "/c4f73833-95eb-4319-a6d1-b89520bf577b")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.91 -0.3)
@@ -30144,7 +30375,7 @@
 		)
 		(path "/0c22f690-8332-43d9-a97f-647462c7021e")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.91 -3.41)
@@ -30407,7 +30638,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/331f8de6-7971-42ad-a0ae-2feb39eccfcb")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -30671,7 +30902,7 @@
 		)
 		(path "/f486ac56-0bde-4245-826f-e1253f5c240a")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.108215 -4.0767)
@@ -32255,7 +32486,7 @@
 		)
 		(path "/08576c69-be46-4ded-a741-a449b6800927")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 32.11 4.51)
@@ -33031,7 +33262,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/7a169e3d-87b4-46cd-81af-f0ab41afa319")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -33130,7 +33361,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/0584e000-7479-4dbd-b2a2-842cae34dcfb")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.34 0)
@@ -33378,7 +33609,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/90ea4bcc-59eb-4627-a2f9-e1b2ac5e6717")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -33617,7 +33848,7 @@
 		)
 		(path "/76cb5dc1-622b-4445-8501-3c857312f56f")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.96 -1.54)
@@ -33870,7 +34101,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8075543d-3ba7-4d49-a3c1-9055247140fe")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -34069,7 +34300,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ac1bf634-09b4-472e-98da-c173949f7066")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -34268,7 +34499,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0ced8f80-31f4-42c8-91fe-71fb3248545e")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -34467,7 +34698,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d9cce13e-794c-4976-b3d7-4b1b2c12d877")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -34679,7 +34910,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8cef3f75-7945-47b8-b9fa-3d60e4059008")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 0.735)
@@ -34962,7 +35193,7 @@
 		)
 		(path "/34a30f6f-27d7-4b05-ab51-6381829f4372")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.5 2.5)
@@ -35516,7 +35747,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/82c7cf36-b256-4764-aa1c-0e301e617cd3")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -35780,7 +36011,7 @@
 		)
 		(path "/8317fad4-9527-43d5-84d0-cf3f7b6c240b")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.108215 -4.0767)
@@ -37300,7 +37531,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/729cbf94-2008-448f-8dcf-0aa132711d6c")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -37625,7 +37856,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2a441b87-55c8-41e7-b019-6a932d2db8df")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -37888,7 +38119,7 @@
 		)
 		(path "/911c270e-6871-4d1d-be2b-b74f2aac7749")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.91 -0.3)
@@ -38663,7 +38894,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/97bd2310-6769-4f98-a0a9-a0b1895c13f6")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -38862,7 +39093,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b9d1f447-20d5-4c61-b586-ec5d2d54a41a")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -39123,7 +39354,7 @@
 		)
 		(path "/6740ea70-f0cd-40d6-bc85-4e0086444cc9")
 		(sheetname "/")
-		(sheetfile "ESP32_MCU_Template.kicad_sch")
+		(sheetfile "BMS_Temp_Board_V1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.6 -1.23)
@@ -40347,14 +40578,6 @@
 		(uuid "265c3983-a2c8-4f0e-b741-fa97183264d1")
 	)
 	(segment
-		(start 103.124 105.632)
-		(end 103.124 104.407)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 5)
-		(uuid "2ae7981f-abfe-4674-a223-fd8eaa616c67")
-	)
-	(segment
 		(start 57.824999 117.044999)
 		(end 58.13 117.35)
 		(width 0.3)
@@ -40779,6 +41002,14 @@
 		(uuid "913ebb3d-82d0-4c47-bbca-e1e2ae0ae969")
 	)
 	(segment
+		(start 103.44 106.91)
+		(end 103.44 107.54)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 5)
+		(uuid "92b6e515-efd4-4f7b-9e0b-43714397c9d8")
+	)
+	(segment
 		(start 86.651 84.949999)
 		(end 85.606 85.994999)
 		(width 0.3)
@@ -41163,6 +41394,14 @@
 		(uuid "dc6cec01-f75c-4c2e-92a9-abba8045f6e1")
 	)
 	(segment
+		(start 103.44 107.54)
+		(end 105.43 109.53)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 5)
+		(uuid "de83dbca-07a6-4cfe-bab3-06cf946421c5")
+	)
+	(segment
 		(start 59.22 115.474999)
 		(end 58.296 115.474999)
 		(width 0.3)
@@ -41467,12 +41706,12 @@
 		(uuid "59fd6fd8-4152-4fbc-8f69-ea639079b58d")
 	)
 	(via
-		(at 103.124 105.632)
-		(size 0.6)
+		(at 105.43 109.53)
+		(size 0.5)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 5)
-		(uuid "5a61f74a-dc8e-4a2c-ab5b-b983698c4ac0")
+		(uuid "6251d6a4-8073-4af2-ac99-1dd8f587b6c1")
 	)
 	(via
 		(at 140.99 84.31)
@@ -41771,14 +42010,6 @@
 		(uuid "1bf4e315-6708-49df-80f1-537ff14883fa")
 	)
 	(segment
-		(start 103.124 102.857)
-		(end 103.143 102.857)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 7)
-		(uuid "254a55ff-591f-4bed-bac6-c0a56ce589e0")
-	)
-	(segment
 		(start 95.57 89.43)
 		(end 94 91)
 		(width 0.3)
@@ -41843,12 +42074,12 @@
 		(uuid "bd5d697d-bcf2-449a-a07d-a2d9ca024310")
 	)
 	(segment
-		(start 103.143 102.857)
-		(end 105.884 100.116)
+		(start 109.4232 106.172)
+		(end 109.5112 106.26)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 7)
-		(uuid "c8515a80-ce22-444d-a6b1-62e2470306cc")
+		(uuid "c131f49f-c7da-470a-abaf-85fb10468779")
 	)
 	(segment
 		(start 96 86)
@@ -41873,6 +42104,14 @@
 		(layer "F.Cu")
 		(net 7)
 		(uuid "f47feb70-a847-4fea-af58-4026164e9689")
+	)
+	(segment
+		(start 109.5112 106.26)
+		(end 111.9732 106.26)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 7)
+		(uuid "f6baa35d-5792-41da-beef-31011596c242")
 	)
 	(segment
 		(start 106.68 106.172)
@@ -52319,20 +52558,12 @@
 		(uuid "10a0cc27-b6a4-4729-ac87-8b64e3a0d1b8")
 	)
 	(segment
-		(start 125.228 106.172)
-		(end 125.92 105.48)
+		(start 125.14 106.26)
+		(end 121.7268 106.26)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 256)
-		(uuid "3a98c867-2b7c-4e4e-a120-a81a25795063")
-	)
-	(segment
-		(start 119.1768 106.172)
-		(end 125.228 106.172)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 256)
-		(uuid "41e27739-b3d0-4ba5-8d43-bdf8b5a9699c")
+		(uuid "4f71ff30-8005-4a09-ada4-531f1f9f676a")
 	)
 	(segment
 		(start 125.92 102.32)
@@ -52343,20 +52574,20 @@
 		(uuid "6efdfc3c-2454-4f05-b821-aa0a5bafa04a")
 	)
 	(segment
+		(start 125.92 104)
+		(end 125.92 105.48)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 256)
+		(uuid "703e8d30-1cd8-488d-bbf0-17a000be7659")
+	)
+	(segment
 		(start 127.3925 100.8475)
 		(end 127.3925 91.6575)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 256)
 		(uuid "9dd58198-f7b6-470e-bf92-79f75e35c3c0")
-	)
-	(segment
-		(start 125.92 105.48)
-		(end 125.92 104)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 256)
-		(uuid "ca1aeeaa-feb5-4837-835e-2d7167d873de")
 	)
 	(segment
 		(start 125.92 104)
@@ -52373,6 +52604,14 @@
 		(layer "F.Cu")
 		(net 256)
 		(uuid "f58d3ec9-6e87-47fb-8963-52c769111bd9")
+	)
+	(segment
+		(start 125.92 105.48)
+		(end 125.14 106.26)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 256)
+		(uuid "fbf3012d-5714-4cef-a878-fc898d0d1c0c")
 	)
 	(zone
 		(net 18)
