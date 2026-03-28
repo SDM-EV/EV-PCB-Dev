@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -469,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Motor Controller Small starter pcb.kicad_pro",
+    "filename": "Motor Controller 12 volt PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -505,7 +505,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

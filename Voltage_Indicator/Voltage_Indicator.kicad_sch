@@ -3249,6 +3249,12 @@
 		(uuid "ef7ef48a-18b1-4450-a8c0-edcdd011563b")
 	)
 	(junction
+		(at 85.09 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0326703f-dae6-437e-b2d3-869c4305bf48")
+	)
+	(junction
 		(at 58.42 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3261,22 +3267,10 @@
 		(uuid "370c9202-5b74-4001-a4d3-0e1b2ed8e2c6")
 	)
 	(junction
-		(at 85.09 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50bb88dd-efc5-4802-bb34-cc571f5c644e")
-	)
-	(junction
 		(at 246.38 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76b1909d-6c17-4742-8950-84c999d792d4")
-	)
-	(junction
-		(at 97.79 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce93e9b9-c0f3-4601-8fe3-c96c08d1e167")
 	)
 	(junction
 		(at 243.84 44.45)
@@ -3317,6 +3311,16 @@
 			(type default)
 		)
 		(uuid "033c3411-2112-42a2-b048-baf8aae2bb10")
+	)
+	(wire
+		(pts
+			(xy 85.09 100.33) (xy 85.09 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08eab59d-b199-47e1-a25a-9972bf28d480")
 	)
 	(wire
 		(pts
@@ -3397,16 +3401,6 @@
 			(type default)
 		)
 		(uuid "2a08de6b-4042-4a51-9f06-a6798a676725")
-	)
-	(wire
-		(pts
-			(xy 97.79 100.33) (xy 97.79 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e13d843-e067-4891-a14b-a6539184c701")
 	)
 	(wire
 		(pts
@@ -3517,16 +3511,6 @@
 			(type default)
 		)
 		(uuid "5c86cc57-6161-4e73-8a06-2e1dfd4f4716")
-	)
-	(wire
-		(pts
-			(xy 97.79 107.95) (xy 97.79 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c9bc0f7-2c7d-46ef-a7c4-900a43bd45cf")
 	)
 	(wire
 		(pts
@@ -3650,16 +3634,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 115.57) (xy 97.79 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d1bd6a7-a1c8-4840-81ba-694f9344d788")
-	)
-	(wire
-		(pts
 			(xy 125.73 36.83) (xy 125.73 33.02)
 		)
 		(stroke
@@ -3757,16 +3731,6 @@
 			(type default)
 		)
 		(uuid "b4ff074e-dd9d-43f0-86d8-ce503940233e")
-	)
-	(wire
-		(pts
-			(xy 85.09 102.87) (xy 97.79 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba610ad8-201a-4891-9c8e-421e96d21bfa")
 	)
 	(wire
 		(pts
@@ -4159,76 +4123,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 97.79 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0a2f7fc5-9995-4535-ac93-b20a7ea24017")
-		(property "Reference" "C4"
-			(at 101.6 110.4899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1uF"
-			(at 101.6 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 96.8248 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 97.79 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 97.79 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70c87a8b-9486-45a5-b472-eb8faea728b6")
-		)
-		(pin "2"
-			(uuid "28a9124c-950c-47c0-a695-9809757abb43")
-		)
-		(instances
-			(project "Voltage_Indicator"
-				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 246.38 81.28 0)
 		(unit 1)
@@ -4352,7 +4246,7 @@
 			(uuid "c4e1655d-e51b-4fad-b60e-afe6b8aaf7ae")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "#PWR03")
 					(unit 1)
@@ -4418,7 +4312,7 @@
 			(uuid "84838c2a-59e8-4933-97ad-cf749de32761")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "#PWR01")
 					(unit 1)
@@ -4486,7 +4380,7 @@
 			(uuid "0a545281-378c-4c6d-b2c6-1c4afe18c76a")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "C1")
 					(unit 1)
@@ -4551,7 +4445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Measure" "Measure"
+		(property "Measure" "V_LOW"
 			(at 264.16 46.9899 0)
 			(effects
 				(font
@@ -4614,7 +4508,7 @@
 			(uuid "93245b56-3aeb-480b-964c-41f428399b81")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "RED_TP1")
 					(unit 1)
@@ -4690,7 +4584,7 @@
 			(uuid "87925b54-6311-4feb-9b1c-44cbde155f82")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "K1")
 					(unit 1)
@@ -4839,72 +4733,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 97.79 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3a84e5ac-e453-48bf-97f2-b656ef4e09c7")
-		(property "Reference" "#PWR012"
-			(at 97.79 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.79 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 97.79 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "548c9189-c2fc-475e-b6c4-506017e62cb9")
-		)
-		(instances
-			(project "Voltage_Indicator"
-				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 57.15 41.91 180)
 		(unit 1)
@@ -5036,7 +4864,7 @@
 			(uuid "628623f6-bbf1-4230-85e1-3f94f4a9d9aa")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "R1")
 					(unit 1)
@@ -5102,7 +4930,7 @@
 			(uuid "2955a752-d8cc-48c4-82e4-f334b7926847")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "#PWR04")
 					(unit 1)
@@ -5234,7 +5062,7 @@
 			(uuid "b8c51617-7630-4c04-a2d7-ac5ab55bc147")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "#PWR02")
 					(unit 1)
@@ -5314,7 +5142,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 97.79 100.33 0)
+		(at 85.09 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5323,7 +5151,7 @@
 		(fields_autoplaced yes)
 		(uuid "6d13619c-c36d-452e-9af0-b3a8c7beaf1f")
 		(property "Reference" "#PWR013"
-			(at 97.79 104.14 0)
+			(at 85.09 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5332,7 +5160,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 97.79 95.25 0)
+			(at 85.09 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5340,7 +5168,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 100.33 0)
+			(at 85.09 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5349,7 +5177,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 100.33 0)
+			(at 85.09 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5358,7 +5186,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 97.79 100.33 0)
+			(at 85.09 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5370,7 +5198,7 @@
 			(uuid "ef77bb5c-de2f-4b7b-b9e7-089683745149")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "#PWR013")
 					(unit 1)
@@ -5524,7 +5352,7 @@
 			(uuid "f955f77c-3373-43c5-a341-711d11b9ccee")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "U1")
 					(unit 1)
@@ -5653,7 +5481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Measure" "Measure"
+		(property "Measure" "V_LOW"
 			(at 243.84 33.02 0)
 			(effects
 				(font
@@ -5721,7 +5549,7 @@
 			(uuid "f29db51e-03a8-49e4-a8e1-db68f6075e0a")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "VR1")
 					(unit 1)
@@ -5791,7 +5619,7 @@
 			(uuid "025fec84-22eb-48b1-b41b-f80e3442f82c")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "R2")
 					(unit 1)
@@ -5927,7 +5755,7 @@
 			(uuid "c8049ecf-4177-4760-8582-01ff61119994")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "U2")
 					(unit 1)
@@ -6065,7 +5893,7 @@
 			(uuid "9c45dd9e-3125-492e-85d3-ff5e885ab20d")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "CR1")
 					(unit 1)
@@ -6168,7 +5996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PES-02-01-X-RA-SD:SAMTEC_PES-02-01-X-RA-SD"
+		(property "Footprint" "Footprints:SAMTEC_PES-02-01-X-RA-SD"
 			(at 38.1 40.64 0)
 			(effects
 				(font
@@ -6323,7 +6151,7 @@
 			(uuid "b68dbf82-f257-484d-a337-c32b3f30a280")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "J1")
 					(unit 1)
@@ -6396,7 +6224,7 @@
 			(uuid "17cff22f-2ea7-4949-add5-38cea834e6fa")
 		)
 		(instances
-			(project ""
+			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "CR2")
 					(unit 1)

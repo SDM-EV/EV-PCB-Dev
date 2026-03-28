@@ -188,7 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.2
+        0.2,
+        0.254
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -240,36 +241,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "footprint_link_issues|1079500|520700|c21a47c0-a2b6-4a14-b0b3-d40315de7dac|00000000-0000-0000-0000-000000000000|||",
-        ""
-      ],
-      [
-        "footprint_link_issues|1714500|520700|59821319-64cd-4246-8ed9-757a39505ecc|00000000-0000-0000-0000-000000000000|||",
-        ""
-      ],
-      [
-        "footprint_link_issues|469900|508000|06e644e3-cc7b-4148-b94d-cac40b19bcd1|00000000-0000-0000-0000-000000000000|||",
-        ""
-      ],
-      [
-        "four_way_junction|1257300|635000|38a28e39-8c25-473a-b04e-06e23eeda275|9b893be8-2cef-4a9f-9865-0068d2296c7d|/232fb5f1-f18d-45ce-af77-f61349ec20cb||",
-        ""
-      ],
-      [
-        "power_pin_not_driven|266700|495300|ee4e4d70-77c8-448b-9736-5cac731f6ce5|00000000-0000-0000-0000-000000000000|/232fb5f1-f18d-45ce-af77-f61349ec20cb|/232fb5f1-f18d-45ce-af77-f61349ec20cb|",
-        ""
-      ],
-      [
-        "power_pin_not_driven|647700|736600|4f05a009-0744-4d2b-97c8-4ac17db12242|00000000-0000-0000-0000-000000000000|/232fb5f1-f18d-45ce-af77-f61349ec20cb|/232fb5f1-f18d-45ce-af77-f61349ec20cb|",
-        ""
-      ],
-      [
-        "single_global_label|736600|1219200|fd51b53e-037f-47fc-86a9-37cdec2d198a|00000000-0000-0000-0000-000000000000|/232fb5f1-f18d-45ce-af77-f61349ec20cb|/232fb5f1-f18d-45ce-af77-f61349ec20cb|",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -501,7 +473,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.18,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -530,7 +502,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Shutdown_Circuit.net",
-      "plot": "",
+      "plot": "../Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
