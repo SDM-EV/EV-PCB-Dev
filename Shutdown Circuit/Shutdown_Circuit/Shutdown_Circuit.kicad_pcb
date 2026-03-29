@@ -5177,9 +5177,22 @@
 		)
 	)
 	(gr_text "BMS"
-		(at 123.11 55.506 90)
+		(at 122.428 56.388 0)
 		(layer "F.SilkS")
 		(uuid "cb00cbc1-3b4e-4bb9-8a3b-59db6ba91b3a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "BSPD"
+		(at 132.461 98.933 0)
+		(layer "F.SilkS")
+		(uuid "d8add4a5-7c52-4af5-bbd6-f7668b4936cd")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5193,19 +5206,6 @@
 		(at 123.571 87.249 90)
 		(layer "F.SilkS")
 		(uuid "72455f7b-1ee8-4dc6-85b3-34327b7dcd57")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "BSPD"
-		(at 125.349 98.679 90)
-		(layer "F.SilkS")
-		(uuid "d8add4a5-7c52-4af5-bbd6-f7668b4936cd")
 		(effects
 			(font
 				(size 1.27 1.27)
