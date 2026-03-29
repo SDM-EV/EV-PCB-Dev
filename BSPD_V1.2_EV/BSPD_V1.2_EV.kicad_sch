@@ -7044,7 +7044,7 @@
 		)
 		(uuid "db2629c4-cc98-4173-bbcc-5971fc10ec3f")
 	)
-	(label "12V IGNITION"
+	(label "12V MASTER"
 		(at 279.4 134.62 180)
 		(effects
 			(font

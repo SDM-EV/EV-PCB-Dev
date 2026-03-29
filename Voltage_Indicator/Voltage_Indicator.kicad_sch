@@ -2335,6 +2335,214 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Symbols:TEA_1-0505"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "PS"
+				(at 29.21 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "TEA_1-0505"
+				(at 29.21 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "TEA10505"
+				(at 29.21 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://tracopower.com/tea1-datasheet/"
+				(at 29.21 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "1 Watt DC/DC converter, industrial, +/-10% input, unregulated, highly cost efficient, encapsulated, SIP-4"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "10.15"
+				(at 29.21 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Traco Power"
+				(at 29.21 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "TEA 1-0505"
+				(at 29.21 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "495-TEA1-0505"
+				(at 29.21 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEA-1-0505?qs=GedFDFLaBXEYm9Nac0%2F18A%3D%3D"
+				(at 29.21 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 29.21 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 29.21 -994.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "TEA_1-0505_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 27.94 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "-VIN_(GND)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "+VIN_(VCC)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "-VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "+VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Symbols:TLV2371QDBVRQ1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3210,6 +3418,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 144.78) (xy 39.37 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29d4d581-d1d4-4d2e-8627-c45b674edd34")
+	)
+	(wire
+		(pts
 			(xy 95.25 38.1) (xy 90.17 38.1)
 		)
 		(stroke
@@ -3320,6 +3538,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 147.32) (xy 31.75 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51960e97-35eb-40f8-bce2-f7f2227e4d13")
+	)
+	(wire
+		(pts
 			(xy 243.84 90.17) (xy 247.65 90.17)
 		)
 		(stroke
@@ -3367,6 +3595,16 @@
 			(type default)
 		)
 		(uuid "5e4b134b-3eb8-4b48-84b1-938a7c610051")
+	)
+	(wire
+		(pts
+			(xy 36.83 139.7) (xy 36.83 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62d3b75b-a526-4026-9e39-605aba8df9ff")
 	)
 	(wire
 		(pts
@@ -3630,6 +3868,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 147.32) (xy 31.75 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90f33ec5-c87a-487e-a5fc-8a8bd5c87078")
+	)
+	(wire
+		(pts
 			(xy 233.68 30.48) (xy 232.41 30.48)
 		)
 		(stroke
@@ -3790,6 +4038,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 142.24) (xy 38.1 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbe3d79d-4b8f-423a-bf65-1e1cb187588b")
+	)
+	(wire
+		(pts
 			(xy 135.89 50.8) (xy 138.43 50.8)
 		)
 		(stroke
@@ -3847,6 +4105,16 @@
 			(type default)
 		)
 		(uuid "e53265b2-07ce-4b26-adbf-c887c0646029")
+	)
+	(wire
+		(pts
+			(xy 38.1 142.24) (xy 38.1 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5dc7a96-be66-4397-8af8-5584285ef57b")
 	)
 	(wire
 		(pts
@@ -3950,6 +4218,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 140.97) (xy 29.21 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f24362d9-bfdd-4ccb-9ddf-04bb73a924f2")
+	)
+	(wire
+		(pts
 			(xy 143.51 49.53) (xy 146.05 49.53)
 		)
 		(stroke
@@ -3997,6 +4275,16 @@
 			(type default)
 		)
 		(uuid "fc2541fc-2f92-49ca-badb-69f07a626f03")
+	)
+	(wire
+		(pts
+			(xy 39.37 149.86) (xy 29.21 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fee7fc11-d4f1-406f-bde8-6ea32ce8b70f")
 	)
 	(label "12V Master"
 		(at 21.59 102.87 0)
@@ -4107,6 +4395,16 @@
 			(justify left bottom)
 		)
 		(uuid "5ca8e18c-2ac0-4de9-aa40-6af60e0d8563")
+	)
+	(label "HV-"
+		(at 31.75 157.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "81e16698-06a0-4b36-a299-54f856fa65c2")
 	)
 	(label "OUT_N"
 		(at 242.57 41.91 180)
@@ -4417,6 +4715,154 @@
 			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Symbols:TEA_1-0505")
+		(at 39.37 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24423c7c-198a-41d1-b61e-10bd9541c73a")
+		(property "Reference" "PS1"
+			(at 68.58 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TEA_1-0505"
+			(at 68.58 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Footprints:TEA10505"
+			(at 68.58 237.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://tracopower.com/tea1-datasheet/"
+			(at 68.58 337.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "1 Watt DC/DC converter, industrial, +/-10% input, unregulated, highly cost efficient, encapsulated, SIP-4"
+			(at 39.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "10.15"
+			(at 68.58 537.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Traco Power"
+			(at 68.58 637.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TEA 1-0505"
+			(at 68.58 737.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "495-TEA1-0505"
+			(at 68.58 837.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEA-1-0505?qs=GedFDFLaBXEYm9Nac0%2F18A%3D%3D"
+			(at 68.58 937.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 68.58 1037.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 68.58 1137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "787bdfb5-52a0-4c0b-8803-58a5881879f3")
+		)
+		(pin "4"
+			(uuid "4cb60f57-e13d-497b-ab6e-58513be74965")
+		)
+		(pin "3"
+			(uuid "df4f2a03-52f7-44f2-8d12-68d4c49c7c2d")
+		)
+		(pin "2"
+			(uuid "9be28d0a-5a14-40d2-94ae-173e0686c665")
+		)
+		(instances
+			(project "Voltage_Indicator"
+				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
+					(reference "PS1")
 					(unit 1)
 				)
 			)
@@ -4961,7 +5407,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4bacad2b-be62-4707-a64e-1b4b6fa0a614")
 		(property "Reference" "#PWR05"
 			(at 92.71 35.56 0)
@@ -4972,12 +5417,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 92.71 26.67 0)
+		(property "Value" "+5VDD"
+			(at 90.17 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -5216,6 +5662,72 @@
 			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 36.83 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b5d821f-9223-4a94-a7a7-01a8d37218bb")
+		(property "Reference" "#PWR017"
+			(at 36.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 36.83 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 36.83 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 36.83 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93cfb14d-1849-47a1-b71c-12a69b595df0")
+		)
+		(instances
+			(project "Voltage_Indicator"
+				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -5646,6 +6158,72 @@
 			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 29.21 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "89eacd84-b570-4f07-9da5-5a26a6080efc")
+		(property "Reference" "#PWR019"
+			(at 29.21 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VDD"
+			(at 26.67 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9528141-05a7-4863-aba4-3fde5128b117")
+		)
+		(instances
+			(project "Voltage_Indicator"
+				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -6517,6 +7095,72 @@
 			(project "Voltage_Indicator"
 				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 38.1 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb2d1c12-b0fe-4caa-98b7-a44f65f780e3")
+		(property "Reference" "#PWR018"
+			(at 38.1 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 38.1 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8e3cff3-4ad0-459f-ab3b-f38c54fb71ac")
+		)
+		(instances
+			(project "Voltage_Indicator"
+				(path "/5593afb4-6fc8-40c0-9307-9f2b2eba9183"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
