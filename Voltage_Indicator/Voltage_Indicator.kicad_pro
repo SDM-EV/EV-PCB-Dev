@@ -702,6 +702,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Measure",
+          "name": "Measure",
+          "show": false
         }
       ],
       "filter_string": "",
