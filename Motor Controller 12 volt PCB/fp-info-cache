@@ -1,4 +1,4 @@
-26643468009505154
+26652329152466823
 1N
 CR_SOD-523F_ONS
 
@@ -27,6 +27,20 @@ TE_776279-1
 0
 8
 8
+1825910_6
+SW_1825910-6-4
+
+
+0
+4
+4
+435171014816
+435171014816
+
+
+0
+6
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106287,3 +106301,24 @@ Varistor VF
 0
 2
 2
+boob button
+SON4_PTS526 SM15 SMTR2 LFS_CNK
+
+PTS526 SM15 SMTR2 LFS 
+0
+4
+4
+boob button
+SON4_PTS526 SM15 SMTR2 LFS_CNK-L
+
+PTS526 SM15 SMTR2 LFS 
+0
+4
+4
+boob button
+SON4_PTS526 SM15 SMTR2 LFS_CNK-M
+
+PTS526 SM15 SMTR2 LFS 
+0
+4
+4

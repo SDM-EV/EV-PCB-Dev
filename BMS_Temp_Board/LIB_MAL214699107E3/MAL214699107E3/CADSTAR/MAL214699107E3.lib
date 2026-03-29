@@ -1,0 +1,16 @@
+.MAL214699107E3 :1 ;Vishay 330F 50V dc Aluminium Electrolytic Capacitor, Surface Mount 12.5 (Dia.) x 16mm +125C 12.5mm 3.6mm
+MAL214699107E3
+*STM C
+*NGS
+*PLB 1="-" 2="GND_1" 3="+" 4="GND_2"
+*MXP 4
+*DFN MAL214699107E3
+~!Mouser Part Number (594-MAL214699107E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL214699107E3?qs=Ep9Lwju7gVqGQFZeQuJIeQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (MAL214699107E3)
+~!Link Datasheet (http://www.vishay.com/docs/28403/146cti.pdf)
+~!Height (16mm)
+~!3D_Model (MAL214699107E3)
+MAL214699107E3
+1.1!U 2.1!U 3.1!U 4.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAL214699107E3
+D Vishay 330F 50V dc Aluminium Electrolytic Capacitor, Surface Mount 12.5 (Dia.) x 16mm +125C 12.5mm 3.6mm
+K
+F http://www.vishay.com/docs/28403/146cti.pdf
+$ENDCMP
+#
+#End Doc Library

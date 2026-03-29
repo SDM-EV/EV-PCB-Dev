@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PR22-12V-400-1A
+D PR22-12V-400-1A - 29 x 12.6 x 15.8 mm, 12 V, 8 A, SPST (1 Form A), Power Relay
+K
+F https://www.sameskydevices.com/product/resource/PR22-12V-400-1A.pdf
+$ENDCMP
+#
+#End Doc Library

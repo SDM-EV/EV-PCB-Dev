@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAL214699107E3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "MAL214699107E3" (!) = "", "MAL214699107E3", "Other", "594-MAL214699107E3", "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL214699107E3?qs=Ep9Lwju7gVqGQFZeQuJIeQ%3D%3D", "Vishay 330F 50V dc Aluminium Electrolytic Capacitor, Surface Mount 12.5 (Dia.) x 16mm +125C 12.5mm 3.6mm", "http://www.vishay.com/docs/28403/146cti.pdf", "16 mm"
+END_PART
+
+END.

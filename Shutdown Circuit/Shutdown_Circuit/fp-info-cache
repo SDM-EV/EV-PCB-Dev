@@ -1,4 +1,4 @@
-27629266914655141
+27632816282510897
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71428,12 +71428,26 @@ Connector
 25
 25
 Misc_footprints
+PR2212V4001A
+PR22-12V-400-1A-2
+Relay or Contactor
+0
+6
+6
+Misc_footprints
 V23047A1012A511
 V23047A1012A511-2
 Relay or Contactor
 0
 6
 6
+Misc_footprints
+ZXM61N02FTC
+SOT23_2025
+MOSFET (N-Channel)
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet

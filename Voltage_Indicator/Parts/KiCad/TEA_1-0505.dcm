@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEA_1-0505
+D 1 Watt DC/DC converter, industrial, +/-10% input, unregulated, highly cost efficient, encapsulated, SIP-4
+K
+F https://tracopower.com/tea1-datasheet/
+$ENDCMP
+#
+#End Doc Library

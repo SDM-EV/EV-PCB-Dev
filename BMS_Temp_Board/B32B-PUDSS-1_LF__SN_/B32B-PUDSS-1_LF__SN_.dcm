@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B32B-PUDSS-1_LF__SN_
+D 2x16P 32P PUD Tin 2mm 16 -25~+85 3A 2 2mm Copper alloy Direct Insert Plugin,P=2mm Wire To Board Connector ROHS
+K
+F https://www.jst-mfg.com/product/pdf/eng/ePUD.pdf
+$ENDCMP
+#
+#End Doc Library
