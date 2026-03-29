@@ -480,6 +480,575 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Misc:PR22-12V-400-1A"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "K"
+				(at 29.21 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "PR22-12V-400-1A"
+				(at 29.21 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "PR2212V4001A"
+				(at 29.21 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.sameskydevices.com/product/resource/PR22-12V-400-1A.pdf"
+				(at 29.21 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "PR22-12V-400-1A - 29 x 12.6 x 15.8 mm, 12 V, 8 A, SPST (1 Form A), Power Relay"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "16.1"
+				(at 29.21 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Same Sky"
+				(at 29.21 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "PR22-12V-400-1A"
+				(at 29.21 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 29.21 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 29.21 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 29.21 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 29.21 -994.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "PR22-12V-400-1A_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 27.94 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "COIL_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "COM_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "NO_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 0 180)
+					(length 5.08)
+					(name "COIL_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -2.54 180)
+					(length 5.08)
+					(name "COM_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -5.08 180)
+					(length 5.08)
+					(name "NO_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Misc:ZXM61N02FTC"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 11.43 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "ZXM61N02FTC"
+				(at 11.43 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "ZXM61N02FTC"
+				(at 11.43 -98.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM61N02F.pdf"
+				(at 11.43 -198.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "N-Channel 20 V 1.7A (Ta) 625mW (Ta) Surface Mount SOT-23-3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.1"
+				(at 11.43 -398.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Diodes Incorporated"
+				(at 11.43 -498.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "ZXM61N02FTC"
+				(at 11.43 -598.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "522-ZXM61N02FTC"
+				(at 11.43 -698.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXM61N02FTC?qs=Ly%2FNF0nuwQ%252BajYK1Z8B2XQ%3D%3D"
+				(at 11.43 -798.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "ZXM61N02FTC"
+				(at 11.43 -898.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/zxm61n02ftc/diodes-incorporated"
+				(at 11.43 -998.73 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ZXM61N02FTC_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 5.08) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 5.588) (xy 5.842 4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.54) (xy 6.858 3.048) (xy 6.858 2.032) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 2.032) (xy 5.842 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.842 -0.508) (xy 5.842 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 6.35 2.54)
+					(radius 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 5.842 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 5.842 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 10.16 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SDM_CONNECTOR:776280-1"
 			(pin_names
 				(hide yes)
@@ -821,507 +1390,6 @@
 						)
 					)
 					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "SDM_RELAY:V23047A1012A511"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "K"
-				(at 29.21 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "V23047A1012A511"
-				(at 29.21 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "V23047A1012A511"
-				(at 29.21 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SR2M&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1393258-5"
-				(at 29.21 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Force-Guided Relay, DC, Monostable, 1A (NO) + 1B (NC), 6 A Contact Rating, 12 VDC Coil Voltage, 250 VAC Contact Voltage, .7 W Coil Power, SCHRACK SR2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "25.5"
-				(at 29.21 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "655-V23047A1012A511"
-				(at 29.21 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/V23047A1012A511?qs=6ogX2QCChDGDxV%252Br8TdjEQ%3D%3D"
-				(at 29.21 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "TE Connectivity"
-				(at 29.21 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "V23047A1012A511"
-				(at 29.21 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "V23047A1012A511_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 27.94 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "COIL_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "COM_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "NO_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 0 180)
-					(length 5.08)
-					(name "COIL_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -2.54 180)
-					(length 5.08)
-					(name "NC_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -5.08 180)
-					(length 5.08)
-					(name "COM_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "SDM_Transistor:2N2222"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 13.97 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "2N2222"
-				(at 13.97 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "2N2222"
-				(at 13.97 -101.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.alldatasheet.com/datasheet-pdf/download/15067/PHILIPS/2N2222.html"
-				(at 13.97 -201.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "Bipolar (BJT) Transistor NPN 30 V 800 mA 250MHz 500 mW Through Hole TO-18"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "5.31"
-				(at 13.97 -401.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "NXP"
-				(at 13.97 -501.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "2N2222"
-				(at 13.97 -601.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 13.97 -701.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 13.97 -801.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 13.97 -901.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 13.97 -1001.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "2N2222_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 1.27) (xy 10.16 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -1.27) (xy 10.16 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.382 -2.54) (xy 8.89 -2.032) (xy 9.398 -3.048) (xy 8.382 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 8.89 0)
-					(radius 4.016)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 3.81) (xy 10.16 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -3.81) (xy 10.16 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 7.62 270)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -7.62 90)
-					(length 2.54)
-					(name "E"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1697,46 +1765,22 @@
 		(uuid "101f1db0-9d64-4e1c-a8bc-17abb5bc1387")
 	)
 	(junction
+		(at 68.58 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1fa4b404-b388-4dba-848a-681ff65ea7f7")
+	)
+	(junction
 		(at 240.03 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "244ac53c-695b-4934-ba25-ba6679d3155b")
 	)
 	(junction
-		(at 140.97 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "292f6cca-74dc-4e84-a28f-78fcec9825a9")
-	)
-	(junction
-		(at 53.34 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31a34d78-446e-45b2-9f91-94ecd19a4d2c")
-	)
-	(junction
-		(at 140.97 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ba1b85a-4aa2-4448-bb25-d68ee6ef599b")
-	)
-	(junction
-		(at 53.34 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "419cf252-8759-4b84-82bb-0e20691b7c9f")
-	)
-	(junction
 		(at 26.67 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e32d0f8-0bcd-40e2-9f33-4623f237fea8")
-	)
-	(junction
-		(at 109.22 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "680996df-a132-4b8f-80da-0836d9f3d661")
 	)
 	(junction
 		(at 227.33 60.96)
@@ -1757,34 +1801,10 @@
 		(uuid "9463b0b5-5c9d-471c-a342-4fa6f086f267")
 	)
 	(junction
-		(at 128.27 57.15)
+		(at 143.51 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a7b684b2-6964-4f33-a2a4-1d5ee0c36402")
-	)
-	(junction
-		(at 64.77 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af6307cb-af53-4663-a13b-82fcfe190069")
-	)
-	(junction
-		(at 33.02 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b53cf778-930d-4e08-8cc8-5e2dbd18327d")
-	)
-	(junction
-		(at 64.77 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c936e051-7a86-492f-bd78-771d66b820a8")
-	)
-	(junction
-		(at 128.27 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f3f85b27-b0a3-4d0a-ac08-177dcbe647e7")
+		(uuid "abc69faf-88a7-4e5c-9a15-eda54935ea6f")
 	)
 	(no_connect
 		(at 138.43 78.74)
@@ -1808,7 +1828,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 60.96) (xy 33.02 60.96)
+			(xy 26.67 60.96) (xy 43.18 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1828,23 +1848,23 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 73.66) (xy 140.97 73.66)
+			(xy 109.22 67.31) (xy 139.7 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "141366eb-84a7-47cc-8a88-453bdf843048")
+		(uuid "076be511-56d1-4889-95f4-71b7dee5a254")
 	)
 	(wire
 		(pts
-			(xy 109.22 57.15) (xy 109.22 62.23)
+			(xy 33.02 66.04) (xy 66.04 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1e1c3141-1863-4a31-a2aa-88440dd60924")
+		(uuid "10757ac1-0790-4d68-97ca-57a06743b3a9")
 	)
 	(wire
 		(pts
@@ -1855,6 +1875,16 @@
 			(type default)
 		)
 		(uuid "1f63e4f3-2290-440e-9daf-477ec3776cb5")
+	)
+	(wire
+		(pts
+			(xy 139.7 73.66) (xy 138.43 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25c666cf-57ca-4079-b3de-a447d22eb924")
 	)
 	(wire
 		(pts
@@ -1878,16 +1908,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 60.96) (xy 43.18 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2933e06b-537b-405b-b947-97641c2484e4")
-	)
-	(wire
-		(pts
 			(xy 50.8 55.88) (xy 53.34 55.88)
 		)
 		(stroke
@@ -1898,27 +1918,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 55.88) (xy 33.02 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c554eec-f75f-467b-ad81-4dbf2353b3e5")
-	)
-	(wire
-		(pts
-			(xy 128.27 62.23) (xy 140.97 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30c9844a-b3d9-479d-b2f0-3c344a444713")
-	)
-	(wire
-		(pts
-			(xy 64.77 72.39) (xy 64.77 83.82)
+			(xy 68.58 60.96) (xy 68.58 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1938,6 +1938,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 67.31) (xy 139.7 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "489367f5-7d9f-4969-a498-606f0def18ed")
+	)
+	(wire
+		(pts
 			(xy 102.87 73.66) (xy 105.41 73.66)
 		)
 		(stroke
@@ -1948,16 +1958,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 60.96) (xy 64.77 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e6d6ed1-88de-4950-b74f-7fff4763805a")
-	)
-	(wire
-		(pts
 			(xy 200.66 50.8) (xy 219.71 50.8)
 		)
 		(stroke
@@ -1965,26 +1965,6 @@
 			(type default)
 		)
 		(uuid "4ed5786b-c349-46e0-8fc8-df88de9e2e68")
-	)
-	(wire
-		(pts
-			(xy 102.87 62.23) (xy 109.22 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54628fdb-2f17-41ed-9110-b164d176051a")
-	)
-	(wire
-		(pts
-			(xy 68.58 60.96) (xy 64.77 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58b02189-cf85-405c-a685-ec8ae4e139b6")
 	)
 	(wire
 		(pts
@@ -2028,7 +2008,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 60.96) (xy 53.34 60.96)
+			(xy 50.8 60.96) (xy 68.58 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2068,13 +2048,13 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 57.15) (xy 128.27 62.23)
+			(xy 66.04 66.04) (xy 66.04 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "737bcd25-7fdd-40d9-970d-da57c0ad628c")
+		(uuid "75d740a0-e27d-4632-bca8-69fa94dc0ced")
 	)
 	(wire
 		(pts
@@ -2098,7 +2078,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 62.23) (xy 118.11 62.23)
+			(xy 102.87 62.23) (xy 118.11 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2118,16 +2098,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 55.88) (xy 53.34 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b4244c8-06fd-4280-8998-d47a9d89839e")
-	)
-	(wire
-		(pts
 			(xy 26.67 72.39) (xy 30.48 72.39)
 		)
 		(stroke
@@ -2138,7 +2108,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 62.23) (xy 140.97 73.66)
+			(xy 143.51 62.23) (xy 143.51 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2168,23 +2138,13 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 40.64) (xy 135.89 41.91)
+			(xy 138.43 40.64) (xy 138.43 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9c4bd969-b323-40fb-8d5a-27ad16027c67")
-	)
-	(wire
-		(pts
-			(xy 140.97 73.66) (xy 140.97 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7bd6d47-e31d-437b-82fb-e579ee5dc561")
 	)
 	(wire
 		(pts
@@ -2208,7 +2168,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 33.02) (xy 60.96 33.02)
+			(xy 40.64 40.64) (xy 63.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2218,7 +2178,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 33.02) (xy 135.89 33.02)
+			(xy 114.3 40.64) (xy 138.43 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2248,23 +2208,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 40.64) (xy 60.96 41.91)
+			(xy 63.5 40.64) (xy 63.5 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bdd3db4a-56a3-463a-a311-5aa60bb4ee6f")
-	)
-	(wire
-		(pts
-			(xy 64.77 60.96) (xy 64.77 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c500a894-bfe1-48dd-a739-48902ef0d879")
 	)
 	(wire
 		(pts
@@ -2298,7 +2248,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 62.23) (xy 128.27 62.23)
+			(xy 125.73 62.23) (xy 143.51 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2318,16 +2268,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 62.23) (xy 140.97 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d528d4cd-8995-4ad5-98ac-4f2d6cc9faac")
-	)
-	(wire
-		(pts
 			(xy 224.79 59.69) (xy 224.79 60.96)
 		)
 		(stroke
@@ -2338,6 +2278,26 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 55.88) (xy 33.02 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dab8db7c-d836-443b-a79c-4a17b9c47f8d")
+	)
+	(wire
+		(pts
+			(xy 109.22 57.15) (xy 109.22 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd2d4fef-de5f-4e55-a725-538f49bc6fe1")
+	)
+	(wire
+		(pts
 			(xy 125.73 57.15) (xy 128.27 57.15)
 		)
 		(stroke
@@ -2345,16 +2305,6 @@
 			(type default)
 		)
 		(uuid "e868fa11-f634-40e4-9f91-554d67d0ff2e")
-	)
-	(wire
-		(pts
-			(xy 63.5 72.39) (xy 64.77 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed0d29d0-764a-4d72-bd75-e558af0e304c")
 	)
 	(wire
 		(pts
@@ -2416,6 +2366,16 @@
 		)
 		(uuid "fbf7b4d9-9207-4937-8ad7-5d054100399c")
 	)
+	(wire
+		(pts
+			(xy 66.04 72.39) (xy 63.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc8f42e1-f7cb-4f9e-8b38-49a4830e4410")
+	)
 	(label "BMS KILL SIGNAL"
 		(at 199.39 53.34 0)
 		(effects
@@ -2427,7 +2387,7 @@
 		(uuid "1166ca1f-42e2-4bda-9553-006da9e37112")
 	)
 	(label "IMD KILL SIGNAL"
-		(at 114.3 33.02 0)
+		(at 114.3 40.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2467,7 +2427,7 @@
 		(uuid "5d2100b5-0280-4489-9338-e14d75be3cba")
 	)
 	(label "BMS KILL SIGNAL"
-		(at 40.64 33.02 0)
+		(at 40.64 40.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2802,76 +2762,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 135.89 36.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "25afee61-6e07-48e5-a3cb-656d59e046d1")
-		(property "Reference" "R3"
-			(at 142.24 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "680"
-			(at 139.7 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 137.668 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 135.89 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5583c4b2-a815-4e2c-b9b9-24316894380d")
-		)
-		(pin "2"
-			(uuid "009d199f-98c6-4990-a26c-82792ab35b9f")
-		)
-		(instances
-			(project "Charging Shutdown"
-				(path "/5d84ed2f-3068-4a1b-8253-c099d292ee58"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 64.77 83.82 0)
+		(at 68.58 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2880,7 +2772,7 @@
 		(fields_autoplaced yes)
 		(uuid "3127510d-79c6-4b18-a63c-06513f170174")
 		(property "Reference" "#PWR01"
-			(at 64.77 90.17 0)
+			(at 68.58 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2889,7 +2781,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 88.9 0)
+			(at 68.58 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2897,7 +2789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 83.82 0)
+			(at 68.58 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2906,7 +2798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 83.82 0)
+			(at 68.58 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2915,7 +2807,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 83.82 0)
+			(at 68.58 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3225,8 +3117,8 @@
 		)
 	)
 	(symbol
-		(lib_id "SDM_Transistor:2N2222")
-		(at 135.89 41.91 90)
+		(lib_id "Misc:ZXM61N02FTC")
+		(at 138.43 44.45 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3235,7 +3127,7 @@
 		(dnp no)
 		(uuid "6fa1aac4-1063-4725-9c4a-6c14277b17bf")
 		(property "Reference" "Q3"
-			(at 139.446 58.6741 90)
+			(at 141.986 61.2141 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3244,7 +3136,7 @@
 			)
 		)
 		(property "Value" "2N2222"
-			(at 139.446 56.134 90)
+			(at 141.986 58.674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3252,7 +3144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Shutdown_Footprint:2N2222"
+		(property "Footprint" "Shutdown_Footprint:ZXM61N02FTC"
 			(at 237.16 55.88 0)
 			(effects
 				(font
@@ -3262,7 +3154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.alldatasheet.com/datasheet-pdf/download/15067/PHILIPS/2N2222.html"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM61N02F.pdf"
 			(at 337.16 55.88 0)
 			(effects
 				(font
@@ -3272,8 +3164,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar (BJT) Transistor NPN 30 V 800 mA 250MHz 500 mW Through Hole TO-18"
-			(at 135.89 41.91 0)
+		(property "Description" "N-Channel 20 V 1.7A (Ta) 625mW (Ta) Surface Mount SOT-23-3"
+			(at 138.43 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3281,7 +3173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "5.31"
+		(property "Height" "1.1"
 			(at 537.16 55.88 0)
 			(effects
 				(font
@@ -3291,7 +3183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "NXP"
+		(property "Manufacturer_Name" "Diodes Incorporated"
 			(at 637.16 55.88 0)
 			(effects
 				(font
@@ -3301,7 +3193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "2N2222"
+		(property "Manufacturer_Part_Number" "ZXM61N02FTC"
 			(at 737.16 55.88 0)
 			(effects
 				(font
@@ -3311,7 +3203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Mouser Part Number" "522-ZXM61N02FTC"
 			(at 837.16 55.88 0)
 			(effects
 				(font
@@ -3321,7 +3213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" ""
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXM61N02FTC?qs=Ly%2FNF0nuwQ%252BajYK1Z8B2XQ%3D%3D"
 			(at 937.16 55.88 0)
 			(effects
 				(font
@@ -3331,7 +3223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" ""
+		(property "Arrow Part Number" "ZXM61N02FTC"
 			(at 1037.16 55.88 0)
 			(effects
 				(font
@@ -3341,7 +3233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" ""
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/zxm61n02ftc/diodes-incorporated"
 			(at 1137.16 55.88 0)
 			(effects
 				(font
@@ -3437,8 +3329,8 @@
 		)
 	)
 	(symbol
-		(lib_id "SDM_Transistor:2N2222")
-		(at 60.96 41.91 90)
+		(lib_id "Misc:ZXM61N02FTC")
+		(at 63.5 44.45 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3447,7 +3339,7 @@
 		(dnp no)
 		(uuid "8086b948-e228-4d96-ac8e-6cce28c72b58")
 		(property "Reference" "Q1"
-			(at 64.516 58.6741 90)
+			(at 67.056 61.2141 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3456,7 +3348,7 @@
 			)
 		)
 		(property "Value" "2N2222"
-			(at 64.516 56.134 90)
+			(at 67.056 58.674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3464,7 +3356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Shutdown_Footprint:2N2222"
+		(property "Footprint" "Shutdown_Footprint:ZXM61N02FTC"
 			(at 162.23 55.88 0)
 			(effects
 				(font
@@ -3474,7 +3366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.alldatasheet.com/datasheet-pdf/download/15067/PHILIPS/2N2222.html"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM61N02F.pdf"
 			(at 262.23 55.88 0)
 			(effects
 				(font
@@ -3484,8 +3376,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar (BJT) Transistor NPN 30 V 800 mA 250MHz 500 mW Through Hole TO-18"
-			(at 60.96 41.91 0)
+		(property "Description" "N-Channel 20 V 1.7A (Ta) 625mW (Ta) Surface Mount SOT-23-3"
+			(at 63.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3493,7 +3385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "5.31"
+		(property "Height" "1.1"
 			(at 462.23 55.88 0)
 			(effects
 				(font
@@ -3503,7 +3395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "NXP"
+		(property "Manufacturer_Name" "Diodes Incorporated"
 			(at 562.23 55.88 0)
 			(effects
 				(font
@@ -3513,7 +3405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "2N2222"
+		(property "Manufacturer_Part_Number" "ZXM61N02FTC"
 			(at 662.23 55.88 0)
 			(effects
 				(font
@@ -3523,7 +3415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Mouser Part Number" "522-ZXM61N02FTC"
 			(at 762.23 55.88 0)
 			(effects
 				(font
@@ -3533,7 +3425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" ""
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXM61N02FTC?qs=Ly%2FNF0nuwQ%252BajYK1Z8B2XQ%3D%3D"
 			(at 862.23 55.88 0)
 			(effects
 				(font
@@ -3543,7 +3435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" ""
+		(property "Arrow Part Number" "ZXM61N02FTC"
 			(at 962.23 55.88 0)
 			(effects
 				(font
@@ -3553,7 +3445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" ""
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/zxm61n02ftc/diodes-incorporated"
 			(at 1062.23 55.88 0)
 			(effects
 				(font
@@ -3650,7 +3542,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SDM_RELAY:V23047A1012A511")
+		(lib_id "Misc:PR22-12V-400-1A")
 		(at 30.48 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3666,7 +3558,7 @@
 				)
 			)
 		)
-		(property "Value" "V23047A1012A511"
+		(property "Value" "PR2212V4001A"
 			(at 47.244 85.09 0)
 			(effects
 				(font
@@ -3674,7 +3566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SDM_MiscFootprint:V23047A1012A511"
+		(property "Footprint" "Shutdown_Footprint:PR2212V4001A"
 			(at 59.69 167.31 0)
 			(effects
 				(font
@@ -3684,7 +3576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SR2M&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1393258-5"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/PR22-12V-400-1A.pdf"
 			(at 59.69 267.31 0)
 			(effects
 				(font
@@ -3694,7 +3586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Force-Guided Relay, DC, Monostable, 1A (NO) + 1B (NC), 6 A Contact Rating, 12 VDC Coil Voltage, 250 VAC Contact Voltage, .7 W Coil Power, SCHRACK SR2"
+		(property "Description" "PR22-12V-400-1A - 29 x 12.6 x 15.8 mm, 12 V, 8 A, SPST (1 Form A), Power Relay"
 			(at 30.48 72.39 0)
 			(effects
 				(font
@@ -3703,7 +3595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "25.5"
+		(property "Height" "16.1"
 			(at 59.69 467.31 0)
 			(effects
 				(font
@@ -3714,26 +3606,6 @@
 			)
 		)
 		(property "Mouser Part Number" "655-V23047A1012A511"
-			(at 59.69 567.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/V23047A1012A511?qs=6ogX2QCChDGDxV%252Br8TdjEQ%3D%3D"
-			(at 59.69 667.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TE Connectivity"
 			(at 59.69 767.31 0)
 			(effects
 				(font
@@ -3743,7 +3615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "V23047A1012A511"
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/V23047A1012A511?qs=6ogX2QCChDGDxV%252Br8TdjEQ%3D%3D"
 			(at 59.69 867.31 0)
 			(effects
 				(font
@@ -3753,7 +3625,47 @@
 				(hide yes)
 			)
 		)
-		(pin "13"
+		(property "Manufacturer_Name" "Same Sky"
+			(at 59.69 567.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PR22-12V-400-1A"
+			(at 59.69 667.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 59.69 967.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 59.69 1067.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "5"
 			(uuid "4b163e85-0b56-46f8-9f0c-4a12c613ae34")
 		)
 		(pin "1"
@@ -3762,13 +3674,13 @@
 		(pin "2"
 			(uuid "49d74fe6-c945-4814-92cc-185ae063dc02")
 		)
-		(pin "21"
+		(pin "4"
 			(uuid "bf36b241-9f25-4136-a232-233b14a52486")
 		)
-		(pin "22"
+		(pin "3"
 			(uuid "067989d3-ea37-43a0-9f2e-3f7698d5bab0")
 		)
-		(pin "14"
+		(pin "6"
 			(uuid "ca083b04-8d19-4b31-8fc1-567c0e2bc3ac")
 		)
 		(instances
@@ -3917,7 +3829,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 83.82 0)
+		(at 143.51 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3926,7 +3838,7 @@
 		(fields_autoplaced yes)
 		(uuid "c27e18d3-76de-4093-bf74-09acf3a2b9a1")
 		(property "Reference" "#PWR03"
-			(at 140.97 90.17 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3935,7 +3847,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 88.9 0)
+			(at 143.51 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3943,7 +3855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 83.82 0)
+			(at 143.51 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3952,7 +3864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 83.82 0)
+			(at 143.51 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3961,7 +3873,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 83.82 0)
+			(at 143.51 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,7 +3960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SDM_RELAY:V23047A1012A511")
+		(lib_id "Misc:PR22-12V-400-1A")
 		(at 105.41 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4064,7 +3976,7 @@
 				)
 			)
 		)
-		(property "Value" "V23047A1012A511"
+		(property "Value" "PR2212V4001A"
 			(at 121.92 85.344 0)
 			(effects
 				(font
@@ -4072,7 +3984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SDM_MiscFootprint:V23047A1012A511"
+		(property "Footprint" "Shutdown_Footprint:PR2212V4001A"
 			(at 134.62 168.58 0)
 			(effects
 				(font
@@ -4082,7 +3994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SR2M&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1393258-5"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/PR22-12V-400-1A.pdf"
 			(at 134.62 268.58 0)
 			(effects
 				(font
@@ -4092,7 +4004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Force-Guided Relay, DC, Monostable, 1A (NO) + 1B (NC), 6 A Contact Rating, 12 VDC Coil Voltage, 250 VAC Contact Voltage, .7 W Coil Power, SCHRACK SR2"
+		(property "Description" "PR22-12V-400-1A - 29 x 12.6 x 15.8 mm, 12 V, 8 A, SPST (1 Form A), Power Relay"
 			(at 105.41 73.66 0)
 			(effects
 				(font
@@ -4101,7 +4013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "25.5"
+		(property "Height" "16.1"
 			(at 134.62 468.58 0)
 			(effects
 				(font
@@ -4112,26 +4024,6 @@
 			)
 		)
 		(property "Mouser Part Number" "655-V23047A1012A511"
-			(at 134.62 568.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/V23047A1012A511?qs=6ogX2QCChDGDxV%252Br8TdjEQ%3D%3D"
-			(at 134.62 668.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "TE Connectivity"
 			(at 134.62 768.58 0)
 			(effects
 				(font
@@ -4141,7 +4033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "V23047A1012A511"
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/V23047A1012A511?qs=6ogX2QCChDGDxV%252Br8TdjEQ%3D%3D"
 			(at 134.62 868.58 0)
 			(effects
 				(font
@@ -4151,7 +4043,47 @@
 				(hide yes)
 			)
 		)
-		(pin "13"
+		(property "Manufacturer_Name" "Same Sky"
+			(at 134.62 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PR22-12V-400-1A"
+			(at 134.62 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 134.62 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 134.62 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "5"
 			(uuid "f78cd9e9-5198-40dc-8d84-9b0a30092f44")
 		)
 		(pin "1"
@@ -4160,13 +4092,13 @@
 		(pin "2"
 			(uuid "7d2d11f4-4b17-410b-87c4-deb0f7845b27")
 		)
-		(pin "21"
+		(pin "3"
 			(uuid "35dafc9e-4bc2-4745-b013-9b8fb3955b96")
 		)
-		(pin "22"
+		(pin "4"
 			(uuid "d35d682e-e1f7-40c2-a2e4-552c79654418")
 		)
-		(pin "14"
+		(pin "6"
 			(uuid "ef44c1e8-032a-4dac-8555-faae6351fbbd")
 		)
 		(instances
@@ -4381,74 +4313,6 @@
 			(project "Charging Shutdown"
 				(path "/5d84ed2f-3068-4a1b-8253-c099d292ee58"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 60.96 36.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7ffed71-4442-462d-a416-b1e43f362182")
-		(property "Reference" "R1"
-			(at 67.31 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "680"
-			(at 64.77 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 62.738 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 60.96 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "49e15758-d33b-4ef7-9b7a-0e971dc32d7b")
-		)
-		(pin "2"
-			(uuid "87dde1b8-4255-437d-bf71-dc58ceb75f29")
-		)
-		(instances
-			(project "Charging Shutdown"
-				(path "/5d84ed2f-3068-4a1b-8253-c099d292ee58"
-					(reference "R1")
 					(unit 1)
 				)
 			)

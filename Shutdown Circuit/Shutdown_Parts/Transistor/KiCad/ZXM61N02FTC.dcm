@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZXM61N02FTC
+D N-Channel 20 V 1.7A (Ta) 625mW (Ta) Surface Mount SOT-23-3
+K
+F https://www.diodes.com/assets/Datasheets/ZXM61N02F.pdf
+$ENDCMP
+#
+#End Doc Library

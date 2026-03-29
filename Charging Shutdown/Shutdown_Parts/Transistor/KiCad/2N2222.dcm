@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N2222
+D Bipolar (BJT) Transistor NPN 30 V 800 mA 250MHz 500 mW Through Hole TO-18
+K
+F https://www.alldatasheet.com/datasheet-pdf/download/15067/PHILIPS/2N2222.html
+$ENDCMP
+#
+#End Doc Library

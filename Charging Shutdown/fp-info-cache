@@ -1,4 +1,4 @@
-27627498350841868
+27631047793518455
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100495,6 +100495,20 @@ Shutdown_Footprint
 2N2222
 TO-18_2025-1.1
 Transistor BJT NPN
+0
+3
+3
+Shutdown_Footprint
+PR2212V4001A
+PR22-12V-400-1A-2
+Relay or Contactor
+0
+6
+6
+Shutdown_Footprint
+ZXM61N02FTC
+SOT23_2025
+MOSFET (N-Channel)
 0
 3
 3
