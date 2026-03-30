@@ -1530,7 +1530,7 @@
 	)
 	(text "Latch"
 		(exclude_from_sim no)
-		(at 91.694 34.798 0)
+		(at 80.264 37.338 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1539,11 +1539,11 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "18161d59-3fda-4563-ad41-a3127fcdf234")
+		(uuid "92c3f9cd-f410-438c-b615-d10b126a8cc7")
 	)
 	(text_box "Latch in Falstad"
 		(exclude_from_sim no)
-		(at 91.44 35.56 0)
+		(at 80.01 38.1 0)
 		(size 16.51 5.08)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -1559,673 +1559,673 @@
 			)
 			(href "https://is.gd/yCNWNc")
 		)
-		(uuid "62f888e6-00cf-44ed-a908-7182e0cadba0")
+		(uuid "a5416e17-d622-4dd5-a76a-a5ad141aeefd")
 	)
 	(junction
-		(at 160.02 87.63)
+		(at 119.38 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "013fd22c-e767-4b22-a504-366eaea17572")
+		(uuid "100b35c3-703b-4a34-a96d-284a81902470")
 	)
 	(junction
-		(at 107.95 80.01)
+		(at 144.78 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1582d4df-9e45-4dd8-b51b-d305973adc4f")
+		(uuid "1a57d050-3c96-41ee-9d1a-9aa0e82f0b14")
 	)
 	(junction
-		(at 156.21 87.63)
+		(at 119.38 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3756201e-cbab-449b-827c-6647fbb644c8")
+		(uuid "3f612574-2de3-440a-ad2a-c6ae7b135e9a")
 	)
 	(junction
-		(at 130.81 80.01)
+		(at 148.59 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3a3764cc-1a64-40d6-8097-d58e833b0271")
+		(uuid "86a0a74e-c42c-492b-b753-c7b57cc0287e")
 	)
 	(junction
-		(at 160.02 68.58)
+		(at 96.52 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4f58aeff-bf8d-485d-b0f1-849f1b302b0e")
+		(uuid "b54055b5-4a35-43c1-89e7-cd555bca7bab")
 	)
 	(junction
-		(at 128.27 68.58)
+		(at 148.59 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "59521138-ed2f-4058-8898-7c3ec98aa527")
+		(uuid "e4da7f3f-1301-4f9b-b484-97cb0ddfa6d5")
 	)
 	(junction
-		(at 130.81 100.33)
+		(at 116.84 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d91ea6a8-e81f-44a2-8a0a-b64fbb860621")
+		(uuid "f2be432e-83d5-437f-a1c5-0db11feee9bd")
 	)
 	(wire
 		(pts
-			(xy 107.95 74.93) (xy 107.95 80.01)
+			(xy 96.52 93.98) (xy 96.52 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0b5968e4-b6ed-4a51-bf40-0777df207703")
+		(uuid "0cdc4905-a2d8-40d3-9a44-84d9da1f4fd1")
 	)
 	(wire
 		(pts
-			(xy 115.57 58.42) (xy 128.27 58.42)
+			(xy 212.09 43.18) (xy 226.06 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "143e3939-0803-424e-8316-29ffa37ed515")
+		(uuid "1c04115d-4559-424e-8465-0c64b0b28818")
 	)
 	(wire
 		(pts
-			(xy 153.67 68.58) (xy 160.02 68.58)
+			(xy 144.78 90.17) (xy 148.59 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1544aeef-24bb-4e52-80d9-85905a1ea9ac")
+		(uuid "32a72d30-b072-41eb-ac1a-c31c4598b595")
 	)
 	(wire
 		(pts
-			(xy 162.56 43.18) (xy 162.56 52.07)
+			(xy 110.49 45.72) (xy 151.13 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "18928bac-a997-4141-85ad-880f1499b2a7")
+		(uuid "3468f91d-3eff-406e-b297-d42b1476d4fa")
 	)
 	(wire
 		(pts
-			(xy 173.99 68.58) (xy 187.96 68.58)
+			(xy 163.83 36.83) (xy 163.83 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1fe8577f-4694-4a42-9dbd-18afe19f8a1a")
+		(uuid "35fda390-ef56-486b-9b9b-29c1181d3597")
 	)
 	(wire
 		(pts
-			(xy 115.57 58.42) (xy 115.57 52.07)
+			(xy 96.52 82.55) (xy 101.6 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "29d9882f-6c9e-4a5f-99ff-dadfa6d3a708")
+		(uuid "399936d9-48b7-4409-92ff-0e92ebad1cbc")
 	)
 	(wire
 		(pts
-			(xy 160.02 68.58) (xy 166.37 68.58)
+			(xy 119.38 102.87) (xy 129.54 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2b67ce2a-1769-4682-99e7-c4a3bd7c4542")
+		(uuid "3c0d5ba0-197a-4b76-b27a-07e4e8b03bd7")
 	)
 	(wire
 		(pts
-			(xy 153.67 87.63) (xy 156.21 87.63)
+			(xy 96.52 82.55) (xy 96.52 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "46f369c8-3825-4f25-a817-bbb79909caac")
+		(uuid "4ceead93-e12d-4614-b8b6-6232ece44d14")
 	)
 	(wire
 		(pts
-			(xy 156.21 34.29) (xy 175.26 34.29)
+			(xy 148.59 71.12) (xy 154.94 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4b7586af-1509-4743-8d97-134e482063a8")
+		(uuid "511d5d4b-f33f-4073-b523-723cc4de739b")
 	)
 	(wire
 		(pts
-			(xy 223.52 40.64) (xy 237.49 40.64)
+			(xy 110.49 36.83) (xy 124.46 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4cc8276f-e7cd-46b4-8253-b0078597e08c")
+		(uuid "565e06db-b928-4735-b1cd-455b6dbf2e47")
 	)
 	(wire
 		(pts
-			(xy 121.92 34.29) (xy 135.89 34.29)
+			(xy 96.52 77.47) (xy 96.52 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4d30e34c-96ee-431c-8e28-eb663a695446")
+		(uuid "5c9b6a72-90af-4738-9b87-7e282e75bb67")
 	)
 	(wire
 		(pts
-			(xy 199.39 43.18) (xy 203.2 43.18)
+			(xy 134.62 102.87) (xy 149.86 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "531e0878-6abc-4915-b446-75e58b50f7d6")
+		(uuid "60cd04a1-fea9-4dfd-9d5c-7463f77f2123")
 	)
 	(wire
 		(pts
-			(xy 130.81 111.76) (xy 130.81 114.3)
+			(xy 162.56 71.12) (xy 176.53 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5755c63d-d223-4a81-88b1-7ce922d7dcac")
+		(uuid "6465bad0-8dea-4e23-8b81-cb4d777a151b")
 	)
 	(wire
 		(pts
-			(xy 132.08 36.83) (xy 135.89 36.83)
+			(xy 104.14 60.96) (xy 116.84 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5841d474-32d0-477a-b926-fa518bd5878d")
+		(uuid "6d1f71ed-f157-4dbb-a32e-ecacdf7c2b70")
 	)
 	(wire
 		(pts
-			(xy 138.43 87.63) (xy 140.97 87.63)
+			(xy 120.65 39.37) (xy 124.46 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "595559f4-3887-4155-8591-4ab2bb2d608e")
+		(uuid "6d92e05b-f6b0-4861-8312-610f9fb900ac")
 	)
 	(wire
 		(pts
-			(xy 144.78 80.01) (xy 144.78 82.55)
+			(xy 142.24 87.63) (xy 144.78 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5cd85a0e-8b6c-4355-b240-e9bbd48e9974")
+		(uuid "7c02496b-32a6-4dcd-9c75-3c3ed068d5bb")
 	)
 	(wire
 		(pts
-			(xy 107.95 69.85) (xy 107.95 68.58)
+			(xy 119.38 114.3) (xy 119.38 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5d1aa381-9642-4ffb-a0c2-d9fd53b0aff5")
+		(uuid "8518381b-6557-4f7d-a2f9-e617d2af3db5")
 	)
 	(wire
 		(pts
-			(xy 128.27 58.42) (xy 128.27 68.58)
+			(xy 127 63.5) (xy 176.53 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5fee1b30-d1ee-4ad8-9e36-bc1b606cfd0c")
+		(uuid "86386f80-f0fa-44b4-a723-8eea4f896825")
 	)
 	(wire
 		(pts
-			(xy 105.41 106.68) (xy 124.46 106.68)
+			(xy 212.09 45.72) (xy 229.87 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "65881799-0e53-4b57-acff-91d0af4ca320")
+		(uuid "8b7f4545-b0cf-4e15-92f1-e37982441ac1")
 	)
 	(wire
 		(pts
-			(xy 130.81 80.01) (xy 130.81 81.28)
+			(xy 148.59 87.63) (xy 148.59 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "714ab207-74f4-4f1e-a377-d298b5df4436")
+		(uuid "8bbdc5e6-5223-4979-a84b-c1568f9ec760")
 	)
 	(wire
 		(pts
-			(xy 107.95 91.44) (xy 107.95 92.71)
+			(xy 109.22 82.55) (xy 119.38 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "77391798-c1f3-44e4-983d-8631b8791a89")
+		(uuid "8bc48e94-b652-441a-a159-c98da213d1d5")
 	)
 	(wire
 		(pts
-			(xy 156.21 87.63) (xy 156.21 85.09)
+			(xy 144.78 90.17) (xy 144.78 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f6f419c-6384-4f3c-925f-e25a38aacb75")
+		(uuid "8cefcd7d-64eb-4b4b-9e60-1ca30241186a")
 	)
 	(wire
 		(pts
-			(xy 130.81 100.33) (xy 140.97 100.33)
+			(xy 148.59 71.12) (xy 148.59 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8b155021-8352-4061-b12e-637b671de6fb")
+		(uuid "9214d19f-8ce1-4635-b452-6cc06a062716")
 	)
 	(wire
 		(pts
-			(xy 153.67 85.09) (xy 156.21 85.09)
+			(xy 127 90.17) (xy 129.54 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8df23c29-626f-4e3b-93ff-afa9f57a7f23")
+		(uuid "92764070-df94-43f5-be01-18727de76387")
 	)
 	(wire
 		(pts
-			(xy 138.43 60.96) (xy 187.96 60.96)
+			(xy 151.13 54.61) (xy 147.32 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8fd99e60-2769-4101-8f06-dbc3e7086950")
+		(uuid "93195db3-2cb6-4f71-a0b1-808b794bcd37")
 	)
 	(wire
 		(pts
-			(xy 107.95 68.58) (xy 128.27 68.58)
+			(xy 77.47 88.9) (xy 90.17 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9761533e-5f3b-4a3f-b2d4-df376f0422cf")
+		(uuid "9c8ed1fb-42b2-4a78-bd67-612314b92ed5")
 	)
 	(wire
 		(pts
-			(xy 121.92 34.29) (xy 121.92 43.18)
+			(xy 142.24 90.17) (xy 144.78 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9906a096-4a84-4680-b5a5-ccf59366f87b")
+		(uuid "9cca7d3d-02bb-4e3c-b048-2280a4cc47c0")
 	)
 	(wire
 		(pts
-			(xy 162.56 52.07) (xy 158.75 52.07)
+			(xy 93.98 109.22) (xy 113.03 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a9e1765-fb6f-4208-a9db-1e8ea6d2f6fe")
+		(uuid "a3e95875-2131-4d10-8ca0-566416973ca6")
 	)
 	(wire
 		(pts
-			(xy 120.65 80.01) (xy 130.81 80.01)
+			(xy 163.83 57.15) (xy 147.32 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9de306b3-98ce-4b9e-8e26-e37be0a8608e")
+		(uuid "a6b41bac-5158-48c1-8156-b0dceeaacdaf")
 	)
 	(wire
 		(pts
-			(xy 160.02 87.63) (xy 163.83 87.63)
+			(xy 119.38 82.55) (xy 119.38 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a9442c9d-d222-446a-8c58-0fe25488cdd6")
+		(uuid "aa9719b8-1e28-4c06-8c4b-a1995ee26750")
 	)
 	(wire
 		(pts
-			(xy 160.02 68.58) (xy 160.02 69.85)
+			(xy 133.35 82.55) (xy 133.35 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ab000716-d43c-4142-b523-3dd88aeb22de")
+		(uuid "ab4530ed-9991-4a11-9ac7-8cec0bbbfded")
 	)
 	(wire
 		(pts
-			(xy 107.95 80.01) (xy 107.95 81.28)
+			(xy 127 90.17) (xy 127 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ae2768b3-33fe-4e35-b989-c13541c82c72")
+		(uuid "b0547996-6a2f-4a39-8a59-4af2fbd08580")
 	)
 	(wire
 		(pts
-			(xy 88.9 86.36) (xy 101.6 86.36)
+			(xy 144.78 36.83) (xy 163.83 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ae331b67-9ed9-4213-8de6-8f760321d303")
+		(uuid "bc6fe124-b45f-44ca-bee4-a63d930db3b0")
 	)
 	(wire
 		(pts
-			(xy 187.96 60.96) (xy 187.96 68.58)
+			(xy 110.49 36.83) (xy 110.49 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af331fde-353d-4616-b581-378397deb51c")
+		(uuid "c1228eca-e65e-41ef-9b58-c009d1ab2497")
 	)
 	(wire
 		(pts
-			(xy 138.43 87.63) (xy 138.43 88.9)
+			(xy 142.24 71.12) (xy 148.59 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b0b876d6-2ed4-4663-839f-1a49e5a62abf")
+		(uuid "c4be901d-37e2-466e-8afc-18203ffa9b68")
 	)
 	(wire
 		(pts
-			(xy 160.02 85.09) (xy 160.02 87.63)
+			(xy 104.14 54.61) (xy 127 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b0b8ff34-d7fc-4024-8f24-8b2a92a0169f")
+		(uuid "ce3ed229-8ba4-4a97-83ec-81b6d5270e1b")
 	)
 	(wire
 		(pts
-			(xy 130.81 100.33) (xy 130.81 101.6)
+			(xy 176.53 63.5) (xy 176.53 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b444c772-2c6a-44d6-a748-624123f3dc97")
+		(uuid "d264959a-7b2e-4989-8daf-17c75396070c")
 	)
 	(wire
 		(pts
-			(xy 121.92 43.18) (xy 162.56 43.18)
+			(xy 119.38 88.9) (xy 119.38 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9af21f1-6fd8-4022-9517-ad970cbbf929")
+		(uuid "d301c4ed-e5f5-49e2-9de5-3ac32e7ef3dd")
 	)
 	(wire
 		(pts
-			(xy 175.26 34.29) (xy 175.26 54.61)
+			(xy 119.38 102.87) (xy 119.38 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bae0d3b5-e971-454d-9dfa-39bd63cf9210")
+		(uuid "d558eac8-c545-42ad-8baf-501b7e89809c")
 	)
 	(wire
 		(pts
-			(xy 146.05 100.33) (xy 161.29 100.33)
+			(xy 127 63.5) (xy 127 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bc4c8763-e18f-4a99-ada5-ecfbbe3ebeea")
+		(uuid "d688a5be-3c39-4ee5-9390-a257b2406718")
 	)
 	(wire
 		(pts
-			(xy 186.69 40.64) (xy 203.2 40.64)
+			(xy 96.52 72.39) (xy 96.52 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c955f0be-1b8f-495e-8ddd-85f8a1cfd6d9")
+		(uuid "d79bfee1-b0f1-46f1-832e-a9451bb6165c")
 	)
 	(wire
 		(pts
-			(xy 223.52 43.18) (xy 241.3 43.18)
+			(xy 151.13 45.72) (xy 151.13 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb68e73f-c51b-4d2a-95ae-c31517941771")
+		(uuid "dbaf6da0-2648-43c8-be7c-23b834a485d5")
 	)
 	(wire
 		(pts
-			(xy 128.27 68.58) (xy 146.05 68.58)
+			(xy 116.84 71.12) (xy 134.62 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1aea0c3-304b-4e2f-bfe1-ef342554bef2")
+		(uuid "dbb97ca6-6ec9-483a-8bc4-17920c18d498")
 	)
 	(wire
 		(pts
-			(xy 115.57 52.07) (xy 138.43 52.07)
+			(xy 96.52 71.12) (xy 116.84 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d54a1c29-d877-451c-a452-8e9d882e43b0")
+		(uuid "dc5ba725-46ad-4c57-98d9-d0fb2500feeb")
 	)
 	(wire
 		(pts
-			(xy 175.26 54.61) (xy 158.75 54.61)
+			(xy 119.38 97.79) (xy 119.38 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d8c97740-9a6d-4faa-a03d-3374233c6be8")
+		(uuid "e265c5d1-2117-4784-beb7-af4dc650bb66")
 	)
 	(wire
 		(pts
-			(xy 130.81 86.36) (xy 130.81 87.63)
+			(xy 187.96 45.72) (xy 191.77 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "da9bf1db-e933-4611-9d20-2be750ece72e")
+		(uuid "e6e3bb8a-f4b7-4e31-aa2b-526116120987")
 	)
 	(wire
 		(pts
-			(xy 107.95 80.01) (xy 113.03 80.01)
+			(xy 116.84 60.96) (xy 116.84 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e4e9fd91-8bc6-45a3-859b-5dc780a6e530")
+		(uuid "ee74fbb8-dd32-45ed-910a-bd663b126971")
 	)
 	(wire
 		(pts
-			(xy 130.81 80.01) (xy 144.78 80.01)
+			(xy 104.14 60.96) (xy 104.14 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ebf775b1-08a9-4d94-a047-fcb66df0a6d9")
+		(uuid "f9165d38-9bd9-4316-80cb-a53a56c54e91")
 	)
 	(wire
 		(pts
-			(xy 156.21 87.63) (xy 160.02 87.63)
+			(xy 175.26 43.18) (xy 191.77 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f9333e5d-b8b7-475b-8bc3-fd2ea4881a5a")
+		(uuid "fe01f804-84f4-429b-99ea-b13e3a72e413")
 	)
 	(wire
 		(pts
-			(xy 130.81 95.25) (xy 130.81 100.33)
+			(xy 119.38 82.55) (xy 133.35 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fce9ef15-8dbb-40fb-8a9b-24f00b8d8f7f")
+		(uuid "ff5867d2-9875-4aaa-b0a0-e1337ea3092b")
 	)
 	(wire
 		(pts
-			(xy 138.43 60.96) (xy 138.43 54.61)
+			(xy 148.59 90.17) (xy 152.4 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fe9154af-242a-4d41-b783-55e8501d57e8")
+		(uuid "ff7043f6-6759-4d67-925c-549c4c454fee")
 	)
 	(label "12V IGNITION"
-		(at 121.92 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2baf2b20-29b6-4c40-87f3-80805d04faa7")
-	)
-	(label "12V MASTER"
-		(at 88.9 86.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "49702284-dfa8-4548-b17c-a0d288a2453c")
-	)
-	(label "12V IGNITION"
-		(at 161.29 100.33 180)
+		(at 149.86 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "4afbb76a-bf70-4fbc-8ace-334f1e020d84")
+		(uuid "0e3cb6ca-bc9d-49b5-9e15-fe377d817bf5")
 	)
-	(label "12V MASTER"
-		(at 173.99 34.29 180)
+	(label "12V IGNITION"
+		(at 226.06 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "62ec66ff-9c69-40bc-9c93-c1a8570e91c8")
+		(uuid "14d6ad22-0da3-4e57-a92b-2ea2a29e78ea")
 	)
 	(label "12V IGNITION"
-		(at 115.57 58.42 0)
+		(at 110.49 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "7c281e8c-1fe6-4a58-b777-18b25609197d")
+		(uuid "19efeaf8-2b2c-4891-b291-8524d1f3a8a2")
+	)
+	(label "12V IGNITION"
+		(at 104.14 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7319d09f-5aa2-4cd7-8949-6cac4b9f2179")
+	)
+	(label "12V MASTER"
+		(at 162.56 36.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "90b276ae-f90c-49fa-aaf4-d3542d34f2c7")
+	)
+	(label "12V MASTER"
+		(at 77.47 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a127702d-52c0-4798-a2a7-7af2e2506fd7")
 	)
 	(label "IMD_LOGIC_SIGNAL"
-		(at 241.3 43.18 180)
+		(at 93.98 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "80bd31fd-7dc6-4597-8d2a-0137d56d2bd1")
-	)
-	(label "12V MASTER"
-		(at 186.69 68.58 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "84ed7063-c263-42ba-922e-e5f006b64ad9")
+		(uuid "a5451e54-c9cc-422f-9409-56bcc518bb01")
 	)
 	(label "SCR Gate"
-		(at 143.51 80.01 180)
+		(at 132.08 82.55 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "8cd0fd13-8712-4cdb-90fb-2c8254639564")
+		(uuid "c9771cea-7b50-47fd-849d-297842df1af8")
 	)
 	(label "12V MASTER"
-		(at 186.69 40.64 0)
+		(at 175.26 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "9c9626c5-21c5-4f72-964b-ba22c5b79831")
+		(uuid "d3d236b4-57e4-4ab6-937a-d13213d03900")
 	)
-	(label "12V IGNITION"
-		(at 237.49 40.64 180)
+	(label "12V MASTER"
+		(at 175.26 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "bae7562b-9ba8-4558-96fa-353bad850970")
+		(uuid "e7520623-5923-41be-b6aa-e2dcd5bb2661")
 	)
 	(label "IMD_LOGIC_SIGNAL"
-		(at 105.41 106.68 0)
+		(at 229.87 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "f940485a-0b0c-482d-a42d-75349b29ade6")
+		(uuid "e8c6f920-2697-4cb8-86ef-67a115296f59")
 	)
 	(global_label "IMD KILL SIGNAL"
 		(shape input)
-		(at 163.83 87.63 0)
+		(at 144.78 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2233,9 +2233,9 @@
 			)
 			(justify left)
 		)
-		(uuid "14891dc8-ed44-4999-88af-ec86f4c4034a")
+		(uuid "b65e03e3-2e3d-4248-a96b-89ecddd5ba81")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.5391 87.63 0)
+			(at 163.4891 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2247,7 +2247,7 @@
 	)
 	(global_label "IMD KILL SIGNAL"
 		(shape input)
-		(at 156.21 36.83 0)
+		(at 152.4 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2255,9 +2255,9 @@
 			)
 			(justify left)
 		)
-		(uuid "cec73416-7d0c-4e30-adbe-93c2d0f87f9d")
+		(uuid "f8d904c6-80e1-4db3-b39f-77915cabbbc1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 174.9191 36.83 0)
+			(at 171.1091 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2269,7 +2269,7 @@
 	)
 	(symbol
 		(lib_id "IMDSymbolLibrary:172448-0004")
-		(at 156.21 36.83 180)
+		(at 144.78 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2278,7 +2278,7 @@
 		(fields_autoplaced yes)
 		(uuid "116cba9d-56a0-4424-a2cd-69e61aee1ea7")
 		(property "Reference" "J1"
-			(at 146.05 26.67 0)
+			(at 134.62 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2286,7 +2286,7 @@
 			)
 		)
 		(property "Value" "172448-0004"
-			(at 146.05 29.21 0)
+			(at 134.62 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2294,7 +2294,7 @@
 			)
 		)
 		(property "Footprint" "IMDFootprintLibrary:172448-YY04"
-			(at 139.7 -58.09 0)
+			(at 128.27 -55.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2304,7 +2304,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf"
-			(at 139.7 -158.09 0)
+			(at 128.27 -155.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2314,7 +2314,7 @@
 			)
 		)
 		(property "Description" "Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-2, Glow-Wire Capable"
-			(at 156.21 36.83 0)
+			(at 144.78 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2323,7 +2323,7 @@
 			)
 		)
 		(property "Height" "10"
-			(at 139.7 -358.09 0)
+			(at 128.27 -355.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2333,7 +2333,7 @@
 			)
 		)
 		(property "Mouser Part Number" "538-172448-0004"
-			(at 139.7 -458.09 0)
+			(at 128.27 -455.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2343,7 +2343,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/172448-0004?qs=UxK%2FDTs6dB6CtzGMQhL0Hg%3D%3D"
-			(at 139.7 -558.09 0)
+			(at 128.27 -555.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2353,7 +2353,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 139.7 -658.09 0)
+			(at 128.27 -655.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2363,7 +2363,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "172448-0004"
-			(at 139.7 -758.09 0)
+			(at 128.27 -755.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2395,7 +2395,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 199.39 43.18 0)
+		(at 187.96 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2403,7 +2403,7 @@
 		(dnp no)
 		(uuid "28ea18ab-5bb2-42ec-8c6a-08b9dd3282f7")
 		(property "Reference" "#PWR01"
-			(at 199.39 49.53 0)
+			(at 187.96 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2412,7 +2412,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 199.39 48.26 0)
+			(at 187.96 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2420,7 +2420,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 43.18 0)
+			(at 187.96 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2429,7 +2429,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 43.18 0)
+			(at 187.96 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2438,7 +2438,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 199.39 43.18 0)
+			(at 187.96 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2460,7 @@
 	)
 	(symbol
 		(lib_id "IMDSymbolLibrary:172448-0004")
-		(at 138.43 52.07 0)
+		(at 127 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2469,7 +2469,7 @@
 		(fields_autoplaced yes)
 		(uuid "3681c81b-8029-4b5f-9088-dbd35440459c")
 		(property "Reference" "J3"
-			(at 148.59 44.45 0)
+			(at 137.16 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2477,7 +2477,7 @@
 			)
 		)
 		(property "Value" "172448-0004"
-			(at 148.59 46.99 0)
+			(at 137.16 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2485,7 +2485,7 @@
 			)
 		)
 		(property "Footprint" "IMDFootprintLibrary:172448-YY04"
-			(at 154.94 146.99 0)
+			(at 143.51 149.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2495,7 +2495,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf"
-			(at 154.94 246.99 0)
+			(at 143.51 249.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2505,7 +2505,7 @@
 			)
 		)
 		(property "Description" "Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-2, Glow-Wire Capable"
-			(at 138.43 52.07 0)
+			(at 127 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2514,7 @@
 			)
 		)
 		(property "Height" "10"
-			(at 154.94 446.99 0)
+			(at 143.51 449.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2524,7 +2524,7 @@
 			)
 		)
 		(property "Mouser Part Number" "538-172448-0004"
-			(at 154.94 546.99 0)
+			(at 143.51 549.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2534,7 +2534,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/172448-0004?qs=UxK%2FDTs6dB6CtzGMQhL0Hg%3D%3D"
-			(at 154.94 646.99 0)
+			(at 143.51 649.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2544,7 +2544,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 154.94 746.99 0)
+			(at 143.51 749.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2554,7 +2554,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "172448-0004"
-			(at 154.94 846.99 0)
+			(at 143.51 849.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2576,7 +2576,7 @@
 			(uuid "e5fef858-bcbd-4cc7-aa2e-d2a76a165781")
 		)
 		(instances
-			(project ""
+			(project "IMD Indicator"
 				(path "/2d398882-e4dd-424e-9a5b-db438ffb0a84"
 					(reference "J3")
 					(unit 1)
@@ -2586,7 +2586,7 @@
 	)
 	(symbol
 		(lib_id "SDM_SCR:X0202MN_5BA4")
-		(at 154.94 87.63 180)
+		(at 143.51 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2594,7 +2594,7 @@
 		(dnp no)
 		(uuid "436cd6b6-d13d-44ac-8f98-d07bfa26b44b")
 		(property "Reference" "D7"
-			(at 142.748 90.17 0)
+			(at 131.318 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2602,7 +2602,7 @@
 			)
 		)
 		(property "Value" "X0202MN_5BA4"
-			(at 148.844 92.202 0)
+			(at 137.414 94.742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2610,7 +2610,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SOT230P700X190-4N"
-			(at 140.97 -17.45 0)
+			(at 129.54 -14.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2620,7 +2620,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00002274.pdf"
-			(at 140.97 -117.45 0)
+			(at 129.54 -114.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2630,7 +2630,7 @@
 			)
 		)
 		(property "Description" "STMICROELECTRONICS - X0202MN 5BA4 - SCR THYRISTOR, 800mA, 600V, SOT-223"
-			(at 154.94 87.63 0)
+			(at 143.51 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2639,7 +2639,7 @@
 			)
 		)
 		(property "Height" "1.9"
-			(at 140.97 -317.45 0)
+			(at 129.54 -314.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2649,7 +2649,7 @@
 			)
 		)
 		(property "Mouser Part Number" "511-X0202MN"
-			(at 140.97 -417.45 0)
+			(at 129.54 -414.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2659,7 +2659,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/X0202MN-5BA4?qs=gSSIpVhvwUnb%2FPyS6HoGFw%3D%3D"
-			(at 140.97 -517.45 0)
+			(at 129.54 -514.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2669,7 +2669,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "STMicroelectronics"
-			(at 140.97 -617.45 0)
+			(at 129.54 -614.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,7 +2679,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "X0202MN 5BA4"
-			(at 140.97 -717.45 0)
+			(at 129.54 -714.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2711,7 +2711,7 @@
 	)
 	(symbol
 		(lib_id "SDM_DIODES:BAT54XV2T1G")
-		(at 120.65 80.01 180)
+		(at 109.22 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2720,7 +2720,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b74c7aa-aabe-4fd8-a453-8f676ffe98a3")
 		(property "Reference" "D5"
-			(at 115.57 73.66 0)
+			(at 104.14 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2728,7 +2728,7 @@
 			)
 		)
 		(property "Value" "BAT54XV2T1G"
-			(at 115.57 76.2 0)
+			(at 104.14 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2736,7 +2736,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SODFL1608X70N"
-			(at 109.22 -17.45 0)
+			(at 97.79 -14.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2746,7 +2746,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF"
-			(at 109.22 -117.45 0)
+			(at 97.79 -114.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2756,7 +2756,7 @@
 			)
 		)
 		(property "Description" "These Devices are Pb-Free, Halogen Free/BFR Free and are RoHS Compliant; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable ; Lower forward voltage (VF)"
-			(at 120.65 80.01 0)
+			(at 109.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2765,7 +2765,7 @@
 			)
 		)
 		(property "Height" "0.7"
-			(at 109.22 -317.45 0)
+			(at 97.79 -314.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +2775,7 @@
 			)
 		)
 		(property "Mouser Part Number" "863-BAT54XV2T1G"
-			(at 109.22 -417.45 0)
+			(at 97.79 -414.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2785,7 +2785,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/BAT54XV2T1G?qs=vLkC5FC1VN8vpceP7xcdrw%3D%3D"
-			(at 109.22 -517.45 0)
+			(at 97.79 -514.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2795,7 +2795,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "onsemi"
-			(at 109.22 -617.45 0)
+			(at 97.79 -614.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2805,7 +2805,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BAT54XV2T1G"
-			(at 109.22 -717.45 0)
+			(at 97.79 -714.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2831,7 +2831,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 114.3 0)
+		(at 119.38 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2840,7 +2840,7 @@
 		(fields_autoplaced yes)
 		(uuid "50aeb458-dd22-4021-91e0-0c803ebd4a3d")
 		(property "Reference" "#PWR02"
-			(at 130.81 120.65 0)
+			(at 119.38 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2849,7 +2849,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 119.38 0)
+			(at 119.38 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2857,7 +2857,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 114.3 0)
+			(at 119.38 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2866,7 +2866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 114.3 0)
+			(at 119.38 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2875,7 +2875,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 114.3 0)
+			(at 119.38 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2897,7 +2897,7 @@
 	)
 	(symbol
 		(lib_id "SDM_MOSFET_N-CHANNEL:2N7002,215")
-		(at 124.46 106.68 0)
+		(at 113.03 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2905,7 +2905,7 @@
 		(dnp no)
 		(uuid "70b242bb-535d-4f81-b920-352886295fb6")
 		(property "Reference" "Q2"
-			(at 133.096 104.902 0)
+			(at 121.666 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2914,7 +2914,7 @@
 			)
 		)
 		(property "Value" "2N7002,215"
-			(at 133.096 106.68 0)
+			(at 121.666 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2923,7 +2923,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SOT95P230X110-3N"
-			(at 135.89 205.41 0)
+			(at 124.46 207.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2933,7 +2933,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/2N7002.pdf"
-			(at 135.89 305.41 0)
+			(at 124.46 307.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2943,7 +2943,7 @@
 			)
 		)
 		(property "Description" "MOSFET N-Channel 60V 0.3A TO236AB NXP 2N7002,215 N-channel MOSFET Transistor, 0.3 A, 60 V, 3-Pin TO-236AB"
-			(at 124.46 106.68 0)
+			(at 113.03 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2952,7 +2952,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 135.89 505.41 0)
+			(at 124.46 507.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2962,7 +2962,7 @@
 			)
 		)
 		(property "Mouser Part Number" "771-2N7002-T/R"
-			(at 135.89 605.41 0)
+			(at 124.46 607.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2972,7 +2972,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002215?qs=P62ublwmbi9rRKKuNdhqMA%3D%3D"
-			(at 135.89 705.41 0)
+			(at 124.46 707.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2982,7 +2982,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Nexperia"
-			(at 135.89 805.41 0)
+			(at 124.46 807.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2992,7 +2992,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "2N7002,215"
-			(at 135.89 905.41 0)
+			(at 124.46 907.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3021,7 +3021,7 @@
 	)
 	(symbol
 		(lib_id "SDM_DIODES:BAT54XV2T1G")
-		(at 130.81 87.63 270)
+		(at 119.38 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3029,7 +3029,7 @@
 		(dnp no)
 		(uuid "7117f5c4-ce84-4905-b122-d7daa302680a")
 		(property "Reference" "D6"
-			(at 125.984 90.424 90)
+			(at 114.554 92.964 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3038,7 +3038,7 @@
 			)
 		)
 		(property "Value" "BAT54XV2T1G"
-			(at 116.332 92.202 90)
+			(at 104.902 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3047,7 +3047,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SODFL1608X70N"
-			(at 33.35 99.06 0)
+			(at 21.92 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3057,7 +3057,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF"
-			(at -66.65 99.06 0)
+			(at -78.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3067,7 +3067,7 @@
 			)
 		)
 		(property "Description" "These Devices are Pb-Free, Halogen Free/BFR Free and are RoHS Compliant; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable ; Lower forward voltage (VF)"
-			(at 130.81 87.63 0)
+			(at 119.38 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +3076,7 @@
 			)
 		)
 		(property "Height" "0.7"
-			(at -266.65 99.06 0)
+			(at -278.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3086,7 +3086,7 @@
 			)
 		)
 		(property "Mouser Part Number" "863-BAT54XV2T1G"
-			(at -366.65 99.06 0)
+			(at -378.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3096,7 +3096,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/BAT54XV2T1G?qs=vLkC5FC1VN8vpceP7xcdrw%3D%3D"
-			(at -466.65 99.06 0)
+			(at -478.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3106,7 +3106,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "onsemi"
-			(at -566.65 99.06 0)
+			(at -578.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3116,7 +3116,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BAT54XV2T1G"
-			(at -666.65 99.06 0)
+			(at -678.08 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3142,7 +3142,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 143.51 100.33 270)
+		(at 132.08 102.87 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3151,7 +3151,7 @@
 		(dnp no)
 		(uuid "7a45aed9-f502-4ee5-ac58-ddfd2b013773")
 		(property "Reference" "R5"
-			(at 141.732 96.012 90)
+			(at 130.302 98.552 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3160,7 +3160,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 141.732 98.044 90)
+			(at 130.302 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3169,7 +3169,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 143.51 100.33 0)
+			(at 132.08 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3178,7 +3178,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 100.33 0)
+			(at 132.08 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3187,7 +3187,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 143.51 100.33 0)
+			(at 132.08 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3212,7 +3212,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 132.08 36.83 0)
+		(at 120.65 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3221,7 +3221,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c3f31e9-4087-4e81-a0a1-38c95be4d0aa")
 		(property "Reference" "#PWR03"
-			(at 132.08 43.18 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3230,7 +3230,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 41.91 0)
+			(at 120.65 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3238,7 +3238,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 36.83 0)
+			(at 120.65 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3247,7 +3247,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 36.83 0)
+			(at 120.65 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3256,7 +3256,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 36.83 0)
+			(at 120.65 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3278,7 +3278,7 @@
 	)
 	(symbol
 		(lib_id "SDM_DIODES:BAT54XV2T1G")
-		(at 166.37 68.58 0)
+		(at 154.94 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3287,7 +3287,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f798436-7dea-471d-8bf6-589d572afa1a")
 		(property "Reference" "D3"
-			(at 171.45 62.23 0)
+			(at 160.02 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3295,7 +3295,7 @@
 			)
 		)
 		(property "Value" "BAT54XV2T1G"
-			(at 171.45 64.77 0)
+			(at 160.02 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3303,7 +3303,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SODFL1608X70N"
-			(at 177.8 166.04 0)
+			(at 166.37 168.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3313,7 +3313,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF"
-			(at 177.8 266.04 0)
+			(at 166.37 268.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3323,7 +3323,7 @@
 			)
 		)
 		(property "Description" "These Devices are Pb-Free, Halogen Free/BFR Free and are RoHS Compliant; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable ; Lower forward voltage (VF)"
-			(at 166.37 68.58 0)
+			(at 154.94 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3332,7 +3332,7 @@
 			)
 		)
 		(property "Height" "0.7"
-			(at 177.8 466.04 0)
+			(at 166.37 468.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3342,7 +3342,7 @@
 			)
 		)
 		(property "Mouser Part Number" "863-BAT54XV2T1G"
-			(at 177.8 566.04 0)
+			(at 166.37 568.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3352,7 +3352,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/BAT54XV2T1G?qs=vLkC5FC1VN8vpceP7xcdrw%3D%3D"
-			(at 177.8 666.04 0)
+			(at 166.37 668.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3362,7 +3362,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "onsemi"
-			(at 177.8 766.04 0)
+			(at 166.37 768.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3372,7 +3372,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BAT54XV2T1G"
-			(at 177.8 866.04 0)
+			(at 166.37 868.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3398,7 +3398,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 107.95 92.71 0)
+		(at 96.52 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3407,7 +3407,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f8dd7c2-c1ab-479b-bf66-964a1d5494ff")
 		(property "Reference" "#PWR040"
-			(at 107.95 99.06 0)
+			(at 96.52 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3416,7 +3416,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.95 97.79 0)
+			(at 96.52 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3424,7 +3424,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 92.71 0)
+			(at 96.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3433,7 +3433,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 92.71 0)
+			(at 96.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3442,7 +3442,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 107.95 92.71 0)
+			(at 96.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3464,7 +3464,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 138.43 88.9 0)
+		(at 127 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3473,7 +3473,7 @@
 		(fields_autoplaced yes)
 		(uuid "b96788f7-18b2-4a33-8fa7-1651f84590ca")
 		(property "Reference" "#PWR039"
-			(at 138.43 95.25 0)
+			(at 127 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3482,7 +3482,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 138.43 93.98 0)
+			(at 127 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3490,7 +3490,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.43 88.9 0)
+			(at 127 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3499,7 +3499,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 88.9 0)
+			(at 127 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3508,7 +3508,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 138.43 88.9 0)
+			(at 127 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,7 +3530,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 107.95 72.39 0)
+		(at 96.52 74.93 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3539,7 +3539,7 @@
 		(dnp no)
 		(uuid "b9d1f447-20d5-4c61-b586-ec5d2d54a41a")
 		(property "Reference" "R1"
-			(at 103.632 74.168 90)
+			(at 92.202 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3548,7 +3548,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 105.664 74.168 90)
+			(at 94.234 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3557,7 +3557,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 107.95 72.39 0)
+			(at 96.52 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3566,7 +3566,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 107.95 72.39 0)
+			(at 96.52 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3575,7 +3575,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 107.95 72.39 0)
+			(at 96.52 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3600,7 +3600,7 @@
 	)
 	(symbol
 		(lib_id "IMDSymbolLibrary:HLMP-EG08-WZ000")
-		(at 160.02 74.93 270)
+		(at 148.59 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3609,7 +3609,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf39244d-0c7f-4874-adc5-c3a082b74118")
 		(property "Reference" "LED1"
-			(at 166.37 80.0099 90)
+			(at 154.94 82.5499 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3618,7 +3618,7 @@
 			)
 		)
 		(property "Value" "HLMP-EG08-WZ000"
-			(at 166.37 82.5499 90)
+			(at 154.94 85.0899 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3627,7 +3627,7 @@
 			)
 		)
 		(property "Footprint" "IMDFootprintLibrary:LED_-WZ000"
-			(at 160.02 74.93 0)
+			(at 148.59 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3637,7 +3637,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/3/57/1/AV02_0373EN_DS_HLMP_ELxx_2024_10_30.pdf"
-			(at 160.02 74.93 0)
+			(at 148.59 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3647,7 +3647,25 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 74.93 0)
+			(at 148.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "630-HLMP-EG08-WZ000"
+			(at 148.59 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Broadcom-Avago/HLMP-EG08-WZ000?qs=sGAEpiMZZMurHQmwyojo5P2%252BanmiUk66YQZbcuMT5AA%3D"
+			(at 148.59 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3672,7 +3690,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 130.81 83.82 0)
+		(at 119.38 86.36 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3681,7 +3699,7 @@
 		(dnp no)
 		(uuid "c03f7420-7712-4e14-b2ca-ab9e2e6d2432")
 		(property "Reference" "R3"
-			(at 126.492 85.598 90)
+			(at 115.062 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3690,7 +3708,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 128.524 85.598 90)
+			(at 117.094 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3699,7 +3717,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 130.81 83.82 0)
+			(at 119.38 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3708,7 +3726,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 83.82 0)
+			(at 119.38 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3717,7 +3735,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 130.81 83.82 0)
+			(at 119.38 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3742,7 +3760,7 @@
 	)
 	(symbol
 		(lib_id "SDM_MOSFET_N-CHANNEL:2N7002,215")
-		(at 101.6 86.36 0)
+		(at 90.17 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3750,7 +3768,7 @@
 		(dnp no)
 		(uuid "d9385e0d-1175-4afd-88e0-c5a0c487c718")
 		(property "Reference" "Q1"
-			(at 110.236 84.582 0)
+			(at 98.806 87.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3759,7 +3777,7 @@
 			)
 		)
 		(property "Value" "2N7002,215"
-			(at 110.236 86.36 0)
+			(at 98.806 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3768,7 +3786,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SOT95P230X110-3N"
-			(at 113.03 185.09 0)
+			(at 101.6 187.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3778,7 +3796,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/2N7002.pdf"
-			(at 113.03 285.09 0)
+			(at 101.6 287.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3788,7 +3806,7 @@
 			)
 		)
 		(property "Description" "MOSFET N-Channel 60V 0.3A TO236AB NXP 2N7002,215 N-channel MOSFET Transistor, 0.3 A, 60 V, 3-Pin TO-236AB"
-			(at 101.6 86.36 0)
+			(at 90.17 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3797,7 +3815,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 113.03 485.09 0)
+			(at 101.6 487.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,7 +3825,7 @@
 			)
 		)
 		(property "Mouser Part Number" "771-2N7002-T/R"
-			(at 113.03 585.09 0)
+			(at 101.6 587.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3817,7 +3835,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002215?qs=P62ublwmbi9rRKKuNdhqMA%3D%3D"
-			(at 113.03 685.09 0)
+			(at 101.6 687.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3827,7 +3845,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Nexperia"
-			(at 113.03 785.09 0)
+			(at 101.6 787.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3837,7 +3855,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "2N7002,215"
-			(at 113.03 885.09 0)
+			(at 101.6 887.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3866,7 +3884,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 160.02 72.39 0)
+		(at 148.59 74.93 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3875,7 +3893,7 @@
 		(dnp no)
 		(uuid "ec3c6ca0-5e96-49af-97dd-ffbc1e4f386b")
 		(property "Reference" "R2"
-			(at 155.702 74.168 90)
+			(at 144.272 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,7 +3902,7 @@
 			)
 		)
 		(property "Value" "510"
-			(at 157.734 74.168 90)
+			(at 146.304 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3893,7 +3911,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 160.02 72.39 0)
+			(at 148.59 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3902,7 +3920,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 72.39 0)
+			(at 148.59 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3911,7 +3929,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 160.02 72.39 0)
+			(at 148.59 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,7 +3954,7 @@
 	)
 	(symbol
 		(lib_id "IMDSymbolLibrary:172448-0004")
-		(at 223.52 43.18 180)
+		(at 212.09 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3945,7 +3963,7 @@
 		(fields_autoplaced yes)
 		(uuid "faee463d-eebf-4c13-a6e5-dca45bc54333")
 		(property "Reference" "J2"
-			(at 213.36 33.02 0)
+			(at 201.93 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3953,7 +3971,7 @@
 			)
 		)
 		(property "Value" "172448-0004"
-			(at 213.36 35.56 0)
+			(at 201.93 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3961,7 +3979,7 @@
 			)
 		)
 		(property "Footprint" "IMDFootprintLibrary:172448-YY04"
-			(at 207.01 -51.74 0)
+			(at 195.58 -49.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3971,7 +3989,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf"
-			(at 207.01 -151.74 0)
+			(at 195.58 -149.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3981,7 +3999,7 @@
 			)
 		)
 		(property "Description" "Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-2, Glow-Wire Capable"
-			(at 223.52 43.18 0)
+			(at 212.09 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3990,7 +4008,7 @@
 			)
 		)
 		(property "Height" "10"
-			(at 207.01 -351.74 0)
+			(at 195.58 -349.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4000,7 +4018,7 @@
 			)
 		)
 		(property "Mouser Part Number" "538-172448-0004"
-			(at 207.01 -451.74 0)
+			(at 195.58 -449.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4010,7 +4028,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/172448-0004?qs=UxK%2FDTs6dB6CtzGMQhL0Hg%3D%3D"
-			(at 207.01 -551.74 0)
+			(at 195.58 -549.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4038,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 207.01 -651.74 0)
+			(at 195.58 -649.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4030,7 +4048,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "172448-0004"
-			(at 207.01 -751.74 0)
+			(at 195.58 -749.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,7 +4070,7 @@
 			(uuid "5d728e97-a7eb-49e3-b665-0084e28b585d")
 		)
 		(instances
-			(project ""
+			(project "IMD Indicator"
 				(path "/2d398882-e4dd-424e-9a5b-db438ffb0a84"
 					(reference "J2")
 					(unit 1)
@@ -4062,7 +4080,7 @@
 	)
 	(symbol
 		(lib_id "SDM_DIODES:BAT54XV2T1G")
-		(at 153.67 68.58 180)
+		(at 142.24 71.12 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4071,7 +4089,7 @@
 		(fields_autoplaced yes)
 		(uuid "fcd254ed-aaa8-4ab8-a73d-cbd345ccfc0e")
 		(property "Reference" "D2"
-			(at 148.59 62.23 0)
+			(at 137.16 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4079,7 +4097,7 @@
 			)
 		)
 		(property "Value" "BAT54XV2T1G"
-			(at 148.59 64.77 0)
+			(at 137.16 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4087,7 +4105,7 @@
 			)
 		)
 		(property "Footprint" "SDM_MiscFootprint:SODFL1608X70N"
-			(at 142.24 -28.88 0)
+			(at 130.81 -26.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4097,7 +4115,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF"
-			(at 142.24 -128.88 0)
+			(at 130.81 -126.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4107,7 +4125,7 @@
 			)
 		)
 		(property "Description" "These Devices are Pb-Free, Halogen Free/BFR Free and are RoHS Compliant; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable ; Lower forward voltage (VF)"
-			(at 153.67 68.58 0)
+			(at 142.24 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4116,7 +4134,7 @@
 			)
 		)
 		(property "Height" "0.7"
-			(at 142.24 -328.88 0)
+			(at 130.81 -326.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4126,7 +4144,7 @@
 			)
 		)
 		(property "Mouser Part Number" "863-BAT54XV2T1G"
-			(at 142.24 -428.88 0)
+			(at 130.81 -426.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +4154,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/BAT54XV2T1G?qs=vLkC5FC1VN8vpceP7xcdrw%3D%3D"
-			(at 142.24 -528.88 0)
+			(at 130.81 -526.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4146,7 +4164,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "onsemi"
-			(at 142.24 -628.88 0)
+			(at 130.81 -626.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4156,7 +4174,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "BAT54XV2T1G"
-			(at 142.24 -728.88 0)
+			(at 130.81 -726.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
