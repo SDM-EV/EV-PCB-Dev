@@ -486,7 +486,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
