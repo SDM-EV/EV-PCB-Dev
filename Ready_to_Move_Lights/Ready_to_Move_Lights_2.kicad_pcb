@@ -3912,6 +3912,29 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Schet/Downloads/776279_1/776279-1.step"
+			(hide yes)
+			(offset
+				(xyz 0 43 12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
+		(model "C:/Users/Schet/Downloads/New folder (2)/1_776280_1/KiCADv6/c-776280-1-h-3d.stp"
+			(offset
+				(xyz 0 -20 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Footprints:TEA10505"
 		(layer "F.Cu")
@@ -12173,6 +12196,17 @@
 			(uuid "193fbe8c-9574-4043-9c7e-d55e1bc17acc")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/Schet/Downloads/PET_02_02_L_VT/pet-02-02-l-vt.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(gr_line
 		(start 97.79 38.1)

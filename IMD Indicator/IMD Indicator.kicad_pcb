@@ -2917,6 +2917,17 @@
 				(xyz -90 0 0)
 			)
 		)
+		(model "C:/Users/Schet/Downloads/1724480004/1724480004.stp"
+			(offset
+				(xyz -2 -13.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "IMDFootprintLibrary:LED_5MM"
 		(layer "F.Cu")
@@ -3589,6 +3600,17 @@
 				(xyz -90 0 0)
 			)
 		)
+		(model "C:/Users/Schet/Downloads/1724480004/1724480004.stp"
+			(offset
+				(xyz -2 -13.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "SDM_MiscFootprint:SODFL1608X70N"
 		(layer "F.Cu")
@@ -4228,6 +4250,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "C:/Users/Schet/Downloads/1724480004/1724480004.stp"
+			(offset
+				(xyz -2 -13.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
