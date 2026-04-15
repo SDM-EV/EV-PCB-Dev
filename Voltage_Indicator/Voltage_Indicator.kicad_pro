@@ -506,7 +506,7 @@
       "plot": "Manufacturing_Files/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../Downloads/Voltage_Indicator.step",
       "svg": "",
       "vrml": ""
     },
