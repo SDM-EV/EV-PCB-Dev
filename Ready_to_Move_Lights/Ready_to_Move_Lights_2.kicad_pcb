@@ -3214,6 +3214,18 @@
 			(uuid "f2799473-e977-476f-9451-6da3d08cf5bb")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/3D_Files/DFX0015A.stp"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -3901,30 +3913,7 @@
 			(uuid "0fce6344-5fbb-42f4-ad7e-19c6415b1bd6")
 		)
 		(embedded_fonts no)
-		(model "${SDM_MISC_3D}/776280-1.step"
-			(offset
-				(xyz 0 -20 11.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -0)
-			)
-		)
-		(model "C:/Users/Schet/Downloads/776279_1/776279-1.step"
-			(hide yes)
-			(offset
-				(xyz 0 43 12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -180)
-			)
-		)
-		(model "C:/Users/Schet/Downloads/New folder (2)/1_776280_1/KiCADv6/c-776280-1-h-3d.stp"
+		(model "${KIPRJMOD}/Parts/3D_Files/c-776280-1-h-3d.stp"
 			(offset
 				(xyz 0 -20 11.5)
 			)
@@ -4302,7 +4291,7 @@
 			(uuid "759f0589-813f-434d-ba9a-4b078b70c518")
 		)
 		(embedded_fonts no)
-		(model "TEA_1-0505.stp"
+		(model "${KIPRJMOD}/Parts/3D_Files/tea1_3d_drawing.stp"
 			(offset
 				(xyz -1.789999935 -0.999999985 -4.159999785)
 			)
@@ -4563,15 +4552,15 @@
 			(uuid "ca736438-6525-4529-b20f-90d7d8271784")
 		)
 		(embedded_fonts no)
-		(model "${SDM_MISC_3D}/L7805ACD2T-TR.step"
+		(model "${KIPRJMOD}/Parts/3D_Files/L7805ACD2T-TR.step"
 			(offset
-				(xyz -0.07 1.5 -0)
+				(xyz -0.0700000124 1.499999997 -0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -4926,15 +4915,15 @@
 			(uuid "95278508-5abe-44ea-9705-8fa597a63627")
 		)
 		(embedded_fonts no)
-		(model "${SDM_MISC_3D}/3386P-1-103TLF.step"
+		(model "${KIPRJMOD}/Parts/3D_Files/3386P29.stp"
 			(offset
-				(xyz -2.5 0 0)
+				(xyz -2.54 -0.635 4.445)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
+				(xyz -90 -180 -180)
 			)
 		)
 	)
@@ -8576,6 +8565,17 @@
 			(uuid "8adf068c-0c54-46ec-a423-8ab44fc87e71")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/3D_Files/SOP_VORA1150-X017T_VIS.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "SDM_MiscFootprint:5005"
 		(layer "F.Cu")
@@ -12196,15 +12196,15 @@
 			(uuid "193fbe8c-9574-4043-9c7e-d55e1bc17acc")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Schet/Downloads/PET_02_02_L_VT/pet-02-02-l-vt.stp"
+		(model "${KIPRJMOD}/Parts/3D_Files/PES-02-01-L-RA-SD.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 -17.145 5.08)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -0 -0)
 			)
 		)
 	)
