@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV2371QDBVRQ1
+D Automotive 550-uA/Ch 3-MHz Rail-to-Rail Input/Output Operational Amplifiers
+K
+F http://www.ti.com/lit/gpn/tlv2371-q1
+$ENDCMP
+#
+#End Doc Library

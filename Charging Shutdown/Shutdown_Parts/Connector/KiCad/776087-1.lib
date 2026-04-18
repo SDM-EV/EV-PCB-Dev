@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 776087-1
+#/639758/1891454/2.50/25/2/Connector
+DEF 776087-1 J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "776087-1" 850 200 50 H V L CNN
+F2 "7760871" 850 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773979-2&DocType=Data%20Sheet&DocLang=English&PartCntxt=776087-1&DocFormat=pdf" 850 0 50 H I L CNN
+F4 "Body Features: Primary Product Color Black | Connector & Keying Code 1 | Configuration Features: Number of Positions 23 | Number of Rows 3 | PCB Mount Orientation Right Angle | Contact Features: Contact Type Pin | Contact Mating Area Plating Material Tin | Contact Current Rating (Max) 8 AMP | Housing Features: Centerline (Pitch) .157 INCH | Centerline (Pitch) 4 MM | Industry Standards: UL Flammability Rating UL 94V-0 | Mechanical Attachment: Mating Alignment With | PCB Mount Alignment With | Connector Mount" 850 -100 50 H I L CNN "Description"
+F5 "32.1" 850 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "776087-1" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "571-776087-1" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/776087-1?qs=qXO2HHLAcoIjggUTPuCD9w%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "776087-1" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/776087-1/te-connectivity?utm_currency=USD&region=europe" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+X 10 10 0 -900 200 R 50 50 0 0 P
+X 11 11 0 -1000 200 R 50 50 0 0 P
+X 12 12 0 -1100 200 R 50 50 0 0 P
+X 13 13 0 -1200 200 R 50 50 0 0 P
+X 14 14 1000 0 200 L 50 50 0 0 P
+X 15 15 1000 -100 200 L 50 50 0 0 P
+X 16 16 1000 -200 200 L 50 50 0 0 P
+X 17 17 1000 -300 200 L 50 50 0 0 P
+X 18 18 1000 -400 200 L 50 50 0 0 P
+X 19 19 1000 -500 200 L 50 50 0 0 P
+X 20 20 1000 -600 200 L 50 50 0 0 P
+X 21 21 1000 -700 200 L 50 50 0 0 P
+X 22 22 1000 -800 200 L 50 50 0 0 P
+X 23 23 1000 -900 200 L 50 50 0 0 P
+X MH1 MH1 1000 -1000 200 L 50 50 0 0 P
+X MH2 MH2 1000 -1100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -1300 200 -1300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

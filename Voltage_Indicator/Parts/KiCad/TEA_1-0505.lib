@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TEA_1-0505
+#/11967296/1891454/2.50/4/2/Power Supply
+DEF TEA_1-0505 PS 0 30 Y Y 1 F N
+F0 "PS" 1150 300 50 H V L CNN
+F1 "TEA_1-0505" 1150 200 50 H V L CNN
+F2 "TEA10505" 1150 100 50 H I L CNN
+F3 "https://tracopower.com/tea1-datasheet/" 1150 0 50 H I L CNN
+F4 "1 Watt DC/DC converter, industrial, +/-10% input, unregulated, highly cost efficient, encapsulated, SIP-4" 1150 -100 50 H I L CNN "Description"
+F5 "10.15" 1150 -200 50 H I L CNN "Height"
+F6 "Traco Power" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TEA 1-0505" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "495-TEA1-0505" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEA-1-0505?qs=GedFDFLaBXEYm9Nac0%2F18A%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X -VIN_(GND) 1 0 0 200 R 50 50 0 0 P
+X +VIN_(VCC) 2 0 -100 200 R 50 50 0 0 P
+X -VOUT 3 0 -200 200 R 50 50 0 0 P
+X +VOUT 4 0 -300 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

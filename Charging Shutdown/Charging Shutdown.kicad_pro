@@ -511,10 +511,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../Downloads/Charging Shutdown.step",
       "svg": "",
       "vrml": ""
     },
