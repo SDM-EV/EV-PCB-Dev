@@ -513,7 +513,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "BMS_Temp_Board_V1.net",
       "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
