@@ -3260,7 +3260,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Parts/3D_Files/DFX0015A.stp"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4658,7 +4657,7 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Parts/3D_Files/L7805ACD2T-TR.step"
 			(offset
-				(xyz -0.0700000124 1.499999997 -0)
+				(xyz -0.0700000124 -0.4050000028 -0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5930,6 +5929,17 @@
 			(uuid "c1d04afe-f79a-4907-95f9-749a3208370b")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/3D_Files/DDF0008A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -7072,7 +7082,7 @@
 			(uuid "288da4b0-581e-454b-90be-d11fc0da159e")
 		)
 		(embedded_fonts no)
-		(model "SN74LVC1G17DBVRG4.stp"
+		(model "${KIPRJMOD}/Parts/3D_Files/DBV0005A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
