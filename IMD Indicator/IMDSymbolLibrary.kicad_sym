@@ -2,7 +2,10 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "172448-0004"
+	(symbol "776280-1"
+		(pin_names
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -15,7 +18,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "172448-0004"
+		(property "Value" "776280-1"
 			(at 16.51 5.08 0)
 			(effects
 				(font
@@ -24,7 +27,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "172448-YY04"
+		(property "Footprint" "776280-1"
 			(at 16.51 -94.92 0)
 			(effects
 				(font
@@ -34,7 +37,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/1724480002_sd.pdf"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773979-2&DocType=Data%20Sheet&DocLang=English&PartCntxt=776280-1&DocFormat=pdf"
 			(at 16.51 -194.92 0)
 			(effects
 				(font
@@ -44,8 +47,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-2, Glow-Wire Capable"
-			(at 0 0 0)
+		(property "Description" "Body Features: Primary Product Color Black | Connector & Keying Code 1 | Configuration Features: Number of Positions 8 | Number of Rows 3 | PCB Mount Orientation Right Angle | Contact Features: Contact Type Pin | Contact Current Rating (Max) 8 AMP | Contact Mating Area Plating Material Tin | Housing Features: Centerline (Pitch) .157 INCH | Centerline (Pitch) 4 MM | Industry Standards: UL Flammability Rating UL 94V-0 | Mechanical Attachment: Connector Mounting Type Board Mount | PCB Mount Alignment With | PC"
+			(at -1.524 4.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53,7 +56,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "10"
+		(property "Height" ""
 			(at 16.51 -394.92 0)
 			(effects
 				(font
@@ -63,7 +66,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "538-172448-0004"
+		(property "Mouser Part Number" "571-776280-1"
 			(at 16.51 -494.92 0)
 			(effects
 				(font
@@ -73,7 +76,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/172448-0004?qs=UxK%2FDTs6dB6CtzGMQhL0Hg%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/776280-1?qs=tLAa1RwIH6coumJMxuaTDA%3D%3D"
 			(at 16.51 -594.92 0)
 			(effects
 				(font
@@ -83,7 +86,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Molex"
+		(property "Manufacturer_Name" "TE Connectivity"
 			(at 16.51 -694.92 0)
 			(effects
 				(font
@@ -93,7 +96,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "172448-0004"
+		(property "Manufacturer_Part_Number" "776280-1"
 			(at 16.51 -794.92 0)
 			(effects
 				(font
@@ -103,29 +106,117 @@
 				(hide yes)
 			)
 		)
-		(symbol "172448-0004_1_1"
+		(symbol "776280-1_1_1"
 			(rectangle
-				(start 5.08 2.54)
-				(end 15.24 -5.08)
+				(start 3.81 1.27)
+				(end 8.89 -7.62)
 				(stroke
 					(width 0.254)
-					(type default)
+					(type solid)
 				)
 				(fill
 					(type background)
 				)
 			)
+			(rectangle
+				(start 3.81 0.127)
+				(end 5.08 -0.127)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 -2.413)
+				(end 5.08 -2.667)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 3.81 -4.953)
+				(end 5.08 -5.207)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 4.953 -6.35)
+				(end 5.207 -7.62)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 7.493 -6.35)
+				(end 7.747 -7.62)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 7.62 -4.953)
+				(end 8.89 -5.207)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 8.89 0.127)
+				(end 7.62 -0.127)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 8.89 -2.413)
+				(end 7.62 -2.667)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(pin passive line
 				(at 0 0 0)
-				(length 5.08)
-				(name "4"
+				(length 3.81)
+				(name "Pin_1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "4"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -135,8 +226,8 @@
 			)
 			(pin passive line
 				(at 0 -2.54 0)
-				(length 5.08)
-				(name "2"
+				(length 3.81)
+				(name "Pin_2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -152,9 +243,9 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 0 180)
-				(length 5.08)
-				(name "3"
+				(at 0 -5.08 0)
+				(length 3.81)
+				(name "Pin_3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -170,16 +261,88 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 -2.54 180)
-				(length 5.08)
-				(name "1"
+				(at 5.08 -11.43 90)
+				(length 3.81)
+				(name "Pin_4"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "1"
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 -11.43 90)
+				(length 3.81)
+				(name "Pin_5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 0 180)
+				(length 3.81)
+				(name "Pin_6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 -2.54 180)
+				(length 3.81)
+				(name "Pin_7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 -5.08 180)
+				(length 3.81)
+				(name "Pin_8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
