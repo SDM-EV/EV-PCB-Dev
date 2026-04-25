@@ -1,4 +1,4 @@
-26986929670384870
+26986932158452813
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62671,12 +62671,12 @@ heatsink
 0
 0
 IMDFootprintLibrary
-172448-YY04
-172448-YY04
+776280-1
+776280-1
 Connector
 0
-4
-4
+8
+8
 IMDFootprintLibrary
 LED_5MM
 HLMP-EG08-YZ000
