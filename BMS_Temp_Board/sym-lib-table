@@ -4,4 +4,5 @@
   (lib (name "B2B-PH-K-S")(type "KiCad")(uri "${KIPRJMOD}/B2B_PH_K_S/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
   (lib (name "SM04B-ULHK-1TA1-ETB_HF_")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board_PN/LIB_SM04B-ULHK-1TA1-ETB_HF_/SM04B-ULHK-1TA1-ETB_HF_/KiCad/SM04B-ULHK-1TA1-ETB_HF_.kicad_sym")(options "")(descr ""))
   (lib (name "BMS Tempboard")(type "KiCad")(uri "${KIPRJMOD}/BMS Tempboard.kicad_sym")(options "")(descr ""))
+  (lib (name "776279-1")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/BMS_Temp_Board/776279_1/776279-1.kicad_sym")(options "")(descr ""))
 )
