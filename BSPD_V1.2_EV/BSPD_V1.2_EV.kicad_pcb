@@ -9338,6 +9338,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Schet/Downloads/New folder (2)/1_776280_1/KiCADv6/c-776280-1-h-3d.stp"
+			(offset
+				(xyz 0 -20 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "SDM_MiscFootprint:SODFL1608X70N"
 		(layer "F.Cu")
@@ -12697,79 +12708,6 @@
 			)
 		)
 	)
-	(gr_line
-		(start 61.722 66.79905)
-		(end 61.722 151.003)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "6a258769-1ca4-4edb-8ff9-597aa0853966")
-	)
-	(gr_arc
-		(start 61.722 66.79905)
-		(mid 62.092949 65.902101)
-		(end 62.989047 65.529053)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2452bb06-b263-448c-a0bf-b88aa690b921")
-	)
-	(gr_arc
-		(start 62.992 152.273)
-		(mid 62.093974 151.901026)
-		(end 61.722 151.003)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "def9e1d9-246a-4e87-86bb-84adf40c455e")
-	)
-	(gr_line
-		(start 62.992 152.273)
-		(end 121.793 152.273)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "be5fd761-edee-4f43-8a5d-035597f0dd54")
-	)
-	(gr_line
-		(start 115.059047 65.40796)
-		(end 62.989047 65.529053)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "66b4e6e3-ad34-4ff9-9a89-ca93e3330e0f")
-	)
-	(gr_arc
-		(start 115.059047 65.40796)
-		(mid 115.958996 65.778885)
-		(end 116.332 66.677957)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "c6a36a4f-8343-48cc-89ac-cd10b7a9674d")
-	)
-	(gr_line
-		(start 116.332 117.729)
-		(end 116.332 66.677957)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "28615ec0-f610-4120-94cd-a79db1e8795c")
-	)
 	(gr_arc
 		(start 117.602 118.999)
 		(mid 116.703974 118.627026)
@@ -12780,16 +12718,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "10a31dec-715c-4739-b86d-3abfcafb470e")
-	)
-	(gr_line
-		(start 121.793 118.999)
-		(end 117.602 118.999)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "5fce6433-0f2f-4fad-a155-5e9b59f588ba")
 	)
 	(gr_arc
 		(start 121.793 118.999)
@@ -12803,6 +12731,57 @@
 		(uuid "1c8bf78e-4772-4288-acb3-bb5076a9d6ec")
 	)
 	(gr_arc
+		(start 61.722 66.79905)
+		(mid 62.092949 65.902101)
+		(end 62.989047 65.529053)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2452bb06-b263-448c-a0bf-b88aa690b921")
+	)
+	(gr_line
+		(start 116.332 117.729)
+		(end 116.332 66.677957)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "28615ec0-f610-4120-94cd-a79db1e8795c")
+	)
+	(gr_line
+		(start 121.793 118.999)
+		(end 117.602 118.999)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5fce6433-0f2f-4fad-a155-5e9b59f588ba")
+	)
+	(gr_line
+		(start 115.059047 65.40796)
+		(end 62.989047 65.529053)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "66b4e6e3-ad34-4ff9-9a89-ca93e3330e0f")
+	)
+	(gr_line
+		(start 61.722 66.79905)
+		(end 61.722 151.003)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6a258769-1ca4-4edb-8ff9-597aa0853966")
+	)
+	(gr_arc
 		(start 123.063 151.003)
 		(mid 122.691026 151.901026)
 		(end 121.793 152.273)
@@ -12812,6 +12791,38 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "bd451943-baca-4485-a048-ac802f72c6bf")
+	)
+	(gr_line
+		(start 62.992 152.273)
+		(end 121.793 152.273)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "be5fd761-edee-4f43-8a5d-035597f0dd54")
+	)
+	(gr_arc
+		(start 115.059047 65.40796)
+		(mid 115.958996 65.778885)
+		(end 116.332 66.677957)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c6a36a4f-8343-48cc-89ac-cd10b7a9674d")
+	)
+	(gr_arc
+		(start 62.992 152.273)
+		(mid 62.093974 151.901026)
+		(end 61.722 151.003)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "def9e1d9-246a-4e87-86bb-84adf40c455e")
 	)
 	(gr_line
 		(start 123.063 151.003)

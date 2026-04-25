@@ -490,7 +490,7 @@
       "plot": "Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../Downloads/BSPD_V1.2_EV.step",
       "svg": "",
       "vrml": ""
     },
