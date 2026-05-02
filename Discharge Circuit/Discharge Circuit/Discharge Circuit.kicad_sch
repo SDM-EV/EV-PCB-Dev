@@ -5,29 +5,195 @@
 	(uuid "faa29c35-f02e-4949-b6d7-f81fa5cf50a8")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Device:D"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "FTR-E1AA012Y-GR:FTR-E1AA012Y-GR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "K"
-				(at 24.13 7.62 0)
+			(property "Reference" "K2"
+				(at 13.97 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
 			(property "Value" "FTR-E1AA012Y-GR"
-				(at 24.13 5.08 0)
+				(at 13.97 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Footprint" "FTRE1AA012YGR"
+			(property "Footprint" "FTR-E1AA012Y-GR:FTRE1AA012YGR"
 				(at 24.13 -94.92 0)
 				(effects
 					(font
@@ -137,7 +303,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -2.54 0)
+					(at 0 -7.62 0)
 					(length 5.08)
 					(name "+"
 						(effects
@@ -866,7 +1032,7 @@
 	)
 	(text "12V Connector/Relay Control\n\n"
 		(exclude_from_sim no)
-		(at 183.896 108.458 0)
+		(at 189.23 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -885,22 +1051,44 @@
 		(uuid "c4e3ebed-79a4-4283-bcee-3c2ca7ca8e06")
 	)
 	(junction
-		(at 166.37 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "244e02d8-0098-4fc5-8e46-c88fc08d7f17")
-	)
-	(junction
 		(at 130.81 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "580db781-9186-4d67-8f40-5cc53665e598")
 	)
 	(junction
+		(at 177.8 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60f45522-e2df-42dc-93aa-7949bfdedc63")
+	)
+	(junction
+		(at 162.56 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91962cf4-8433-499e-825f-dfaf4401d9cc")
+	)
+	(junction
 		(at 130.81 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e2069d5-f737-441c-a8ec-c532803433c2")
+	)
+	(junction
+		(at 162.56 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8e9c83c-a054-4b84-8066-2a5425d92ac8")
+	)
+	(wire
+		(pts
+			(xy 162.56 118.11) (xy 182.88 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a68a113-450f-4c33-a8df-1cbcfd1c24a6")
 	)
 	(wire
 		(pts
@@ -934,13 +1122,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 115.57) (xy 166.37 115.57)
+			(xy 158.75 118.11) (xy 162.56 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "720cfbf0-914b-4367-8107-25831cf33411")
+		(uuid "6e223175-0c51-462b-a640-54e5781b0c35")
 	)
 	(wire
 		(pts
@@ -964,33 +1152,23 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 110.49) (xy 166.37 110.49)
+			(xy 177.8 115.57) (xy 177.8 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "942adf9f-87a9-4ee7-8615-88221dc9e9cc")
+	)
+	(wire
+		(pts
+			(xy 158.75 110.49) (xy 162.56 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "97528448-e310-4cac-b40b-1c95ccdd9322")
-	)
-	(wire
-		(pts
-			(xy 166.37 115.57) (xy 166.37 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "994104c3-9782-40b4-b3ff-6bad3a81f79e")
-	)
-	(wire
-		(pts
-			(xy 158.75 113.03) (xy 170.18 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a48ac011-e1bd-4f0c-bf63-994a114304a2")
 	)
 	(wire
 		(pts
@@ -1004,13 +1182,33 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 110.49) (xy 166.37 115.57)
+			(xy 162.56 110.49) (xy 177.8 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba2e8d02-d33b-4aff-af8e-d1950bd6530b")
+	)
+	(wire
+		(pts
+			(xy 177.8 110.49) (xy 177.8 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bf9be1b6-ca39-4f7a-a3b0-8e522fbe09f0")
+	)
+	(wire
+		(pts
+			(xy 182.88 115.57) (xy 177.8 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e670b2f3-7db6-405f-894f-b7d691c5a3a9")
 	)
 	(symbol
 		(lib_id "MPT-02-01-XX-X-RA-SD:MPT-02-01-XX-X-RA-SD")
@@ -1432,7 +1630,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 166.37 121.92 0)
+		(at 177.8 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1441,7 +1639,7 @@
 		(fields_autoplaced yes)
 		(uuid "b509f0df-149a-4de6-82af-863d71f06f54")
 		(property "Reference" "#PWR01"
-			(at 166.37 128.27 0)
+			(at 177.8 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1450,7 +1648,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.37 127 0)
+			(at 177.8 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1458,7 +1656,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 166.37 121.92 0)
+			(at 177.8 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1467,7 +1665,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 121.92 0)
+			(at 177.8 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1476,7 +1674,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 166.37 121.92 0)
+			(at 177.8 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1498,16 +1696,16 @@
 	)
 	(symbol
 		(lib_id "IPBT-102-H1-T-S-RA-K:IPBT-102-H1-T-S-RA-K")
-		(at 170.18 113.03 0)
+		(at 182.88 118.11 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b627fc5a-7db2-4105-a4a7-096863b982a4")
 		(property "Reference" "J2"
-			(at 186.69 113.0299 0)
+			(at 199.39 118.1101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1516,7 +1714,7 @@
 			)
 		)
 		(property "Value" "IPBT-102-H1-T-S-RA-K"
-			(at 186.69 115.5699 0)
+			(at 199.39 115.5701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1525,7 +1723,7 @@
 			)
 		)
 		(property "Footprint" "IPBT:IPBT102H1TSRAK"
-			(at 186.69 207.95 0)
+			(at 199.39 23.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1535,7 +1733,7 @@
 			)
 		)
 		(property "Datasheet" "https://suddendocs.samtec.com/prints/ipbt-1xx-xx-xx-s-xx-mkt.pdf?_gl=1*1nu67sl*_gcl_aw*R0NMLjE3MzY1MTU3OTIuQ2p3S0NBaUFwNE84QmhBa0Vpd0FxdjJVcUhrQ1hwTkVVY2dYbERaeHlmb2JUdHluT3BxNDdWZVFxUVNRZUFOZy1nZnhrUVhoSXppT0lob0NpMXdRQXZEX0J3RQ..*_gcl_au*NTMyOTAxMTM3LjE"
-			(at 186.69 307.95 0)
+			(at 199.39 -76.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1545,7 +1743,7 @@
 			)
 		)
 		(property "Description" "Conn Power Mate Terminal Strip HDR 2 POS 4.19mm Solder RA Thru-Hole 2 Terminal 1 Port Automotive Tube"
-			(at 170.18 113.03 0)
+			(at 182.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1554,7 +1752,7 @@
 			)
 		)
 		(property "Height" "6.88"
-			(at 186.69 507.95 0)
+			(at 199.39 -276.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1564,7 +1762,7 @@
 			)
 		)
 		(property "Mouser Part Number" "200-IPBT102H1TSRAK"
-			(at 186.69 607.95 0)
+			(at 199.39 -376.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1574,7 +1772,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/IPBT-102-H1-T-S-RA-K?qs=PB6%2FjmICvI2Ofyjz6y5btA%3D%3D"
-			(at 186.69 707.95 0)
+			(at 199.39 -476.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1584,7 +1782,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMTEC"
-			(at 186.69 807.95 0)
+			(at 199.39 -576.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1594,7 +1792,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "IPBT-102-H1-T-S-RA-K"
-			(at 186.69 907.95 0)
+			(at 199.39 -676.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1613,6 +1811,94 @@
 			(project ""
 				(path "/faa29c35-f02e-4949-b6d7-f81fa5cf50a8"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 162.56 114.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7457aa5-52e6-49f0-a29d-2c035a1c6b10")
+		(property "Reference" "D1"
+			(at 165.1 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4007FL"
+			(at 165.1 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
+			(at 162.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 162.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 162.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 162.56 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39e4c2ca-691d-496c-8a79-4a5c79e1b335")
+		)
+		(pin "2"
+			(uuid "81458ebd-abcd-4d20-9221-c13b2a4fd52e")
+		)
+		(instances
+			(project ""
+				(path "/faa29c35-f02e-4949-b6d7-f81fa5cf50a8"
+					(reference "D1")
 					(unit 1)
 				)
 			)
