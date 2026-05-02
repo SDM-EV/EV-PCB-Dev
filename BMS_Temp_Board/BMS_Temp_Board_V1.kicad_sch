@@ -8965,6 +8965,12 @@
 		(uuid "4d44f50a-9741-495d-8d93-ec5622b24b56")
 	)
 	(junction
+		(at 434.34 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ddc06ad-9c05-4bef-9221-796b6355532e")
+	)
+	(junction
 		(at 172.72 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10132,6 +10138,16 @@
 			(type default)
 		)
 		(uuid "177651c4-02a2-4705-8a4c-51df51598b53")
+	)
+	(wire
+		(pts
+			(xy 434.34 109.22) (xy 434.34 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "178eb7d0-ee9b-4f8b-ae07-b8c498fa95c4")
 	)
 	(wire
 		(pts
@@ -14595,16 +14611,6 @@
 	)
 	(wire
 		(pts
-			(xy 443.23 109.22) (xy 453.39 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c843fdcc-bd71-4eab-9967-67e5823948fc")
-	)
-	(wire
-		(pts
 			(xy 226.06 154.94) (xy 231.14 154.94)
 		)
 		(stroke
@@ -15375,6 +15381,16 @@
 	)
 	(wire
 		(pts
+			(xy 434.34 109.22) (xy 453.39 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1328af2-f8dc-4f7a-8a84-e22e9860a6ca")
+	)
+	(wire
+		(pts
 			(xy 290.83 154.94) (xy 290.83 157.48)
 		)
 		(stroke
@@ -15732,6 +15748,16 @@
 			(type default)
 		)
 		(uuid "ece99d7e-cbd3-4b1e-a4f3-e972582e7e90")
+	)
+	(wire
+		(pts
+			(xy 434.34 107.95) (xy 434.34 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed1ed4f2-4616-4b4b-9402-f7544c39a8a0")
 	)
 	(wire
 		(pts
@@ -16533,7 +16559,7 @@
 		)
 		(uuid "9bd1852d-fad4-43f7-b078-dc816daa1c0f")
 	)
-	(label "IO7"
+	(label "ORION"
 		(at 443.23 109.22 0)
 		(effects
 			(font
@@ -16793,7 +16819,7 @@
 		)
 		(uuid "f133ce41-6f36-4dcb-aa5f-ac08344a230f")
 	)
-	(label "IO7"
+	(label "ORION"
 		(at 39.37 43.18 0)
 		(effects
 			(font
@@ -21871,6 +21897,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 434.34 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8233131c-d7a5-4223-9afe-8e524ee15314")
+		(property "Reference" "#PWR049"
+			(at 434.34 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 434.34 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 434.34 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 434.34 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 434.34 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03fdcb07-ff1d-4591-b596-5bef5b7a6caa")
+		)
+		(instances
+			(project "BMS_Temp_Board_V1"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 367.03 25.4 0)
 		(mirror y)
@@ -24115,6 +24207,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 434.34 114.3 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7fe156a-5c88-402f-968e-a6f9e29d4385")
+		(property "Reference" "R22"
+			(at 431.8 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3.3k"
+			(at 431.8 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 436.118 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 434.34 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 434.34 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9cfb2471-8e13-40c5-bd31-06760d6d1606")
+		)
+		(pin "2"
+			(uuid "6390c5bd-29ee-46f7-b472-75f42ea444b2")
+		)
+		(instances
+			(project "BMS_Temp_Board_V1"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 33.02 20.32 90)
 		(unit 1)
@@ -25510,6 +25672,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 434.34 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6c3f8e8-e4eb-45bc-a1cf-5bb473d3d0ef")
+		(property "Reference" "#PWR048"
+			(at 434.34 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 434.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 434.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 434.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 434.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a34996dd-8127-40fa-ade1-d332307efc51")
+		)
+		(instances
+			(project "BMS_Temp_Board_V1"
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 443.23 118.11 0)
 		(unit 1)
@@ -25640,6 +25868,76 @@
 			(project "ESP32_MCU_Template"
 				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 434.34 104.14 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "defb04d7-f89f-48d7-b766-acf8754fea97")
+		(property "Reference" "R21"
+			(at 431.8 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 431.8 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 436.118 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 434.34 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 434.34 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8af0261-54d0-4694-bb4c-f4f8b3b31b89")
+		)
+		(pin "2"
+			(uuid "fa35759d-972d-4c49-817b-193d5ad394de")
+		)
+		(instances
+			(project ""
+				(path "/4b7d1021-2caa-48c3-b40a-28eda787a8eb"
+					(reference "R21")
 					(unit 1)
 				)
 			)
