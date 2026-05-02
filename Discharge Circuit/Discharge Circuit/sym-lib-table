@@ -5,4 +5,5 @@
   (lib (name "AT13-2P-BM01")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/Discharge Circuit/LIB_AT13-2P-BM01/KiCad/AT13-2P-BM01.kicad_sym")(options "")(descr ""))
   (lib (name "PET-02-XX-X-VT-LC")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/Discharge Circuit/PET-02-01-T-VT-LC/PET-02-XX-X-VT-LC/PET-02-XX-X-VT-LC.kicad_sym")(options "")(descr ""))
   (lib (name "MPT-02-01-XX-X-RA-SD")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/Discharge Circuit/MPT_02_01_01_L_RA_SD/MPT-02-01-XX-X-RA-SD.kicad_sym")(options "")(descr ""))
+  (lib (name "FTR-E1AA012Y-GR")(type "KiCad")(uri "${SDM_EV_PCB_DEV_GITHUB}/Discharge Circuit/Discharge Circuit/FTR-E1AA012Y-GR/FTR-E1AA012Y-GR.kicad_sym")(options "")(descr ""))
 )
