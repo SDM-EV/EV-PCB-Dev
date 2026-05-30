@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TSSI Footprint Library")(type "KiCad")(uri "${KIPRJMOD}/TSSI Footprint Library.pretty")(options "")(descr ""))
+)
