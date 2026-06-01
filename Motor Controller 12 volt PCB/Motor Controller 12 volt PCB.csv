@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2","2","LED","","","","LED_SMD:LED_1206_3216Metric","~"
+"D3","1","1N4148WT","","","","Diode_SMD:D_1206_3216Metric","1N4148WT"
+"H1,H2","2","MountingHole","","Excluded from BOM","","MountingHole:MountingHole_3.2mm_M3","~"
+"J2","1","776279-1","","","","776279_1:TE_776279-1",""
+"K1","1","PR22-12V-400-1A","","","","PR22_12V_400_1A:RELAY_PR22-12V-400-1A",""
+"R1,R2","2","1k","","","","Resistor_SMD:R_1206_3216Metric","~"
