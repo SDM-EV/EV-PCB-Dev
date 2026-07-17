@@ -1,28 +1,28 @@
+const int IMD_fault = 2;
+const int BMS_fault = 3;
+const int red = 4;  //turn on red lights
+const int green = 5; //turn on green lights
+
 void setup() {
-  // put your setup code here, to run once:
-  pinMode(2, OUTPUT); // red_1
-  pinMode(3, OUTPUT); // red_2
-  pinMode(4, OUTPUT); // grn_1
-  pinMode(5, OUTPUT); // grn_2 
-  pinMode(6, INPUT);  // imd_online
-  pinMode(7, INPUT);  // bms_online
-  pinMode(8, INPUT);  // imd_fault
-  pinMode(9, INPUT);  // bms_fault
+  pinMode(IMD_fault, INPUT);  
+  pinMode(BMS_fault, INPUT); 
+  pinMode(red, OUTPUT); 
+  pinMode(green, OUTPUT); 
+  digitalWrite(red, LOW); //ensure both lights are initially off
+  digitalWrite(green, LOW);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  // assuming signal high is true, low is false
-  if (digitalRead(6) & digitalRead(7) & !(digitalRead(8)) & !(digitalRead(9))) { // subject to change: verify signals
-    digitalWrite(4, HIGH);
-    digitalWrite(5, HIGH);
+  if(IMD_fault == LOW && BMS_fault == LOW) {  //There is no fault from the IMD nor the BMS
+    digitalWrite(green, HIGH);
   } 
-  else {
-    digitalWrite(4, HIGH);
-    digitalWrite(5, HIGH);
-    delay(350);
-    digitalWrite(4, LOW);
-    digitalWrite(5, LOW);
-    delay(350);
+  else { //There is a fault from the IMD and/or the BMS
+  //Checking to make sure flash time is correct:
+  //In the case of a fault, the red lights must flash between 2-5Hz at 50% duty cycle, we will do 2Hz, so one period is: on for
+  //250ms, off for 250ms, this is done 2 times in one second. Since time high = time low for that 1 second, duty cycle is 50%
+    digitalWrite(red, HIGH);
+    delay(250);
+    digitalWrite(red, LOW);
+    delay(250);
   }
 }
