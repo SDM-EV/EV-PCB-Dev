@@ -1,0 +1,111 @@
+(footprint "5005"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "5006")
+	(tags "Test Point")
+	(property "Reference" "TP**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "abb8b1cb-8079-424a-b265-61769ac5f011")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "5005"
+		(at 0.354 0.097 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "004475d0-ac09-4356-8581-ade65d061272")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "971a1b90-146f-4d77-b154-8782e2761197")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99e52fa4-9096-499e-9e19-be7c1ff7de0b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Measure" "Measure"
+		(at 0 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "084ca8bd-3703-46f4-9ceb-2b8fd0c08bc4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(fp_circle
+		(center 0 0)
+		(end 1.59 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1f07feb9-9d75-4e2f-9c26-d8c52a9b46f4")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.59 0)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "b000dc4e-b42e-4843-9370-06f4d7d5648d")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0 90)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "12074744-cb86-44e5-824b-6f05bad2dd1e")
+	)
+	(embedded_fonts no)
+	(model "${SDM_MISC_3D}/5005.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
