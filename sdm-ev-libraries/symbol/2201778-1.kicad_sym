@@ -2,14 +2,14 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "CD74HC4067PWR"
+	(symbol "2201778-1"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "IC"
-			(at 41.91 7.62 0)
+		(property "Reference" "J"
+			(at 29.21 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19,8 +19,8 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "CD74HC4067PWR"
-			(at 41.91 5.08 0)
+		(property "Value" "2201778-1"
+			(at 29.21 5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30,20 +30,8 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOP65P640X120-24N"
-			(at 41.91 -94.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf?ts=1752945808096"
-			(at 41.91 -194.92 0)
+		(property "Footprint" "22017781"
+			(at 29.21 -94.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -54,7 +42,19 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Encoders, Decoders, Multiplexers & Demultiplexers 5V, 16:1, single channel analog multiplexer"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2201778%7FB%7Fpdf%7FJapanese%7FJPN_CD_2201778_B.pdf%7F2201778-1"
+			(at 29.21 -194.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Body Features: Primary Product Color Black | Configuration Features: Number of Positions 8 | Number of Rows 1 | PCB Mount Orientation Right Angle | Contact Features: Contact Underplating Material Nickel | Contact Base Material Copper Alloy | Contact Mating Area Plating Material Gold | Contact Layout Inline | Contact Current Rating (Max) .5 AMP | PCB Contact Termination Area Plating Material Gold Flash | Dimensions: Profile Height from PCB 1.65 MM | Profile Height from PCB .065 INCH | Housing Features: Cente"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65,8 +65,8 @@
 				)
 			)
 		)
-		(property "Height" "1.2"
-			(at 41.91 -394.92 0)
+		(property "Height" "1.95"
+			(at 29.21 -394.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -77,8 +77,8 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Part Number" ""
-			(at 41.91 -494.92 0)
+		(property "Mouser Part Number" "571-2201778-1"
+			(at 29.21 -494.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -89,8 +89,8 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Price/Stock" ""
-			(at 41.91 -594.92 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2201778-1?qs=%2F6W%2F9%2FHWvcBMWWw9w8oBng%3D%3D"
+			(at 29.21 -594.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -101,8 +101,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 41.91 -694.92 0)
+		(property "Manufacturer_Name" "TE Connectivity"
+			(at 29.21 -694.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -113,8 +113,8 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CD74HC4067PWR"
-			(at 41.91 -794.92 0)
+		(property "Manufacturer_Part_Number" "2201778-1"
+			(at 29.21 -794.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -125,10 +125,10 @@
 				(justify left top)
 			)
 		)
-		(symbol "CD74HC4067PWR_1_1"
+		(symbol "2201778-1_1_1"
 			(rectangle
 				(start 5.08 2.54)
-				(end 40.64 -30.48)
+				(end 27.94 -20.32)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -140,7 +140,7 @@
 			(pin passive line
 				(at 0 0 0)
 				(length 5.08)
-				(name "COMMON_INPUT/OUTPUT"
+				(name "DAT2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -158,7 +158,7 @@
 			(pin passive line
 				(at 0 -2.54 0)
 				(length 5.08)
-				(name "I7"
+				(name "CD/DAT3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -176,7 +176,7 @@
 			(pin passive line
 				(at 0 -5.08 0)
 				(length 5.08)
-				(name "I6"
+				(name "CMD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -194,7 +194,7 @@
 			(pin passive line
 				(at 0 -7.62 0)
 				(length 5.08)
-				(name "I5"
+				(name "VDD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -212,7 +212,7 @@
 			(pin passive line
 				(at 0 -10.16 0)
 				(length 5.08)
-				(name "I4"
+				(name "CLK"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -230,7 +230,7 @@
 			(pin passive line
 				(at 0 -12.7 0)
 				(length 5.08)
-				(name "I3"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -248,7 +248,7 @@
 			(pin passive line
 				(at 0 -15.24 0)
 				(length 5.08)
-				(name "I2"
+				(name "DAT0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -266,7 +266,7 @@
 			(pin passive line
 				(at 0 -17.78 0)
 				(length 5.08)
-				(name "I1"
+				(name "DAT1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -282,9 +282,9 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 0)
+				(at 33.02 0 180)
 				(length 5.08)
-				(name "I0"
+				(name "SW_A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -300,9 +300,9 @@
 				)
 			)
 			(pin passive line
-				(at 0 -22.86 0)
+				(at 33.02 -2.54 180)
 				(length 5.08)
-				(name "S0"
+				(name "SW_B"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -318,9 +318,9 @@
 				)
 			)
 			(pin passive line
-				(at 0 -25.4 0)
+				(at 33.02 -5.08 180)
 				(length 5.08)
-				(name "S1"
+				(name "GND_1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -336,9 +336,9 @@
 				)
 			)
 			(pin passive line
-				(at 0 -27.94 0)
+				(at 33.02 -7.62 180)
 				(length 5.08)
-				(name "GND"
+				(name "GND_2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -354,9 +354,9 @@
 				)
 			)
 			(pin passive line
-				(at 45.72 -27.94 180)
+				(at 33.02 -10.16 180)
 				(length 5.08)
-				(name "S3"
+				(name "GND_3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -372,9 +372,9 @@
 				)
 			)
 			(pin passive line
-				(at 45.72 -25.4 180)
+				(at 33.02 -12.7 180)
 				(length 5.08)
-				(name "S2"
+				(name "GND_4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -390,9 +390,9 @@
 				)
 			)
 			(pin passive line
-				(at 45.72 -22.86 180)
+				(at 33.02 -15.24 180)
 				(length 5.08)
-				(name "~{E}"
+				(name "GND_5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -408,9 +408,9 @@
 				)
 			)
 			(pin passive line
-				(at 45.72 -20.32 180)
+				(at 33.02 -17.78 180)
 				(length 5.08)
-				(name "I15"
+				(name "GND_6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -418,150 +418,6 @@
 					)
 				)
 				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -17.78 180)
-				(length 5.08)
-				(name "I14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -15.24 180)
-				(length 5.08)
-				(name "I13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -12.7 180)
-				(length 5.08)
-				(name "I12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -10.16 180)
-				(length 5.08)
-				(name "I11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -7.62 180)
-				(length 5.08)
-				(name "I10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "21"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -5.08 180)
-				(length 5.08)
-				(name "I9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 -2.54 180)
-				(length 5.08)
-				(name "I8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 45.72 0 180)
-				(length 5.08)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
