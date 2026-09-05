@@ -1,4 +1,4 @@
 
-[submodule "vcu-firm"]
+[submodule "VCU"]
 	path = vcu-firm
 	url = https://github.com/ilya-tate/sdm-vcu-firmware
