@@ -1,0 +1,3 @@
+[submodule "VCU"]
+	path = VCU
+	url = https://github.com/ilya-tate/Vehicle-Control-Unit
