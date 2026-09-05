@@ -1,6 +1,4 @@
+
 [submodule "VCU"]
 	path = VCU
-	url = https://github.com/ilya-tate/Vehicle-Control-Unit
-[submodule "Vehicle-Control-Unit"]
-	path = Vehicle-Control-Unit
 	url = https://github.com/ilya-tate/Vehicle-Control-Unit
