@@ -472,7 +472,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SDM27 EV VCU V1.kicad_pro",
+    "filename": "sdm27ev-vcu-v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -627,18 +627,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SDM27 EV VCU V1.kicad_sch",
-        "name": "SDM27 EV VCU V1",
+        "filename": "sdm27ev-vcu-v1.kicad_sch",
+        "name": "sdm27ev-vcu-v1",
         "uuid": "aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9"
       }
     ],
-    "used_designators": "U1,J1-2",
+    "used_designators": "U1-2,R1-2,J1-2,#PWR1-12,C1-6",
     "variants": []
   },
   "sheets": [
     [
       "aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9",
-      "SDM27 EV VCU V1"
+      "sdm27ev-vcu-v1"
     ]
   ],
   "text_variables": {},
