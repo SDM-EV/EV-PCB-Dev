@@ -632,13 +632,25 @@
         "uuid": "aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9"
       }
     ],
-    "used_designators": "U1-3,IC1-5,R1-13,R24-36,R50-52,J1-3,J5,D1,#PWR1-40,#PWR82-88,C1-22,C32,Q1-2,SW1-3,PS1,L1-2",
+    "used_designators": "J5,R3-6,R12-15,R24-38,IC1-8,C9,C12-29,L1-2,#PWR4,#PWR19-55,#PWR85-88,Q1,Y1-2,U3",
     "variants": []
   },
   "sheets": [
     [
       "aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9",
       "sdm27ev-vcu-v1"
+    ],
+    [
+      "6a2ee1fd-03b1-4da7-bb6a-9a75b73da95c",
+      "Power"
+    ],
+    [
+      "977c91ee-781b-48c9-8e40-db1deadd4721",
+      "CAN"
+    ],
+    [
+      "94470ab9-6bce-420a-9cac-af2dd8684221",
+      "Analog"
     ]
   ],
   "text_variables": {},
