@@ -2,4 +2,4 @@
 	branch = main
 	path = vcu-firm
 	url = https://github.com/ilya-tate/sdm-vcu-firm.git
-
+# Run submodule-relink.sh to update to most recent sdm-vcu-firm commit
