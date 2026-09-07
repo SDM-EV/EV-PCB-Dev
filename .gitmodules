@@ -1,6 +1,5 @@
 [submodule "sdm-vcu-firm"]
+	branch = main
 	path = vcu-firm
 	url = https://github.com/ilya-tate/sdm-vcu-firm.git
-	branch = main
-[submodules "sd-vcu-firm"]
-	branch = main
+
