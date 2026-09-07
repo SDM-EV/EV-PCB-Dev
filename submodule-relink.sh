@@ -1,9 +1,14 @@
 #!/bin/bash
 
-# Pulls from sdm-vcu-firm@main
-cd vcu-firm && git checkout main && git pull && cd ..;
+# Init
+set -e
+cd "$(dirname "$0")"
 
-# Update link to most recent commit
-git add vcu-firm && git commit -m "vcu-firm@main link bump";
-git pull && git push
+# Pulls from sdm-vcu-firm@main
+git -C vcu-firm checkout main
+git -C vcu-firm pull
+
+
+# Update link
+git add vcu-firm && git diff --cached --quiet || git commit -m "vcu-firm@main link bump" && git push
 
