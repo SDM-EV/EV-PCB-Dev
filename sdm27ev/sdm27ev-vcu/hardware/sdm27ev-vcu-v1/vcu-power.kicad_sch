@@ -4776,6 +4776,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 95.25) (xy 147.32 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "678e3536-bbf1-414d-a652-c3aef9cac0ea")
+	)
+	(wire
+		(pts
 			(xy 33.02 128.27) (xy 33.02 130.81)
 		)
 		(stroke
@@ -5354,6 +5364,16 @@
 		)
 		(uuid "ffb119a2-4567-409c-9312-d132e57cf8d4")
 	)
+	(label "SDA"
+		(at 25.4 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4aa8c310-6bba-4625-94f5-6004dd6e9b2f")
+	)
 	(label "USB_D-"
 		(at 67.31 54.61 180)
 		(effects
@@ -5375,6 +5395,16 @@
 		(uuid "5dad7b9b-4abf-4562-b96c-58877914983e")
 	)
 	(label "SCL"
+		(at 25.4 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "686cf920-4a9d-4200-8b12-d2f65946bd71")
+	)
+	(label "SCL"
 		(at 93.98 52.07 180)
 		(effects
 			(font
@@ -5383,6 +5413,16 @@
 			(justify right bottom)
 		)
 		(uuid "6d4a5717-a6fd-452f-9832-9f9e2a7ac7e9")
+	)
+	(label "USB_D+"
+		(at 25.4 35.56 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "9eeccc3c-7ab6-4462-a228-b594b0aa9312")
 	)
 	(label "SDA"
 		(at 93.98 49.53 180)
@@ -5393,6 +5433,130 @@
 			(justify right bottom)
 		)
 		(uuid "b4e4bd62-a451-4ce7-9dc3-77c0abb41c04")
+	)
+	(label "USB_D-"
+		(at 25.4 38.1 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbe53d83-52be-4815-ac73-ebe8b896fd12")
+	)
+	(global_label "3.3V"
+		(shape input)
+		(at 152.4 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6ad95969-1b20-4bc6-a35a-f3c2c5e8f122")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.4976 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 152.4 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8a46cb9e-f574-4d39-ba74-cedcd1afee05")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.2557 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(hierarchical_label "USB_D+"
+		(shape input)
+		(at 25.4 35.56 180)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify right)
+		)
+		(uuid "4183bc13-3a9c-415f-9c95-c336926d5b62")
+	)
+	(hierarchical_label "SDA"
+		(shape input)
+		(at 25.4 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "631466d8-178f-4721-9de9-74a208633c2a")
+	)
+	(hierarchical_label "5VA"
+		(shape input)
+		(at 25.4 22.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a8ccf768-52af-4189-ac9e-4cda9348aefd")
+	)
+	(hierarchical_label "USB_D-"
+		(shape input)
+		(at 25.4 38.1 180)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify right)
+		)
+		(uuid "c927d68c-0f8d-4e45-8480-00ff4bfc9924")
+	)
+	(hierarchical_label "SCL"
+		(shape input)
+		(at 25.4 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d82d3ab3-adec-4fb8-92f5-c1dfe9e3bb32")
+	)
+	(hierarchical_label "12V"
+		(shape input)
+		(at 25.4 27.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ebf305db-8a66-42a4-9d1c-656bf99f50e0")
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -7564,6 +7728,160 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 152.4 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5bb63220-cca7-4a4e-abb1-336fdacbf02c")
+		(property "Reference" "#PWR066"
+			(at 152.4 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 103.886 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 152.4 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8bb444b-8c2e-490c-883b-07a74f9d3053")
+		)
+		(instances
+			(project "sdm27ev-vcu-v1"
+				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/6a2ee1fd-03b1-4da7-bb6a-9a75b73da95c"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 25.4 27.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5e050119-5e09-4298-902b-14a4d11649c6")
+		(property "Reference" "#PWR067"
+			(at 25.4 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12V"
+			(at 25.4 24.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 25.4 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "94562815-d608-4388-a267-d95413d35682")
+		)
+		(instances
+			(project "sdm27ev-vcu-v1"
+				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/6a2ee1fd-03b1-4da7-bb6a-9a75b73da95c"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 49.53 143.51 0)
 		(unit 1)
 		(body_style 1)
@@ -8142,7 +8460,7 @@
 				)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "5VA"
 			(at 119.38 124.968 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10038,6 +10356,83 @@
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/6a2ee1fd-03b1-4da7-bb6a-9a75b73da95c"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 25.4 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d1789cc7-6692-4c83-a46d-ef2cdfe3d6ef")
+		(property "Reference" "#PWR068"
+			(at 25.4 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5VA"
+			(at 25.4 19.558 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 25.4 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1ee15bb3-2cda-4e40-99b0-a62f78af3c7b")
+		)
+		(instances
+			(project "sdm27ev-vcu-v1"
+				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/6a2ee1fd-03b1-4da7-bb6a-9a75b73da95c"
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
