@@ -33,6 +33,7 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -62,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "SDM27 EV VCU V1.kicad_prl",
+    "filename": "sdm27ev-vcu-v1.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -93,12 +94,12 @@
     "col_widths": [
       162,
       147,
+      98,
+      79,
       91,
-      67,
+      99,
       91,
-      91,
-      91,
-      71,
+      83,
       91,
       91
     ],
