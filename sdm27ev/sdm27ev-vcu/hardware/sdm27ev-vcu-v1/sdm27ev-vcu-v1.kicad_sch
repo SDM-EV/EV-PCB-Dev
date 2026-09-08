@@ -7729,8 +7729,7 @@
 	)
 	(symbol
 		(lib_id "EV VCU:6437288-1")
-		(at 116.84 177.8 90)
-		(mirror x)
+		(at 254 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7740,7 +7739,7 @@
 		(dnp no)
 		(uuid "1f31f9b9-9418-462d-b42d-a628684db906")
 		(property "Reference" "J2"
-			(at 90.17 179.0701 90)
+			(at 246.126 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7751,7 +7750,7 @@
 			)
 		)
 		(property "Value" "6437288-1"
-			(at 90.17 176.5301 90)
+			(at 246.126 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7762,7 +7761,7 @@
 			)
 		)
 		(property "Footprint" "SDM27 EV VCU:TE_6437288-1"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7774,7 +7773,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7785,7 +7784,7 @@
 			)
 		)
 		(property "Description" "34 Position 4 Row Right Angle Receptacle Through Hole Super Seal Cap Assy"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7797,7 +7796,7 @@
 			)
 		)
 		(property "COMMENT" "6437288-1"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7809,7 +7808,7 @@
 			)
 		)
 		(property "MF" "TE Connectivity"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7821,7 +7820,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7833,7 +7832,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7845,7 +7844,7 @@
 			)
 		)
 		(property "TE_PURCHASE_URL" "https://www.te.com/usa-en/product-6437288-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7857,7 +7856,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommended"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7869,7 +7868,7 @@
 			)
 		)
 		(property "PARTREV" "A1"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7881,7 +7880,7 @@
 			)
 		)
 		(property "MP" "6437288-1"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7893,7 +7892,7 @@
 			)
 		)
 		(property "EU_ROHS_COMPLIANCE" "Compliant"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7905,7 +7904,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 116.84 177.8 0)
+			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9403,8 +9402,7 @@
 	)
 	(symbol
 		(lib_id "EV VCU:6437288-1")
-		(at 53.34 177.8 90)
-		(mirror x)
+		(at 254 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9414,7 +9412,7 @@
 		(dnp no)
 		(uuid "6e0c1a1e-9b7c-4d2a-82ad-c814099efdfa")
 		(property "Reference" "J1"
-			(at 26.67 179.0701 90)
+			(at 246.38 47.244 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9425,7 +9423,7 @@
 			)
 		)
 		(property "Value" "6437288-1"
-			(at 26.67 176.5301 90)
+			(at 246.38 49.784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9436,7 +9434,7 @@
 			)
 		)
 		(property "Footprint" "SDM27 EV VCU:TE_6437288-1"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9448,7 +9446,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9459,7 +9457,7 @@
 			)
 		)
 		(property "Description" "34 Position 4 Row Right Angle Receptacle Through Hole Super Seal Cap Assy"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9471,7 +9469,7 @@
 			)
 		)
 		(property "COMMENT" "6437288-1"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9483,7 +9481,7 @@
 			)
 		)
 		(property "MF" "TE Connectivity"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9495,7 +9493,7 @@
 			)
 		)
 		(property "PACKAGE" "None"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9507,7 +9505,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9519,7 +9517,7 @@
 			)
 		)
 		(property "TE_PURCHASE_URL" "https://www.te.com/usa-en/product-6437288-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9531,7 +9529,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommended"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9543,7 +9541,7 @@
 			)
 		)
 		(property "PARTREV" "A1"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9555,7 +9553,7 @@
 			)
 		)
 		(property "MP" "6437288-1"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9567,7 +9565,7 @@
 			)
 		)
 		(property "EU_ROHS_COMPLIANCE" "Compliant"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9579,7 +9577,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 53.34 177.8 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
