@@ -4514,6 +4514,12 @@
 			(uuid "cdbba0bb-2f04-457c-8c3f-a41f7d975ef4")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC9")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC9")
@@ -4595,6 +4601,12 @@
 			(uuid "5aa9b310-7922-4290-8e7a-c2ffbf3590dc")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C24")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C24")
@@ -4773,6 +4785,12 @@
 			(uuid "ddeb529c-db89-41b6-85ff-a1ecdb3b9993")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC7")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC7")
@@ -4921,6 +4939,12 @@
 			(uuid "50fac68d-1dda-4eb4-a666-91a9e93cbd93")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC12")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC12")
@@ -4998,6 +5022,12 @@
 			(uuid "280b8a5e-1b0b-4b01-bc80-67d6307b8193")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR051")
@@ -5075,6 +5105,12 @@
 			(uuid "66f71499-781c-493f-961a-3f0f5b0ae850")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR056")
@@ -5235,6 +5271,12 @@
 			(uuid "666c9220-dd12-4dac-9536-61cec32986b2")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC13")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC13")
@@ -5312,6 +5354,12 @@
 			(uuid "cdff9cc9-349f-4311-89a3-ab3360961282")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR042")
@@ -5389,6 +5437,12 @@
 			(uuid "4c390f59-bb23-47b6-b783-ec03c168e014")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR045")
@@ -5419,7 +5473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "100"
 			(at 130.81 147.066 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5470,6 +5524,12 @@
 			(uuid "e76b3012-49ec-438d-8298-73a14778993a")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R42")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R42")
@@ -5500,7 +5560,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "100"
 			(at 130.81 108.966 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5551,6 +5611,12 @@
 			(uuid "4bfc3692-e92d-435b-84bc-a067b6af5d12")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R41")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R41")
@@ -5628,6 +5694,12 @@
 			(uuid "22942b76-02c5-4c24-9df4-98bf44faa9d7")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR052")
@@ -5705,6 +5777,12 @@
 			(uuid "7ff127d5-ae96-4e1f-9849-3312e51d342f")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR050")
@@ -5782,6 +5860,12 @@
 			(uuid "acc113fd-d124-43e2-b9fa-e47b08fd876b")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR065")
@@ -5859,6 +5943,12 @@
 			(uuid "3931ddbf-f9e5-42bd-9d05-7f933a034a3d")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR062")
@@ -5940,6 +6030,12 @@
 			(uuid "353d3839-af31-4efa-8e15-15eda4f17d73")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C31")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C31")
@@ -6022,6 +6118,12 @@
 			(uuid "974f9867-472e-4f3e-b578-e22f6f90a8a8")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C22")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C22")
@@ -6103,6 +6205,12 @@
 			(uuid "03604a52-e945-4c57-89fa-a4a1c1288823")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C23")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C23")
@@ -6251,6 +6359,12 @@
 			(uuid "ccc9dd49-83a7-45aa-952c-8fdb0a5932c6")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "Y1")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "Y1")
@@ -6332,6 +6446,12 @@
 			(uuid "07129ef4-bced-4a0c-b90b-b8fabf3d2110")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C27")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C27")
@@ -6492,6 +6612,12 @@
 			(uuid "3aca0924-02b3-4513-b8fa-76c42728f7ab")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC11")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC11")
@@ -6569,6 +6695,12 @@
 			(uuid "4883cd09-36bd-48e1-9e35-5a49403caa72")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR043")
@@ -6646,6 +6778,12 @@
 			(uuid "2e9d5fe0-be2e-46ec-9da0-753fc09eb9f7")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR049")
@@ -6728,6 +6866,12 @@
 			(uuid "204fc457-e7e7-4b00-9726-f7a541a002bd")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R38")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R38")
@@ -6810,6 +6954,12 @@
 			(uuid "1fc0c886-b3e8-4774-9b0c-01e92681822f")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R37")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R37")
@@ -6887,6 +7037,12 @@
 			(uuid "d3072456-eb34-4f7a-b0b7-6b6b6ce34ea3")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR044")
@@ -7035,6 +7191,12 @@
 			(uuid "843b8c3e-050d-4e15-a01d-ef7fd98f3bd2")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "Y2")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "Y2")
@@ -7112,6 +7274,12 @@
 			(uuid "e4aac23b-2841-438d-9f6b-40603428da21")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR048")
@@ -7260,6 +7428,12 @@
 			(uuid "a76419ce-9474-42b4-b9e2-5acb5eb52284")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC14")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC14")
@@ -7342,6 +7516,12 @@
 			(uuid "75fadffa-6308-4b9f-b961-c06914259906")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R43")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R43")
@@ -7419,6 +7599,12 @@
 			(uuid "2beeafc0-c734-4a78-bdba-3d6832c97abc")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR058")
@@ -7500,6 +7686,12 @@
 			(uuid "c7a2b8b9-b2f9-4d3a-b9ca-bec22e5a23e4")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C33")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C33")
@@ -7577,6 +7769,12 @@
 			(uuid "3c6c6cde-84f1-429d-8ee3-1f5413042939")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR060")
@@ -7607,7 +7805,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "100"
 			(at 130.81 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7658,6 +7856,12 @@
 			(uuid "d29af745-dfac-4ca9-916a-70d38d38ea4a")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R40")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R40")
@@ -7735,6 +7939,12 @@
 			(uuid "b500bace-2319-4755-9a6e-99966103cfb9")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR041")
@@ -7816,6 +8026,12 @@
 			(uuid "4218cd57-5b32-49da-9a83-73696c33ae2c")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C32")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C32")
@@ -7897,6 +8113,12 @@
 			(uuid "263a1cd3-e10b-4edc-b333-dc4415a35e08")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C28")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C28")
@@ -7974,6 +8196,12 @@
 			(uuid "ed086fe4-150d-415c-8ae7-8933d90ff8f7")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR064")
@@ -8051,6 +8279,12 @@
 			(uuid "864bd8a3-97a0-40fb-9c85-eed018fc5672")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR057")
@@ -8128,6 +8362,12 @@
 			(uuid "3d2e33d4-2a7b-4925-8de0-621105fec6c9")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR059")
@@ -8306,6 +8546,12 @@
 			(uuid "144039a1-592f-4092-8c01-62c5d852463e")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC5")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC5")
@@ -8336,7 +8582,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "100"
 			(at 130.81 32.766 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8387,6 +8633,12 @@
 			(uuid "e5ddcdc5-8d08-48d4-90fa-1c78cb35210e")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R39")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R39")
@@ -8468,6 +8720,12 @@
 			(uuid "4022ff5e-e197-4cfe-8b70-6a872cb108bd")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C25")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C25")
@@ -8549,6 +8807,12 @@
 			(uuid "03f00821-24cb-46a0-995a-3c69adbe7f2a")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C30")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C30")
@@ -8631,6 +8895,12 @@
 			(uuid "eab41fe4-2413-4ed4-aa3f-46be520d0a3b")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C26")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C26")
@@ -8708,6 +8978,12 @@
 			(uuid "d3f58b37-58b1-40c9-a653-0a7554137fff")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR046")
@@ -8785,6 +9061,12 @@
 			(uuid "0201d61b-8518-4164-943c-556f83e808c9")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR047")
@@ -8933,6 +9215,12 @@
 			(uuid "691e1f32-bdcf-4ec6-a38e-7cb5f0774337")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC10")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC10")
@@ -9010,6 +9298,12 @@
 			(uuid "6eecde8b-5fe4-4d85-b8b3-8fccdb0c7c6b")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR061")
@@ -9091,6 +9385,12 @@
 			(uuid "75169ba9-38d9-4211-97e0-0320c718255d")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "C29")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "C29")
@@ -9168,6 +9468,12 @@
 			(uuid "c9ebb6b0-251c-45dd-b202-43e291451a73")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR054")
@@ -9245,6 +9551,12 @@
 			(uuid "0876fccb-7af6-48cf-8420-d677eafbc38f")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR053")
@@ -9405,6 +9717,12 @@
 			(uuid "ea823115-e6a8-4108-b7ff-b401f05f9abd")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC8")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC8")
@@ -9487,6 +9805,12 @@
 			(uuid "9cf6d21f-9c41-4588-a8b7-e9ffb0ef6990")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "R44")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "R44")
@@ -9648,6 +9972,12 @@
 			(uuid "b265d84b-3a90-42f4-a367-915ac9c6ddff")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "IC6")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "IC6")
@@ -9725,6 +10055,12 @@
 			(uuid "36ef215b-b6ba-4d20-ac00-eadd33a4f8d8")
 		)
 		(instances
+			(project "vcu-can"
+				(path "/70e2ff3e-a151-4862-bc6b-8d8352a3ebd0"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
 			(project "sdm27ev-vcu-v1"
 				(path "/aaff56d4-6a2c-4b9b-8d6c-def2b75cacc9/977c91ee-781b-48c9-8e40-db1deadd4721"
 					(reference "#PWR063")
@@ -9733,4 +10069,10 @@
 			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
