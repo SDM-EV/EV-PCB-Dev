@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EV_Fuse_Board")(type "KiCad")(uri "${KIPRJMOD}/EV_Fuse_Board.kicad_sym")(options "")(descr ""))
+)
