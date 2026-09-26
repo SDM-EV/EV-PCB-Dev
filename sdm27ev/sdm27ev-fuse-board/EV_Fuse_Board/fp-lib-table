@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Fuse_Board")(type "KiCad")(uri "${KIPRJMOD}/EV_Fuse_Bard.pretty")(options "")(descr ""))
+)
