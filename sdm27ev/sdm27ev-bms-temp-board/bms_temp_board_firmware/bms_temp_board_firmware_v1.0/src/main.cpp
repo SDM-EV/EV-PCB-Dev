@@ -31,10 +31,10 @@ const uint32_t ORION_STARTUP_GRACE_MS = 5000;
 // If false, the car is allowed to run as soon as all the checks pass.
 // A start is refused while there's any fault. It never overrides a fault
 // and never clears a latched fault, only a power cycle does that.
-const bool REQUIRE_MANUAL_START = true;
+const bool REQUIRE_MANUAL_START = false;
 
 // temperature limit, check the rulebook
-const float OVERTEMP_C = 60.0;
+const float OVERTEMP_C = 58.0; //2C below the 60C cell/rule limit to allow for measurement error
 
 // divider and thermistor
 const float VREF_MV = 3300.0;   // measure the 3.3V rail and update this
