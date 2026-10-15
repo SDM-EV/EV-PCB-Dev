@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TR1-2410TD750-R") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/TR1-2410TD750-R.pretty") (options "") (descr ""))
+	(lib (name "TR1-2410TD750-R2") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/TR1-2410TD750-R.pretty") (options "") (descr ""))
+	(lib (name "Fuse") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/Fuse") (options "") (descr ""))
+	(lib (name "Fuseplease") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/Fuseplease.pretty") (options "") (descr ""))
+	(lib (name "BM07B_GHS_TBT") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/BM07B_GHS_TBT") (options "") (descr ""))
+	(lib (name "S13B-XASK-1") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/S13B-XASK-1.pretty") (options "") (descr ""))
+)

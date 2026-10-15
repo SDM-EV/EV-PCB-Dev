@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BM07B-GHS-TBT") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/BM07B_GHS_TBT/BM07B-GHS-TBT.kicad_sym") (options "") (descr ""))
+	(lib (name "SM07B-GHS-TB") (type "KiCad") (uri "${SDM_EV_PCB_DEV_GITHUB}/sdm27ev/sdm27ev-cell-tap-fuses/SM07B_GHS_TB/SM07B-GHS-TB.kicad_sym") (options "") (descr ""))
+)
