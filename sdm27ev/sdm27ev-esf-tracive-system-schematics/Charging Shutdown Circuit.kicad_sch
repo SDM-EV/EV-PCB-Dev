@@ -2228,6 +2228,16 @@
 	)
 	(polyline
 		(pts
+			(xy 114.3 40.64) (xy 114.3 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7961f9c2-a9e7-4020-aac2-bb598c46ad31")
+	)
+	(polyline
+		(pts
 			(xy 48.26 30.48) (xy 215.9 30.48)
 		)
 		(stroke
@@ -2486,6 +2496,16 @@
 			(color 226 207 62 1)
 		)
 		(uuid "a6d99635-1195-4d26-b30f-67f36ce1b854")
+	)
+	(polyline
+		(pts
+			(xy 106.68 40.64) (xy 114.3 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "accacf74-0fcb-4c59-983b-ada171234d05")
 	)
 	(wire
 		(pts
